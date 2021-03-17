@@ -25,3 +25,7 @@ body {
 .links a {
     display: block;
 }
+
+.sort {
+    vertical-align: middle;
+}

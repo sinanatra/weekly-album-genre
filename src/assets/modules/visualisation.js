@@ -1,6 +1,6 @@
+import { sort } from 'd3';
+
 const d3 = require('d3');
-import { nest } from 'd3-collection';
-import * as d3Collection from 'd3-collection';
 
 const Visualisation = {
     init: () => {
@@ -32,16 +32,17 @@ const Visualisation = {
                     .text((d) => d.genre)
                     .attr('class', 'words')
                     .attr('attr', (d) => d.genre)
-                    .style('padding-left', (d) => d3.randomUniform(60)() + '%')
+                    .style('min-width', (d) => d3.randomUniform(60)() + '%')
+                    .style('text-align', 'right')
                     .style('background', (d) => randomColor())
-                    .on("click", function (d) {                        
+                    .on("click", function (d) {
                         var active = d.path[0].active ? true : false,
-                        newOpacity = active ? 0 : 1;
+                            newOpacity = active ? 0 : 1;
                         d3.select(".links").style("opacity", newOpacity);
                         d.path[0].active = active;
                         addElement(d.path[0])
                     })
-   
+
 
                 function addElement(elem) {
                     d3.selectAll('.links').remove()
@@ -52,14 +53,20 @@ const Visualisation = {
                             let albums = ''
                             d.albums.forEach(element => {
                                 // albums += '<a class="iframes" target="_blank" href=' + element + '>' + 'Listen' + '</a>'
-                                albums += "<iframe src=https://open.spotify.com/embed/album/"+element+ " width='300' height='80' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>"
+                                albums += "<iframe src=https://open.spotify.com/embed/album/" + element + " width='300' height='80' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>"
                             });
                             return albums
                         })
                 }
-
             })
 
+        d3.select(".sort")
+            .on("click", function (d) {
+                d3.selectAll('.words')
+                    .style('min-width', function (d) {
+                        return d.albums.length * 4 + '%';
+                    })
+            })
     }
 };
 
