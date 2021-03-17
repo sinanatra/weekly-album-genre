@@ -6,4 +6,4 @@ To start create a clone of the repository:
 
 Launch `yarn` to install the dependencies and `yarn watch` to launch the server
 
-Run the ipython notebook inside `./notebooks` to create a newer dataset.
+Run the ipython notebook inside `./notebooks` to create a new dataset.
