@@ -1,19 +1,9 @@
 ### Setup
 
-This repo is my own yarn starterkit, to start create a bare clone of the repository:
+To start create a clone of the repository:
 
-`git clone --bare git@github.com:sinanatra/yarn-starterkit.git `
+`git clone git@github.com:sinanatra/weekly-album-genre.git`
 
-Mirror-push to the new repository:
+Launch `yarn` to install the dependencies and `yarn watch` to launch the server
 
-`cd yarn-starterkit.git`
-
-` git push --mirror  git@github.com:NEWREPOSITORY`
-
-Remove the temporary local repository you created earlier:
-
-`cd ..`
-
-`rm -rf yarn-starterkit.git`
-
-Then clone the new repository launch `yarn` to install the dependencies and `yarn watch` to launch the server
+Run the ipython notebook inside `./notebooks` to create a newer dataset.
