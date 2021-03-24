@@ -4,23 +4,22 @@ const d3 = require('d3');
 
 const Visualisation = {
     init: () => {
-        d3.json("https://raw.githubusercontent.com/sinanatra/weekly-album-genre/master/data.json?token=AEZNEYZMVMMW745LI44ACBDALNRAA")
+        let sortData;
+        d3.json("https://raw.githubusercontent.com/sinanatra/weekly-album-genre/master/data.json")
             .then(function (data) {
                 const dataKeys = Object.keys(data)
 
                 let newData = []
                 dataKeys.forEach(element => {
-
                     let line = data[element]
                     let newJson = {
                         genre: element,
                         albums: line
                     }
-
                     newData.push(newJson)
                 });
 
-                let sortData = newData.sort(function (a, b) { return b.albums.length - a.albums.length });
+                sortData = newData.sort(function (a, b) { return b.albums.length - a.albums.length });
                 console.log(sortData);
 
                 const svg = d3.select("#visualisation")
@@ -32,7 +31,7 @@ const Visualisation = {
                     .text((d) => d.genre)
                     .attr('class', 'words')
                     .attr('attr', (d) => d.genre)
-                    .style('min-width', (d) => d3.randomUniform(60)() + '%')
+                    .style('width', (d) => d3.randomUniform(99)() + '%')
                     .style('text-align', 'right')
                     .style('background', (d) => randomColor())
                     .on("click", function (d) {
@@ -60,12 +59,24 @@ const Visualisation = {
                 }
             })
 
+        let toggled = 'false'
         d3.select(".sort")
             .on("click", function (d) {
-                d3.selectAll('.words')
-                    .style('min-width', function (d) {
-                        return d.albums.length * 4 + '%';
-                    })
+                if (toggled == 'false') {
+                    toggled = 'true'
+                    d3.selectAll('.words')
+                        .style('width', function (d) {
+                            let percentage = Math.round(d.albums.length * 99 / sortData[0].albums.length) + "%";
+                            return percentage ;
+                        })
+                }
+                else {
+                    toggled = 'false'
+                    d3.selectAll('.words')
+                        .style('width', function (d) {
+                            return d3.randomUniform(80)() + '%';
+                        })
+                }
             })
     }
 };
@@ -74,7 +85,7 @@ export default Visualisation;
 
 
 var randomColor = (function () {
-    var golden_ratio_conjugate = 0.98;
+    var golden_ratio_conjugate = .98;
     var h = Math.random();
 
     var hslToRgb = function (h, s, l) {
