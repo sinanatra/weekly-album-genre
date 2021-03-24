@@ -4,7 +4,7 @@ const d3 = require('d3');
 
 const Visualisation = {
     init: () => {
-        d3.json("./src/assets/data.json")
+        d3.json("https://raw.githubusercontent.com/sinanatra/weekly-album-genre/master/data.json?token=AEZNEYZMVMMW745LI44ACBDALNRAA")
             .then(function (data) {
                 const dataKeys = Object.keys(data)
 

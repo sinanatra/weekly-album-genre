@@ -41,9 +41,6 @@ for albumID in albumIDs:
         album = sp.album(albumID)
         artistID = album['artists'][0]['id']
         artist = sp.artist(artistID)
-
-        print("genres:", artist['genres'])
-
         for i in artist['genres']:
             if i not in dictionary:
                 dictionary[i] = [ albumID]
