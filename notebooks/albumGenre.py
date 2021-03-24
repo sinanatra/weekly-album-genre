@@ -5,6 +5,7 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import time
 import json
+import os
 
 url = "https://album.giacomonanni.info/"
 
