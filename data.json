@@ -56,6 +56,13 @@
         "4I9skhRTov4hKAxAgoclt3",
         "2lkSyyfAi4ctpSfpZdKkQx"
     ],
+    "neo-psychedelic": [
+        "120nAPsuLm0jxpTnlmbHEr",
+        "2asqm6ydqbRKZKbXfGIhrX",
+        "6L8aSt5Qna8BorAnX9NPGK",
+        "6kOJder0EbgQU4OsmkD5US",
+        "5g5l9entA4bTztfpLJd1kS"
+    ],
     "japanese post-punk": [
         "0SoReOwOQi9LveNkrXbzzf"
     ],
@@ -251,11 +258,14 @@
         "3a9qH2VEsSiOZvMrjaS0Nu",
         "1ZKbjlrUC5REoa13uSH5KL",
         "50sj9IKfG3XsGirn9fu6jl",
-        "40lqihqmkBdwM0QczKnoME",
         "6dFFcYQ8VhifgdKgYY5LYL"
     ],
     "hip pop": [
         "5g9YhHW8tE7Tcslgxsk5u9"
+    ],
+    "indie r&b": [
+        "5g9YhHW8tE7Tcslgxsk5u9",
+        "3UvD4QNv5b0vW9G2ZHfjsu"
     ],
     "neo soul": [
         "5g9YhHW8tE7Tcslgxsk5u9",
@@ -318,6 +328,7 @@
     ],
     "alternative dance": [
         "755yBlrk0Sz8tIgMMTgyr1",
+        "2go9ZhAvccCfjThGINq3yr",
         "5frLkVBweO9UCLylStxJka",
         "3q5CZdmVxP6hE0mlBcYEU1",
         "0lQg5cOxb9i4ArScHaSbFL"
@@ -333,6 +344,7 @@
     ],
     "new rave": [
         "755yBlrk0Sz8tIgMMTgyr1",
+        "2go9ZhAvccCfjThGINq3yr",
         "5frLkVBweO9UCLylStxJka",
         "3q5CZdmVxP6hE0mlBcYEU1",
         "75vFTgDgdfVhbniLoyCNKh",
@@ -440,7 +452,8 @@
         "5V9HrJ2u1noLUk0V4HF8uM"
     ],
     "drone": [
-        "5V9HrJ2u1noLUk0V4HF8uM"
+        "5V9HrJ2u1noLUk0V4HF8uM",
+        "1hOgPjM2AP2zUJnaXmmEGb"
     ],
     "electro": [
         "5V9HrJ2u1noLUk0V4HF8uM"
@@ -642,12 +655,6 @@
         "6kOJder0EbgQU4OsmkD5US",
         "7BJBgg2OqbLnNkuCBaabR3"
     ],
-    "neo-psychedelic": [
-        "2asqm6ydqbRKZKbXfGIhrX",
-        "6L8aSt5Qna8BorAnX9NPGK",
-        "6kOJder0EbgQU4OsmkD5US",
-        "5g5l9entA4bTztfpLJd1kS"
-    ],
     "noise pop": [
         "2asqm6ydqbRKZKbXfGIhrX",
         "4I9skhRTov4hKAxAgoclt3",
@@ -665,9 +672,6 @@
     ],
     "punk blues": [
         "2asqm6ydqbRKZKbXfGIhrX"
-    ],
-    "indie r&b": [
-        "3UvD4QNv5b0vW9G2ZHfjsu"
     ],
     "experimental indie rock": [
         "4I9skhRTov4hKAxAgoclt3"
@@ -706,9 +710,6 @@
     ],
     "multidisciplinary": [
         "3mAE83dKTwjGmGaK2wP3tu"
-    ],
-    "neo r&b": [
-        "04kN5iKwGoYMSkr9cPZrWp"
     ],
     "minimal techno": [
         "2go9ZhAvccCfjThGINq3yr"
@@ -818,6 +819,9 @@
     ],
     "singer-songwriter": [
         "0fO1KemWL2uCCQmM22iKlj"
+    ],
+    "classic soul": [
+        "62ARw44PcqIkxP5PvGEwW6"
     ],
     "jazz funk": [
         "62ARw44PcqIkxP5PvGEwW6",
