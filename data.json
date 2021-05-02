@@ -100,7 +100,6 @@
         "3KeR5BDM2giFr8zoSXBrgE",
         "2asqm6ydqbRKZKbXfGIhrX",
         "4I9skhRTov4hKAxAgoclt3",
-        "7imORAK8Qa40pbKJILg8BT",
         "6wZqyr0yloM7DZ76mht4S1",
         "6kOJder0EbgQU4OsmkD5US",
         "5X0bIKvPtSDo4NpXqgrB6p",
@@ -128,6 +127,7 @@
         "0Diq2A7FjraCWgDW1B5u9S",
         "0UMuX8pRsyfSkv0gPJMipQ",
         "2lkSyyfAi4ctpSfpZdKkQx",
+        "0YNcv2znQ6teI7ExnFPb3Z",
         "1X0Na8DRV5U6G9grTPDWKF",
         "58HB0yjdQE2MH5MrfWt4EO"
     ],
@@ -164,7 +164,6 @@
         "7fQtF6nueGmgPXajwcATgJ",
         "2asqm6ydqbRKZKbXfGIhrX",
         "4I9skhRTov4hKAxAgoclt3",
-        "2lkSyyfAi4ctpSfpZdKkQx",
         "6kOJder0EbgQU4OsmkD5US",
         "7BJBgg2OqbLnNkuCBaabR3"
     ],
@@ -182,6 +181,7 @@
         "6NtEjhPWfZcvJQuvjGX4bk",
         "2xECuqnvvmVktV7UO8Dd3s",
         "1LfkcrlTnQqx2AhHtuhJhB",
+        "0fO1KemWL2uCCQmM22iKlj",
         "2CISL0rSGzbO0MbQMlqBez",
         "6wZqyr0yloM7DZ76mht4S1",
         "07qr8dMQJeFc3HluFiTrhV",
@@ -199,10 +199,6 @@
     ],
     "one-person band": [
         "6clr8IqVLP2qcYxJpgSfrt"
-    ],
-    "stomp and holler": [
-        "6clr8IqVLP2qcYxJpgSfrt",
-        "3pjk4sukkPuJXmRhvvYEhO"
     ],
     "french indie pop": [
         "1u2Q5MFWptOdPpldjC0xO9"
@@ -243,7 +239,6 @@
         "3xt8egQistHqjJpAayoZz3",
         "35CHoLB0GEwYlOomriifC6",
         "6QrGmXbUtjyekuW83gXBBb",
-        "59GRmAvlGs7KjLizFnV7Y9",
         "5FQ4sOGqRWUA5wO20AwPcO",
         "3q5CZdmVxP6hE0mlBcYEU1",
         "2u6HB59fEXPPk3YVBGfQIZ",
@@ -287,6 +282,9 @@
         "3pjk4sukkPuJXmRhvvYEhO",
         "3KeR5BDM2giFr8zoSXBrgE"
     ],
+    "stomp and holler": [
+        "3pjk4sukkPuJXmRhvvYEhO"
+    ],
     "chamber pop": [
         "120nAPsuLm0jxpTnlmbHEr",
         "0QURjDbfsPsDa5R4sgkjV9",
@@ -300,8 +298,6 @@
         "0QURjDbfsPsDa5R4sgkjV9",
         "2PfgptDcfJTFtoZIS3AukX",
         "3KeR5BDM2giFr8zoSXBrgE",
-        "1w857brUeHQfcPpjCd3wHQ",
-        "7oRbRS0ovxoUtuE1g3fYwY",
         "4Uzll2pB5SnmC0rulgDHyB",
         "1GmdNCH9lvYzn0ZgtG8Mpa",
         "64tlHrwYQoCnCyG46SVQk7"
@@ -313,6 +309,13 @@
         "1hOgPjM2AP2zUJnaXmmEGb",
         "7hfURFEt6v97pRmxTsoSHS",
         "2hYmcjIinZoVCog5sP4k0H"
+    ],
+    "neo-psychedelic": [
+        "120nAPsuLm0jxpTnlmbHEr",
+        "2asqm6ydqbRKZKbXfGIhrX",
+        "6L8aSt5Qna8BorAnX9NPGK",
+        "6kOJder0EbgQU4OsmkD5US",
+        "5g5l9entA4bTztfpLJd1kS"
     ],
     "japanese alternative rock": [
         "0SoReOwOQi9LveNkrXbzzf",
@@ -508,10 +511,6 @@
         "2go9ZhAvccCfjThGINq3yr",
         "3fDOKKGXHv4CsGCOTv4W3z"
     ],
-    "minimal techno": [
-        "5bOYK3R5KjuG6CEInqWF0w",
-        "2go9ZhAvccCfjThGINq3yr"
-    ],
     "tech house": [
         "5bOYK3R5KjuG6CEInqWF0w"
     ],
@@ -550,6 +549,9 @@
     "ambient techno": [
         "5V9HrJ2u1noLUk0V4HF8uM"
     ],
+    "deep idm": [
+        "5V9HrJ2u1noLUk0V4HF8uM"
+    ],
     "drill and bass": [
         "5V9HrJ2u1noLUk0V4HF8uM"
     ],
@@ -581,6 +583,10 @@
     "ninja": [
         "5V9HrJ2u1noLUk0V4HF8uM",
         "0lQg5cOxb9i4ArScHaSbFL"
+    ],
+    "outsider house": [
+        "5V9HrJ2u1noLUk0V4HF8uM",
+        "1hOgPjM2AP2zUJnaXmmEGb"
     ],
     "uk experimental electronic": [
         "5V9HrJ2u1noLUk0V4HF8uM"
@@ -724,12 +730,6 @@
     "garage rock": [
         "2asqm6ydqbRKZKbXfGIhrX"
     ],
-    "neo-psychedelic": [
-        "2asqm6ydqbRKZKbXfGIhrX",
-        "6L8aSt5Qna8BorAnX9NPGK",
-        "6kOJder0EbgQU4OsmkD5US",
-        "5g5l9entA4bTztfpLJd1kS"
-    ],
     "psychedelic punk": [
         "2asqm6ydqbRKZKbXfGIhrX"
     ],
@@ -771,6 +771,12 @@
     ],
     "multidisciplinary": [
         "3mAE83dKTwjGmGaK2wP3tu"
+    ],
+    "broken beat": [
+        "04kN5iKwGoYMSkr9cPZrWp"
+    ],
+    "minimal techno": [
+        "2go9ZhAvccCfjThGINq3yr"
     ],
     "chillwave": [
         "5frLkVBweO9UCLylStxJka",
@@ -1239,9 +1245,6 @@
         "1hOgPjM2AP2zUJnaXmmEGb"
     ],
     "new isolationism": [
-        "1hOgPjM2AP2zUJnaXmmEGb"
-    ],
-    "outsider house": [
         "1hOgPjM2AP2zUJnaXmmEGb"
     ],
     "minnesota hip hop": [
