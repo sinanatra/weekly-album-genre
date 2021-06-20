@@ -62,6 +62,7 @@
     ],
     "indie pop": [
         "654KFpNOZ26Hj9luu7aKeM",
+        "7fQtF6nueGmgPXajwcATgJ",
         "6clr8IqVLP2qcYxJpgSfrt",
         "6NtEjhPWfZcvJQuvjGX4bk",
         "2xECuqnvvmVktV7UO8Dd3s",
@@ -69,6 +70,7 @@
         "0fO1KemWL2uCCQmM22iKlj",
         "2CISL0rSGzbO0MbQMlqBez",
         "6wZqyr0yloM7DZ76mht4S1",
+        "0UMuX8pRsyfSkv0gPJMipQ",
         "07qr8dMQJeFc3HluFiTrhV",
         "5X0bIKvPtSDo4NpXqgrB6p",
         "58HB0yjdQE2MH5MrfWt4EO"
@@ -81,7 +83,6 @@
         "2PfgptDcfJTFtoZIS3AukX",
         "3KeR5BDM2giFr8zoSXBrgE",
         "2xECuqnvvmVktV7UO8Dd3s",
-        "2mPGrL2ZpzlH6TWa2G0J5h",
         "2asqm6ydqbRKZKbXfGIhrX",
         "1yHEYtYNq2HzkidBICThpW",
         "1LfkcrlTnQqx2AhHtuhJhB",
@@ -165,7 +166,6 @@
         "5kCNU9ouaRoRtQNJrtfavl",
         "5lVgjLzgPHy8wuFYJOxKWA",
         "23SV7P5U8oF3EJfkdW08wO",
-        "6cx4GVNs03Pu4ZczRnWiLd",
         "5fO3IS08lcTw9rfUtkgILv",
         "0HmKhR7Umt3ACs52ZLnKyK",
         "5WfDyog8yO7ZF8JdJxeZfl"
@@ -204,11 +204,15 @@
         "7fQtF6nueGmgPXajwcATgJ",
         "1OCE83C2l4g7kRxTrkSfND"
     ],
+    "dreamo": [
+        "7fQtF6nueGmgPXajwcATgJ"
+    ],
     "escape room": [
         "7fQtF6nueGmgPXajwcATgJ",
         "6clr8IqVLP2qcYxJpgSfrt",
         "5lVgjLzgPHy8wuFYJOxKWA",
         "23SV7P5U8oF3EJfkdW08wO",
+        "3UvD4QNv5b0vW9G2ZHfjsu",
         "2KICtQ7dqaaot7B1yN9wPq",
         "3a9qH2VEsSiOZvMrjaS0Nu",
         "6cx4GVNs03Pu4ZczRnWiLd",
@@ -226,7 +230,8 @@
         "5WfDyog8yO7ZF8JdJxeZfl",
         "5NzK7S7oQQnO8eLRf7kDJx",
         "6dFFcYQ8VhifgdKgYY5LYL",
-        "0YF8PfcGbsKg5IaFyPnlyY"
+        "0YF8PfcGbsKg5IaFyPnlyY",
+        "7hfURFEt6v97pRmxTsoSHS"
     ],
     "experimental pop": [
         "7fQtF6nueGmgPXajwcATgJ",
@@ -468,7 +473,6 @@
     "alternative r&b": [
         "5g9YhHW8tE7Tcslgxsk5u9",
         "3UvD4QNv5b0vW9G2ZHfjsu",
-        "5frLkVBweO9UCLylStxJka",
         "3xt8egQistHqjJpAayoZz3",
         "35CHoLB0GEwYlOomriifC6",
         "2u6HB59fEXPPk3YVBGfQIZ",
@@ -560,12 +564,7 @@
         "5bOYK3R5KjuG6CEInqWF0w",
         "5V9HrJ2u1noLUk0V4HF8uM",
         "2go9ZhAvccCfjThGINq3yr",
-        "75vFTgDgdfVhbniLoyCNKh",
         "3fDOKKGXHv4CsGCOTv4W3z"
-    ],
-    "minimal techno": [
-        "5bOYK3R5KjuG6CEInqWF0w",
-        "2go9ZhAvccCfjThGINq3yr"
     ],
     "tech house": [
         "5bOYK3R5KjuG6CEInqWF0w"
@@ -727,6 +726,11 @@
     "experimental indie": [
         "7MXwYs2b8dEl1wSNtUeEpZ"
     ],
+    "hyperpop": [
+        "7MXwYs2b8dEl1wSNtUeEpZ",
+        "3a9qH2VEsSiOZvMrjaS0Nu",
+        "1ZKbjlrUC5REoa13uSH5KL"
+    ],
     "british soul": [
         "1CTm3ARqDETSm7GfvNYNJp"
     ],
@@ -807,11 +811,17 @@
     "multidisciplinary": [
         "3mAE83dKTwjGmGaK2wP3tu"
     ],
+    "minimal techno": [
+        "2go9ZhAvccCfjThGINq3yr"
+    ],
     "chillwave": [
         "5frLkVBweO9UCLylStxJka",
         "3q5CZdmVxP6hE0mlBcYEU1",
         "1ZKbjlrUC5REoa13uSH5KL",
         "4zrVrsO113smesPZMbBA8I"
+    ],
+    "vapor soul": [
+        "5frLkVBweO9UCLylStxJka"
     ],
     "ai": [
         "2KICtQ7dqaaot7B1yN9wPq"
@@ -834,10 +844,6 @@
     ],
     "candy pop": [
         "3a9qH2VEsSiOZvMrjaS0Nu"
-    ],
-    "hyperpop": [
-        "3a9qH2VEsSiOZvMrjaS0Nu",
-        "1ZKbjlrUC5REoa13uSH5KL"
     ],
     "post-teen pop": [
         "3a9qH2VEsSiOZvMrjaS0Nu",
@@ -887,10 +893,6 @@
         "6QrGmXbUtjyekuW83gXBBb",
         "6dFFcYQ8VhifgdKgYY5LYL"
     ],
-    "uk alternative hip hop": [
-        "6QrGmXbUtjyekuW83gXBBb",
-        "5Ki4YFQrUx7hCcQx1LJUQb"
-    ],
     "wonky": [
         "64tlHrwYQoCnCyG46SVQk7",
         "3fDOKKGXHv4CsGCOTv4W3z",
@@ -903,7 +905,8 @@
         "3MWZECCsGmwto3LGU9IOIA"
     ],
     "lilith": [
-        "0fO1KemWL2uCCQmM22iKlj"
+        "0fO1KemWL2uCCQmM22iKlj",
+        "0UMuX8pRsyfSkv0gPJMipQ"
     ],
     "permanent wave": [
         "0fO1KemWL2uCCQmM22iKlj"
@@ -1127,7 +1130,13 @@
     "rock": [
         "7acEciVtnuTzmwKptkjth5"
     ],
+    "uk alternative hip hop": [
+        "5Ki4YFQrUx7hCcQx1LJUQb"
+    ],
     "uk hip hop": [
+        "5Ki4YFQrUx7hCcQx1LJUQb"
+    ],
+    "underground hip hop": [
         "5Ki4YFQrUx7hCcQx1LJUQb"
     ],
     "philly indie": [
@@ -1153,7 +1162,8 @@
         "0UMuX8pRsyfSkv0gPJMipQ"
     ],
     "riot grrrl": [
-        "0UMuX8pRsyfSkv0gPJMipQ"
+        "0UMuX8pRsyfSkv0gPJMipQ",
+        "1X0Na8DRV5U6G9grTPDWKF"
     ],
     "canadian punk": [
         "2lkSyyfAi4ctpSfpZdKkQx"
