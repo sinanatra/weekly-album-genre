@@ -22,7 +22,6 @@
         "75vFTgDgdfVhbniLoyCNKh",
         "50sj9IKfG3XsGirn9fu6jl",
         "6wZqyr0yloM7DZ76mht4S1",
-        "2u6HB59fEXPPk3YVBGfQIZ",
         "40lqihqmkBdwM0QczKnoME",
         "5a4VSyY7zsfVVqHweYHG7R",
         "5X0bIKvPtSDo4NpXqgrB6p",
@@ -62,7 +61,6 @@
     ],
     "indie pop": [
         "654KFpNOZ26Hj9luu7aKeM",
-        "7fQtF6nueGmgPXajwcATgJ",
         "6clr8IqVLP2qcYxJpgSfrt",
         "6NtEjhPWfZcvJQuvjGX4bk",
         "2xECuqnvvmVktV7UO8Dd3s",
@@ -70,7 +68,6 @@
         "0fO1KemWL2uCCQmM22iKlj",
         "2CISL0rSGzbO0MbQMlqBez",
         "6wZqyr0yloM7DZ76mht4S1",
-        "0UMuX8pRsyfSkv0gPJMipQ",
         "07qr8dMQJeFc3HluFiTrhV",
         "5X0bIKvPtSDo4NpXqgrB6p",
         "58HB0yjdQE2MH5MrfWt4EO"
@@ -124,8 +121,6 @@
         "0QURjDbfsPsDa5R4sgkjV9",
         "2PfgptDcfJTFtoZIS3AukX",
         "3KeR5BDM2giFr8zoSXBrgE",
-        "1w857brUeHQfcPpjCd3wHQ",
-        "7oRbRS0ovxoUtuE1g3fYwY",
         "4Uzll2pB5SnmC0rulgDHyB",
         "64tlHrwYQoCnCyG46SVQk7"
     ],
@@ -214,7 +209,6 @@
         "23SV7P5U8oF3EJfkdW08wO",
         "3UvD4QNv5b0vW9G2ZHfjsu",
         "2KICtQ7dqaaot7B1yN9wPq",
-        "3a9qH2VEsSiOZvMrjaS0Nu",
         "6cx4GVNs03Pu4ZczRnWiLd",
         "35CHoLB0GEwYlOomriifC6",
         "6QrGmXbUtjyekuW83gXBBb",
@@ -297,10 +291,6 @@
     "one-person band": [
         "6clr8IqVLP2qcYxJpgSfrt"
     ],
-    "stomp and holler": [
-        "6clr8IqVLP2qcYxJpgSfrt",
-        "3pjk4sukkPuJXmRhvvYEhO"
-    ],
     "french indie pop": [
         "1u2Q5MFWptOdPpldjC0xO9"
     ],
@@ -370,6 +360,9 @@
     "new americana": [
         "3pjk4sukkPuJXmRhvvYEhO",
         "3KeR5BDM2giFr8zoSXBrgE"
+    ],
+    "stomp and holler": [
+        "3pjk4sukkPuJXmRhvvYEhO"
     ],
     "chamber pop": [
         "120nAPsuLm0jxpTnlmbHEr",
@@ -598,10 +591,6 @@
     "ambient techno": [
         "5V9HrJ2u1noLUk0V4HF8uM"
     ],
-    "bass music": [
-        "5V9HrJ2u1noLUk0V4HF8uM",
-        "3fDOKKGXHv4CsGCOTv4W3z"
-    ],
     "deep idm": [
         "5V9HrJ2u1noLUk0V4HF8uM"
     ],
@@ -746,10 +735,6 @@
         "1CTm3ARqDETSm7GfvNYNJp",
         "3a9qH2VEsSiOZvMrjaS0Nu"
     ],
-    "australian garage punk": [
-        "2asqm6ydqbRKZKbXfGIhrX",
-        "7BJBgg2OqbLnNkuCBaabR3"
-    ],
     "bay area indie": [
         "2asqm6ydqbRKZKbXfGIhrX",
         "4I9skhRTov4hKAxAgoclt3"
@@ -798,6 +783,9 @@
     "chinese experimental": [
         "2bTFTduE9Pteu7HsXqN1eN"
     ],
+    "future bass": [
+        "6lLhOnxSvlUgzvm3a6kByS"
+    ],
     "kawaii future bass": [
         "6lLhOnxSvlUgzvm3a6kByS"
     ],
@@ -819,9 +807,6 @@
         "3q5CZdmVxP6hE0mlBcYEU1",
         "1ZKbjlrUC5REoa13uSH5KL",
         "4zrVrsO113smesPZMbBA8I"
-    ],
-    "vapor soul": [
-        "5frLkVBweO9UCLylStxJka"
     ],
     "ai": [
         "2KICtQ7dqaaot7B1yN9wPq"
@@ -1081,6 +1066,9 @@
     ],
     "oi": [
         "5QS8CXGzZvcmZpw9BDh6cT"
+    ],
+    "bass music": [
+        "3fDOKKGXHv4CsGCOTv4W3z"
     ],
     "canadian electronic": [
         "3fDOKKGXHv4CsGCOTv4W3z"
@@ -1345,6 +1333,9 @@
     ],
     "nz indie": [
         "78pal3TbudCtgq10jJowYs"
+    ],
+    "australian garage punk": [
+        "7BJBgg2OqbLnNkuCBaabR3"
     ],
     "jazz cubano": [
         "2Nvx8NLNOdlUhcWddhfQA4"
