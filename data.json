@@ -9,7 +9,6 @@
         "5DkIhSmABMcjjDh2TJ2Pu9",
         "6AfA0FZhzRTpjDDYHkCd5B",
         "120nAPsuLm0jxpTnlmbHEr",
-        "0QURjDbfsPsDa5R4sgkjV9",
         "2PfgptDcfJTFtoZIS3AukX",
         "3KeR5BDM2giFr8zoSXBrgE",
         "4Uzll2pB5SnmC0rulgDHyB",
@@ -23,9 +22,7 @@
         "5bOYK3R5KjuG6CEInqWF0w",
         "4vXrmwhLpCPaH0ueg0nNXG",
         "5iooBeTrG8wPKMgo7OAOX6",
-        "3UvD4QNv5b0vW9G2ZHfjsu",
         "04kN5iKwGoYMSkr9cPZrWp",
-        "6GJ3n96Nj0u2E6YhAngJko",
         "7imORAK8Qa40pbKJILg8BT",
         "4oxXzA5rNIBilAsmoK88Yg",
         "7JmSCHwa1C3EpuODQlVl8Z",
@@ -47,6 +44,7 @@
         "0GPmuVuCdC5hCsiuy1wXle",
         "35CHoLB0GEwYlOomriifC6",
         "6QrGmXbUtjyekuW83gXBBb",
+        "59GRmAvlGs7KjLizFnV7Y9",
         "5FQ4sOGqRWUA5wO20AwPcO",
         "3q5CZdmVxP6hE0mlBcYEU1",
         "2u6HB59fEXPPk3YVBGfQIZ",
@@ -138,7 +136,6 @@
         "4I9skhRTov4hKAxAgoclt3",
         "6wZqyr0yloM7DZ76mht4S1",
         "6kOJder0EbgQU4OsmkD5US",
-        "5X0bIKvPtSDo4NpXqgrB6p",
         "5g5l9entA4bTztfpLJd1kS",
         "1OCE83C2l4g7kRxTrkSfND"
     ],
@@ -279,6 +276,7 @@
         "6clr8IqVLP2qcYxJpgSfrt",
         "23SV7P5U8oF3EJfkdW08wO",
         "3UvD4QNv5b0vW9G2ZHfjsu",
+        "4I9skhRTov4hKAxAgoclt3",
         "2KICtQ7dqaaot7B1yN9wPq",
         "6cx4GVNs03Pu4ZczRnWiLd",
         "35CHoLB0GEwYlOomriifC6",
@@ -310,8 +308,7 @@
     "stomp and holler": [
         "6clr8IqVLP2qcYxJpgSfrt",
         "3pjk4sukkPuJXmRhvvYEhO",
-        "3KeR5BDM2giFr8zoSXBrgE",
-        "5X0bIKvPtSDo4NpXqgrB6p"
+        "3KeR5BDM2giFr8zoSXBrgE"
     ],
     "french indie pop": [
         "1u2Q5MFWptOdPpldjC0xO9"
@@ -333,6 +330,10 @@
     ],
     "vintage italian soundtrack": [
         "5VWALGguSmp9l3FN2BWcNP"
+    ],
+    "black americana": [
+        "3pjk4sukkPuJXmRhvvYEhO",
+        "3S2GACXwN1hHxSKHxkGvKb"
     ],
     "folk": [
         "3pjk4sukkPuJXmRhvvYEhO"
@@ -368,9 +369,6 @@
     "african-american classical": [
         "4o390Ney50y0UQFTBnnBqi"
     ],
-    "italian lounge": [
-        "3pPOcvur3LCnaTHrdvyJ1I"
-    ],
     "nu jazz": [
         "3pPOcvur3LCnaTHrdvyJ1I"
     ],
@@ -386,10 +384,6 @@
     ],
     "london indie": [
         "2PfgptDcfJTFtoZIS3AukX"
-    ],
-    "modern alternative rock": [
-        "2PfgptDcfJTFtoZIS3AukX",
-        "2lkSyyfAi4ctpSfpZdKkQx"
     ],
     "uk post-punk revival": [
         "2PfgptDcfJTFtoZIS3AukX",
@@ -434,9 +428,7 @@
         "3q5CZdmVxP6hE0mlBcYEU1",
         "75vFTgDgdfVhbniLoyCNKh",
         "3fDOKKGXHv4CsGCOTv4W3z",
-        "4zrVrsO113smesPZMbBA8I",
-        "5a4VSyY7zsfVVqHweYHG7R",
-        "5WfDyog8yO7ZF8JdJxeZfl"
+        "5a4VSyY7zsfVVqHweYHG7R"
     ],
     "uk contemporary r&b": [
         "42joEEymK7EIHODfNB4yug"
@@ -748,9 +740,9 @@
     ],
     "modern rock": [
         "2asqm6ydqbRKZKbXfGIhrX",
-        "1yHEYtYNq2HzkidBICThpW",
         "50sj9IKfG3XsGirn9fu6jl",
-        "2lkSyyfAi4ctpSfpZdKkQx"
+        "2lkSyyfAi4ctpSfpZdKkQx",
+        "07qr8dMQJeFc3HluFiTrhV"
     ],
     "neo-psychedelic": [
         "2asqm6ydqbRKZKbXfGIhrX",
@@ -790,6 +782,9 @@
     ],
     "chinese experimental": [
         "2bTFTduE9Pteu7HsXqN1eN"
+    ],
+    "future bass": [
+        "6lLhOnxSvlUgzvm3a6kByS"
     ],
     "kawaii future bass": [
         "6lLhOnxSvlUgzvm3a6kByS"
@@ -1007,7 +1002,8 @@
         "14elUEgmk0YJEcXn5SYk7h"
     ],
     "italian pop": [
-        "42wflBbrb9OchJfd3qiGRO"
+        "42wflBbrb9OchJfd3qiGRO",
+        "19iZTn6IM82raMquk5Z7Ul"
     ],
     "trap italiana": [
         "42wflBbrb9OchJfd3qiGRO"
@@ -1041,9 +1037,6 @@
     ],
     "rap napoletano": [
         "19iZTn6IM82raMquk5Z7Ul"
-    ],
-    "afrobeat": [
-        "4ygyND85sM13LJdH75qR2v"
     ],
     "afropop": [
         "4ygyND85sM13LJdH75qR2v"
@@ -1193,6 +1186,9 @@
     "chicano punk": [
         "0YNcv2znQ6teI7ExnFPb3Z"
     ],
+    "metallic hardcore": [
+        "0YNcv2znQ6teI7ExnFPb3Z"
+    ],
     "straight edge": [
         "0YNcv2znQ6teI7ExnFPb3Z"
     ],
@@ -1263,6 +1259,9 @@
         "1hOgPjM2AP2zUJnaXmmEGb"
     ],
     "new isolationism": [
+        "1hOgPjM2AP2zUJnaXmmEGb"
+    ],
+    "sound art": [
         "1hOgPjM2AP2zUJnaXmmEGb"
     ],
     "minnesota hip hop": [
