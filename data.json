@@ -9,6 +9,7 @@
         "5DkIhSmABMcjjDh2TJ2Pu9",
         "6AfA0FZhzRTpjDDYHkCd5B",
         "120nAPsuLm0jxpTnlmbHEr",
+        "0QURjDbfsPsDa5R4sgkjV9",
         "2PfgptDcfJTFtoZIS3AukX",
         "3KeR5BDM2giFr8zoSXBrgE",
         "4Uzll2pB5SnmC0rulgDHyB",
@@ -19,7 +20,6 @@
         "6AfA0FZhzRTpjDDYHkCd5B",
         "7dGOyxCI4QXNFxHEpgD4jt",
         "4o390Ney50y0UQFTBnnBqi",
-        "5bOYK3R5KjuG6CEInqWF0w",
         "4vXrmwhLpCPaH0ueg0nNXG",
         "5iooBeTrG8wPKMgo7OAOX6",
         "04kN5iKwGoYMSkr9cPZrWp",
@@ -48,6 +48,7 @@
         "5FQ4sOGqRWUA5wO20AwPcO",
         "3q5CZdmVxP6hE0mlBcYEU1",
         "2u6HB59fEXPPk3YVBGfQIZ",
+        "3fDOKKGXHv4CsGCOTv4W3z",
         "57EkTny9UjqpLhFzMO4Hdb",
         "3AYbVMgPfYy8JcnTkHzktt",
         "5NzK7S7oQQnO8eLRf7kDJx",
@@ -156,29 +157,6 @@
         "5X0bIKvPtSDo4NpXqgrB6p",
         "58HB0yjdQE2MH5MrfWt4EO"
     ],
-    "indie rock": [
-        "654KFpNOZ26Hj9luu7aKeM",
-        "7fQtF6nueGmgPXajwcATgJ",
-        "6clr8IqVLP2qcYxJpgSfrt",
-        "3KeR5BDM2giFr8zoSXBrgE",
-        "2xECuqnvvmVktV7UO8Dd3s",
-        "2asqm6ydqbRKZKbXfGIhrX",
-        "4I9skhRTov4hKAxAgoclt3",
-        "1yHEYtYNq2HzkidBICThpW",
-        "1LfkcrlTnQqx2AhHtuhJhB",
-        "3q5CZdmVxP6hE0mlBcYEU1",
-        "2CISL0rSGzbO0MbQMlqBez",
-        "6wZqyr0yloM7DZ76mht4S1",
-        "2AijQUrTqAETyjMaKxu4Xh",
-        "0Diq2A7FjraCWgDW1B5u9S",
-        "0UMuX8pRsyfSkv0gPJMipQ",
-        "5a4VSyY7zsfVVqHweYHG7R",
-        "1X0Na8DRV5U6G9grTPDWKF",
-        "07qr8dMQJeFc3HluFiTrhV",
-        "5X0bIKvPtSDo4NpXqgrB6p",
-        "58HB0yjdQE2MH5MrfWt4EO",
-        "1OCE83C2l4g7kRxTrkSfND"
-    ],
     "metropopolis": [
         "654KFpNOZ26Hj9luu7aKeM",
         "6NtEjhPWfZcvJQuvjGX4bk",
@@ -214,6 +192,7 @@
         "5kCNU9ouaRoRtQNJrtfavl",
         "5lVgjLzgPHy8wuFYJOxKWA",
         "23SV7P5U8oF3EJfkdW08wO",
+        "6cx4GVNs03Pu4ZczRnWiLd",
         "5fO3IS08lcTw9rfUtkgILv",
         "0HmKhR7Umt3ACs52ZLnKyK",
         "5WfDyog8yO7ZF8JdJxeZfl"
@@ -233,7 +212,6 @@
     ],
     "dreamo": [
         "7fQtF6nueGmgPXajwcATgJ",
-        "2w3ncZJGWsVbaUq2NvVVt3",
         "0YNcv2znQ6teI7ExnFPb3Z"
     ],
     "garage psych": [
@@ -261,6 +239,22 @@
         "1X0Na8DRV5U6G9grTPDWKF",
         "0PMmJ0qQByXO0ROaKYq74k",
         "58HB0yjdQE2MH5MrfWt4EO"
+    ],
+    "indie rock": [
+        "7fQtF6nueGmgPXajwcATgJ",
+        "6clr8IqVLP2qcYxJpgSfrt",
+        "2asqm6ydqbRKZKbXfGIhrX",
+        "4I9skhRTov4hKAxAgoclt3",
+        "1yHEYtYNq2HzkidBICThpW",
+        "3q5CZdmVxP6hE0mlBcYEU1",
+        "2CISL0rSGzbO0MbQMlqBez",
+        "0Diq2A7FjraCWgDW1B5u9S",
+        "0UMuX8pRsyfSkv0gPJMipQ",
+        "5a4VSyY7zsfVVqHweYHG7R",
+        "1X0Na8DRV5U6G9grTPDWKF",
+        "07qr8dMQJeFc3HluFiTrhV",
+        "5X0bIKvPtSDo4NpXqgrB6p",
+        "1OCE83C2l4g7kRxTrkSfND"
     ],
     "noise pop": [
         "7fQtF6nueGmgPXajwcATgJ",
@@ -305,11 +299,6 @@
     "one-person band": [
         "6clr8IqVLP2qcYxJpgSfrt"
     ],
-    "stomp and holler": [
-        "6clr8IqVLP2qcYxJpgSfrt",
-        "3pjk4sukkPuJXmRhvvYEhO",
-        "3KeR5BDM2giFr8zoSXBrgE"
-    ],
     "french indie pop": [
         "1u2Q5MFWptOdPpldjC0xO9"
     ],
@@ -352,6 +341,17 @@
     "new americana": [
         "3pjk4sukkPuJXmRhvvYEhO"
     ],
+    "stomp and holler": [
+        "3pjk4sukkPuJXmRhvvYEhO",
+        "3KeR5BDM2giFr8zoSXBrgE"
+    ],
+    "chamber pop": [
+        "120nAPsuLm0jxpTnlmbHEr",
+        "3KeR5BDM2giFr8zoSXBrgE",
+        "0fO1KemWL2uCCQmM22iKlj",
+        "5X0bIKvPtSDo4NpXqgrB6p",
+        "78pal3TbudCtgq10jJowYs"
+    ],
     "electra": [
         "120nAPsuLm0jxpTnlmbHEr",
         "1GmdNCH9lvYzn0ZgtG8Mpa",
@@ -385,17 +385,16 @@
     "london indie": [
         "2PfgptDcfJTFtoZIS3AukX"
     ],
+    "modern alternative rock": [
+        "2PfgptDcfJTFtoZIS3AukX",
+        "2lkSyyfAi4ctpSfpZdKkQx"
+    ],
     "uk post-punk revival": [
         "2PfgptDcfJTFtoZIS3AukX",
         "4Uzll2pB5SnmC0rulgDHyB"
     ],
     "austrian jazz": [
         "3TTuloLfi1JQIoWZoaysgq"
-    ],
-    "chamber pop": [
-        "3KeR5BDM2giFr8zoSXBrgE",
-        "0fO1KemWL2uCCQmM22iKlj",
-        "78pal3TbudCtgq10jJowYs"
     ],
     "modern folk rock": [
         "3KeR5BDM2giFr8zoSXBrgE",
@@ -468,7 +467,6 @@
     ],
     "pop": [
         "5g9YhHW8tE7Tcslgxsk5u9",
-        "2xECuqnvvmVktV7UO8Dd3s",
         "1CTm3ARqDETSm7GfvNYNJp",
         "2KICtQ7dqaaot7B1yN9wPq",
         "3a9qH2VEsSiOZvMrjaS0Nu",
@@ -688,11 +686,6 @@
     "experimental indie": [
         "7MXwYs2b8dEl1wSNtUeEpZ"
     ],
-    "hyperpop": [
-        "7MXwYs2b8dEl1wSNtUeEpZ",
-        "3a9qH2VEsSiOZvMrjaS0Nu",
-        "1ZKbjlrUC5REoa13uSH5KL"
-    ],
     "british soul": [
         "1CTm3ARqDETSm7GfvNYNJp"
     ],
@@ -703,10 +696,6 @@
     ],
     "tropical house": [
         "1CTm3ARqDETSm7GfvNYNJp"
-    ],
-    "uk pop": [
-        "1CTm3ARqDETSm7GfvNYNJp",
-        "3a9qH2VEsSiOZvMrjaS0Nu"
     ],
     "bubblegrunge": [
         "2mPGrL2ZpzlH6TWa2G0J5h",
@@ -741,8 +730,7 @@
     "modern rock": [
         "2asqm6ydqbRKZKbXfGIhrX",
         "50sj9IKfG3XsGirn9fu6jl",
-        "2lkSyyfAi4ctpSfpZdKkQx",
-        "07qr8dMQJeFc3HluFiTrhV"
+        "2lkSyyfAi4ctpSfpZdKkQx"
     ],
     "neo-psychedelic": [
         "2asqm6ydqbRKZKbXfGIhrX",
@@ -833,7 +821,14 @@
     "candy pop": [
         "3a9qH2VEsSiOZvMrjaS0Nu"
     ],
+    "hyperpop": [
+        "3a9qH2VEsSiOZvMrjaS0Nu",
+        "1ZKbjlrUC5REoa13uSH5KL"
+    ],
     "post-teen pop": [
+        "3a9qH2VEsSiOZvMrjaS0Nu"
+    ],
+    "uk pop": [
         "3a9qH2VEsSiOZvMrjaS0Nu"
     ],
     "experimental ambient": [
@@ -1038,6 +1033,9 @@
     "rap napoletano": [
         "19iZTn6IM82raMquk5Z7Ul"
     ],
+    "afrobeat": [
+        "4ygyND85sM13LJdH75qR2v"
+    ],
     "afropop": [
         "4ygyND85sM13LJdH75qR2v"
     ],
@@ -1086,6 +1084,9 @@
         "2TEoQDMasIEprn7jLEPpQS"
     ],
     "finnish indie": [
+        "2TEoQDMasIEprn7jLEPpQS"
+    ],
+    "laulaja-lauluntekija": [
         "2TEoQDMasIEprn7jLEPpQS"
     ],
     "suomi rock": [
@@ -1259,9 +1260,6 @@
         "1hOgPjM2AP2zUJnaXmmEGb"
     ],
     "new isolationism": [
-        "1hOgPjM2AP2zUJnaXmmEGb"
-    ],
-    "sound art": [
         "1hOgPjM2AP2zUJnaXmmEGb"
     ],
     "minnesota hip hop": [
