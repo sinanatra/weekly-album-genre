@@ -12,6 +12,8 @@
         "0QURjDbfsPsDa5R4sgkjV9",
         "2PfgptDcfJTFtoZIS3AukX",
         "3KeR5BDM2giFr8zoSXBrgE",
+        "1w857brUeHQfcPpjCd3wHQ",
+        "7oRbRS0ovxoUtuE1g3fYwY",
         "4Uzll2pB5SnmC0rulgDHyB",
         "64tlHrwYQoCnCyG46SVQk7"
     ],
@@ -20,8 +22,10 @@
         "6AfA0FZhzRTpjDDYHkCd5B",
         "7dGOyxCI4QXNFxHEpgD4jt",
         "4o390Ney50y0UQFTBnnBqi",
+        "5bOYK3R5KjuG6CEInqWF0w",
         "4vXrmwhLpCPaH0ueg0nNXG",
         "5iooBeTrG8wPKMgo7OAOX6",
+        "3UvD4QNv5b0vW9G2ZHfjsu",
         "04kN5iKwGoYMSkr9cPZrWp",
         "7imORAK8Qa40pbKJILg8BT",
         "4oxXzA5rNIBilAsmoK88Yg",
@@ -51,6 +55,7 @@
         "3fDOKKGXHv4CsGCOTv4W3z",
         "57EkTny9UjqpLhFzMO4Hdb",
         "3AYbVMgPfYy8JcnTkHzktt",
+        "5WfDyog8yO7ZF8JdJxeZfl",
         "5NzK7S7oQQnO8eLRf7kDJx",
         "1eY0OQek6FHZWiPgJaXAzl",
         "3VOw8wKhsIWTwwg818oIbp"
@@ -87,7 +92,6 @@
         "6clr8IqVLP2qcYxJpgSfrt",
         "120nAPsuLm0jxpTnlmbHEr",
         "0QURjDbfsPsDa5R4sgkjV9",
-        "2PfgptDcfJTFtoZIS3AukX",
         "3KeR5BDM2giFr8zoSXBrgE",
         "6NtEjhPWfZcvJQuvjGX4bk",
         "1CTm3ARqDETSm7GfvNYNJp",
@@ -136,6 +140,7 @@
         "0fO1KemWL2uCCQmM22iKlj",
         "2CISL0rSGzbO0MbQMlqBez",
         "6wZqyr0yloM7DZ76mht4S1",
+        "2AijQUrTqAETyjMaKxu4Xh",
         "0UMuX8pRsyfSkv0gPJMipQ",
         "1X0Na8DRV5U6G9grTPDWKF",
         "07qr8dMQJeFc3HluFiTrhV",
@@ -261,13 +266,9 @@
         "0Diq2A7FjraCWgDW1B5u9S",
         "0UMuX8pRsyfSkv0gPJMipQ",
         "5a4VSyY7zsfVVqHweYHG7R",
-        "1X0Na8DRV5U6G9grTPDWKF",
         "07qr8dMQJeFc3HluFiTrhV",
         "5X0bIKvPtSDo4NpXqgrB6p",
         "1OCE83C2l4g7kRxTrkSfND"
-    ],
-    "lo-fi indie": [
-        "7fQtF6nueGmgPXajwcATgJ"
     ],
     "noise pop": [
         "7fQtF6nueGmgPXajwcATgJ",
@@ -291,7 +292,6 @@
         "5wnCTZtzIZxasRSHzI1JeW",
         "150xIoPgnDoEfRvd0paiIc",
         "5FQ4sOGqRWUA5wO20AwPcO",
-        "1ZKbjlrUC5REoa13uSH5KL",
         "75vFTgDgdfVhbniLoyCNKh",
         "50sj9IKfG3XsGirn9fu6jl",
         "0HmKhR7Umt3ACs52ZLnKyK",
@@ -436,9 +436,11 @@
         "5bOYK3R5KjuG6CEInqWF0w",
         "5V9HrJ2u1noLUk0V4HF8uM",
         "2go9ZhAvccCfjThGINq3yr",
+        "64tlHrwYQoCnCyG46SVQk7",
         "3q5CZdmVxP6hE0mlBcYEU1",
         "75vFTgDgdfVhbniLoyCNKh",
         "3fDOKKGXHv4CsGCOTv4W3z",
+        "4zrVrsO113smesPZMbBA8I",
         "5a4VSyY7zsfVVqHweYHG7R",
         "5WfDyog8yO7ZF8JdJxeZfl"
     ],
@@ -596,6 +598,9 @@
     "drone": [
         "5V9HrJ2u1noLUk0V4HF8uM"
     ],
+    "dub techno": [
+        "5V9HrJ2u1noLUk0V4HF8uM"
+    ],
     "electro": [
         "5V9HrJ2u1noLUk0V4HF8uM"
     ],
@@ -669,8 +674,7 @@
         "7AiWJCZ2HArLkWG8HdPgIQ"
     ],
     "japanese jazz": [
-        "5UMV4zntq8R2cELcNd1epn",
-        "2rwQ71x5mXHX162ce5ypy7"
+        "5UMV4zntq8R2cELcNd1epn"
     ],
     "latin afrobeat": [
         "6s91YTFJHq3LWDRMC4QOvp"
@@ -971,6 +975,9 @@
     "experimental synth": [
         "2BclRSRLS6vjcIfxIZdDlY",
         "1hOgPjM2AP2zUJnaXmmEGb"
+    ],
+    "avant-garde jazz": [
+        "7imORAK8Qa40pbKJILg8BT"
     ],
     "free jazz": [
         "7imORAK8Qa40pbKJILg8BT"
