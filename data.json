@@ -11,6 +11,8 @@
         "0QURjDbfsPsDa5R4sgkjV9",
         "2PfgptDcfJTFtoZIS3AukX",
         "3KeR5BDM2giFr8zoSXBrgE",
+        "1w857brUeHQfcPpjCd3wHQ",
+        "7oRbRS0ovxoUtuE1g3fYwY",
         "4Uzll2pB5SnmC0rulgDHyB",
         "64tlHrwYQoCnCyG46SVQk7"
     ],
@@ -23,8 +25,10 @@
         "5iooBeTrG8wPKMgo7OAOX6",
         "3UvD4QNv5b0vW9G2ZHfjsu",
         "04kN5iKwGoYMSkr9cPZrWp",
+        "6GJ3n96Nj0u2E6YhAngJko",
         "7imORAK8Qa40pbKJILg8BT",
         "4oxXzA5rNIBilAsmoK88Yg",
+        "7JmSCHwa1C3EpuODQlVl8Z",
         "3AYbVMgPfYy8JcnTkHzktt",
         "1eY0OQek6FHZWiPgJaXAzl",
         "3VOw8wKhsIWTwwg818oIbp",
@@ -53,9 +57,11 @@
     ],
     "uk contemporary jazz": [
         "5DkIhSmABMcjjDh2TJ2Pu9",
+        "6AfA0FZhzRTpjDDYHkCd5B",
         "7dGOyxCI4QXNFxHEpgD4jt",
         "5iooBeTrG8wPKMgo7OAOX6",
         "04kN5iKwGoYMSkr9cPZrWp",
+        "7imORAK8Qa40pbKJILg8BT",
         "5w99EUVKTqZfr9VPq5AQs6",
         "5stujLSbVGnsp2fdBtvPqz",
         "7JmSCHwa1C3EpuODQlVl8Z",
@@ -95,6 +101,7 @@
         "0fO1KemWL2uCCQmM22iKlj",
         "5wnCTZtzIZxasRSHzI1JeW",
         "150xIoPgnDoEfRvd0paiIc",
+        "3q5CZdmVxP6hE0mlBcYEU1",
         "1ZKbjlrUC5REoa13uSH5KL",
         "2CISL0rSGzbO0MbQMlqBez",
         "50sj9IKfG3XsGirn9fu6jl",
@@ -132,8 +139,8 @@
         "0fO1KemWL2uCCQmM22iKlj",
         "2CISL0rSGzbO0MbQMlqBez",
         "6wZqyr0yloM7DZ76mht4S1",
+        "2AijQUrTqAETyjMaKxu4Xh",
         "0UMuX8pRsyfSkv0gPJMipQ",
-        "1X0Na8DRV5U6G9grTPDWKF",
         "07qr8dMQJeFc3HluFiTrhV",
         "5X0bIKvPtSDo4NpXqgrB6p",
         "58HB0yjdQE2MH5MrfWt4EO"
@@ -173,6 +180,7 @@
         "5kCNU9ouaRoRtQNJrtfavl",
         "5lVgjLzgPHy8wuFYJOxKWA",
         "23SV7P5U8oF3EJfkdW08wO",
+        "6cx4GVNs03Pu4ZczRnWiLd",
         "5fO3IS08lcTw9rfUtkgILv",
         "0HmKhR7Umt3ACs52ZLnKyK",
         "5WfDyog8yO7ZF8JdJxeZfl"
@@ -224,7 +232,6 @@
         "120nAPsuLm0jxpTnlmbHEr",
         "2asqm6ydqbRKZKbXfGIhrX",
         "4I9skhRTov4hKAxAgoclt3",
-        "0Diq2A7FjraCWgDW1B5u9S",
         "2lkSyyfAi4ctpSfpZdKkQx"
     ],
     "indie garage rock": [
@@ -308,10 +315,6 @@
     ],
     "french rock": [
         "1u2Q5MFWptOdPpldjC0xO9"
-    ],
-    "neo r&b": [
-        "7dGOyxCI4QXNFxHEpgD4jt",
-        "3VOw8wKhsIWTwwg818oIbp"
     ],
     "italian library music": [
         "5VWALGguSmp9l3FN2BWcNP"
@@ -561,9 +564,6 @@
         "2go9ZhAvccCfjThGINq3yr",
         "3fDOKKGXHv4CsGCOTv4W3z"
     ],
-    "tech house": [
-        "5bOYK3R5KjuG6CEInqWF0w"
-    ],
     "techno": [
         "5bOYK3R5KjuG6CEInqWF0w",
         "5V9HrJ2u1noLUk0V4HF8uM"
@@ -676,7 +676,8 @@
         "7AiWJCZ2HArLkWG8HdPgIQ"
     ],
     "japanese jazz": [
-        "5UMV4zntq8R2cELcNd1epn"
+        "5UMV4zntq8R2cELcNd1epn",
+        "2rwQ71x5mXHX162ce5ypy7"
     ],
     "latin afrobeat": [
         "6s91YTFJHq3LWDRMC4QOvp"
@@ -726,6 +727,7 @@
     ],
     "australian garage punk": [
         "2asqm6ydqbRKZKbXfGIhrX",
+        "6L8aSt5Qna8BorAnX9NPGK",
         "7BJBgg2OqbLnNkuCBaabR3"
     ],
     "bay area indie": [
@@ -850,6 +852,11 @@
         "1yHEYtYNq2HzkidBICThpW",
         "6JazmJ4xNcect6DTUEe3YR"
     ],
+    "anti-folk": [
+        "1yHEYtYNq2HzkidBICThpW",
+        "0UMuX8pRsyfSkv0gPJMipQ",
+        "58HB0yjdQE2MH5MrfWt4EO"
+    ],
     "emo": [
         "1yHEYtYNq2HzkidBICThpW"
     ],
@@ -904,6 +911,9 @@
         "62ARw44PcqIkxP5PvGEwW6",
         "7AiWJCZ2HArLkWG8HdPgIQ",
         "294v9hOiHtrDld4cNeO3vQ"
+    ],
+    "traditional soul": [
+        "62ARw44PcqIkxP5PvGEwW6"
     ],
     "psychedelic folk rock": [
         "6L8aSt5Qna8BorAnX9NPGK"
@@ -1115,8 +1125,7 @@
         "7acEciVtnuTzmwKptkjth5"
     ],
     "uk alternative hip hop": [
-        "5Ki4YFQrUx7hCcQx1LJUQb",
-        "1eY0OQek6FHZWiPgJaXAzl"
+        "5Ki4YFQrUx7hCcQx1LJUQb"
     ],
     "uk hip hop": [
         "5Ki4YFQrUx7hCcQx1LJUQb"
@@ -1138,10 +1147,6 @@
     ],
     "alternative pop": [
         "0UMuX8pRsyfSkv0gPJMipQ"
-    ],
-    "anti-folk": [
-        "0UMuX8pRsyfSkv0gPJMipQ",
-        "58HB0yjdQE2MH5MrfWt4EO"
     ],
     "olympia wa indie": [
         "0UMuX8pRsyfSkv0gPJMipQ"
