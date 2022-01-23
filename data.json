@@ -14,7 +14,8 @@
         "1w857brUeHQfcPpjCd3wHQ",
         "7oRbRS0ovxoUtuE1g3fYwY",
         "4Uzll2pB5SnmC0rulgDHyB",
-        "64tlHrwYQoCnCyG46SVQk7"
+        "64tlHrwYQoCnCyG46SVQk7",
+        "7MNCPNHZZajPWeZPrbLbUc"
     ],
     "indie jazz": [
         "5DkIhSmABMcjjDh2TJ2Pu9",
@@ -46,6 +47,7 @@
         "5frLkVBweO9UCLylStxJka",
         "0GPmuVuCdC5hCsiuy1wXle",
         "35CHoLB0GEwYlOomriifC6",
+        "59GRmAvlGs7KjLizFnV7Y9",
         "5FQ4sOGqRWUA5wO20AwPcO",
         "3q5CZdmVxP6hE0mlBcYEU1",
         "2u6HB59fEXPPk3YVBGfQIZ",
@@ -104,6 +106,7 @@
         "3q5CZdmVxP6hE0mlBcYEU1",
         "1ZKbjlrUC5REoa13uSH5KL",
         "2CISL0rSGzbO0MbQMlqBez",
+        "7imORAK8Qa40pbKJILg8BT",
         "50sj9IKfG3XsGirn9fu6jl",
         "6wZqyr0yloM7DZ76mht4S1",
         "40lqihqmkBdwM0QczKnoME",
@@ -232,6 +235,7 @@
         "120nAPsuLm0jxpTnlmbHEr",
         "2asqm6ydqbRKZKbXfGIhrX",
         "4I9skhRTov4hKAxAgoclt3",
+        "0Diq2A7FjraCWgDW1B5u9S",
         "2lkSyyfAi4ctpSfpZdKkQx"
     ],
     "indie garage rock": [
@@ -316,6 +320,10 @@
     "french rock": [
         "1u2Q5MFWptOdPpldjC0xO9"
     ],
+    "neo r&b": [
+        "7dGOyxCI4QXNFxHEpgD4jt",
+        "3VOw8wKhsIWTwwg818oIbp"
+    ],
     "italian library music": [
         "5VWALGguSmp9l3FN2BWcNP"
     ],
@@ -375,9 +383,6 @@
     ],
     "african-american classical": [
         "4o390Ney50y0UQFTBnnBqi"
-    ],
-    "italian lounge": [
-        "3pPOcvur3LCnaTHrdvyJ1I"
     ],
     "nu jazz": [
         "3pPOcvur3LCnaTHrdvyJ1I",
@@ -539,6 +544,10 @@
         "755yBlrk0Sz8tIgMMTgyr1",
         "5WfDyog8yO7ZF8JdJxeZfl"
     ],
+    "egg punk": [
+        "6Kni5BJN0cqBMXqANtHGG8",
+        "7m1Sb6fRqT30QdNr0tjdDP"
+    ],
     "stockholm indie": [
         "6Kni5BJN0cqBMXqANtHGG8",
         "7m1Sb6fRqT30QdNr0tjdDP"
@@ -611,7 +620,6 @@
     ],
     "fourth world": [
         "5V9HrJ2u1noLUk0V4HF8uM",
-        "1GmdNCH9lvYzn0ZgtG8Mpa",
         "7imORAK8Qa40pbKJILg8BT",
         "1hOgPjM2AP2zUJnaXmmEGb"
     ],
@@ -676,8 +684,7 @@
         "7AiWJCZ2HArLkWG8HdPgIQ"
     ],
     "japanese jazz": [
-        "5UMV4zntq8R2cELcNd1epn",
-        "2rwQ71x5mXHX162ce5ypy7"
+        "5UMV4zntq8R2cELcNd1epn"
     ],
     "latin afrobeat": [
         "6s91YTFJHq3LWDRMC4QOvp"
@@ -809,6 +816,9 @@
         "1ZKbjlrUC5REoa13uSH5KL",
         "4zrVrsO113smesPZMbBA8I"
     ],
+    "vapor soul": [
+        "5frLkVBweO9UCLylStxJka"
+    ],
     "ai": [
         "2KICtQ7dqaaot7B1yN9wPq"
     ],
@@ -852,11 +862,6 @@
         "1yHEYtYNq2HzkidBICThpW",
         "6JazmJ4xNcect6DTUEe3YR"
     ],
-    "anti-folk": [
-        "1yHEYtYNq2HzkidBICThpW",
-        "0UMuX8pRsyfSkv0gPJMipQ",
-        "58HB0yjdQE2MH5MrfWt4EO"
-    ],
     "emo": [
         "1yHEYtYNq2HzkidBICThpW"
     ],
@@ -895,6 +900,9 @@
     "waiata maori": [
         "3MWZECCsGmwto3LGU9IOIA"
     ],
+    "dark pop": [
+        "0fO1KemWL2uCCQmM22iKlj"
+    ],
     "lilith": [
         "0fO1KemWL2uCCQmM22iKlj"
     ],
@@ -911,9 +919,6 @@
         "62ARw44PcqIkxP5PvGEwW6",
         "7AiWJCZ2HArLkWG8HdPgIQ",
         "294v9hOiHtrDld4cNeO3vQ"
-    ],
-    "traditional soul": [
-        "62ARw44PcqIkxP5PvGEwW6"
     ],
     "psychedelic folk rock": [
         "6L8aSt5Qna8BorAnX9NPGK"
@@ -1147,6 +1152,10 @@
     ],
     "alternative pop": [
         "0UMuX8pRsyfSkv0gPJMipQ"
+    ],
+    "anti-folk": [
+        "0UMuX8pRsyfSkv0gPJMipQ",
+        "58HB0yjdQE2MH5MrfWt4EO"
     ],
     "olympia wa indie": [
         "0UMuX8pRsyfSkv0gPJMipQ"
