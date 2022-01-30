@@ -11,11 +11,8 @@
         "0QURjDbfsPsDa5R4sgkjV9",
         "2PfgptDcfJTFtoZIS3AukX",
         "3KeR5BDM2giFr8zoSXBrgE",
-        "1w857brUeHQfcPpjCd3wHQ",
-        "7oRbRS0ovxoUtuE1g3fYwY",
         "4Uzll2pB5SnmC0rulgDHyB",
-        "64tlHrwYQoCnCyG46SVQk7",
-        "7MNCPNHZZajPWeZPrbLbUc"
+        "64tlHrwYQoCnCyG46SVQk7"
     ],
     "indie jazz": [
         "5DkIhSmABMcjjDh2TJ2Pu9",
@@ -59,11 +56,9 @@
     ],
     "uk contemporary jazz": [
         "5DkIhSmABMcjjDh2TJ2Pu9",
-        "6AfA0FZhzRTpjDDYHkCd5B",
         "7dGOyxCI4QXNFxHEpgD4jt",
         "5iooBeTrG8wPKMgo7OAOX6",
         "04kN5iKwGoYMSkr9cPZrWp",
-        "7imORAK8Qa40pbKJILg8BT",
         "5w99EUVKTqZfr9VPq5AQs6",
         "5stujLSbVGnsp2fdBtvPqz",
         "7JmSCHwa1C3EpuODQlVl8Z",
@@ -183,7 +178,6 @@
         "5kCNU9ouaRoRtQNJrtfavl",
         "5lVgjLzgPHy8wuFYJOxKWA",
         "23SV7P5U8oF3EJfkdW08wO",
-        "6cx4GVNs03Pu4ZczRnWiLd",
         "5fO3IS08lcTw9rfUtkgILv",
         "0HmKhR7Umt3ACs52ZLnKyK",
         "5WfDyog8yO7ZF8JdJxeZfl"
@@ -228,14 +222,13 @@
         "7imORAK8Qa40pbKJILg8BT",
         "6kOJder0EbgQU4OsmkD5US",
         "5g5l9entA4bTztfpLJd1kS",
+        "7MNCPNHZZajPWeZPrbLbUc",
         "1OCE83C2l4g7kRxTrkSfND"
     ],
     "garage psych": [
         "7fQtF6nueGmgPXajwcATgJ",
-        "120nAPsuLm0jxpTnlmbHEr",
         "2asqm6ydqbRKZKbXfGIhrX",
         "4I9skhRTov4hKAxAgoclt3",
-        "0Diq2A7FjraCWgDW1B5u9S",
         "2lkSyyfAi4ctpSfpZdKkQx"
     ],
     "indie garage rock": [
@@ -320,10 +313,6 @@
     "french rock": [
         "1u2Q5MFWptOdPpldjC0xO9"
     ],
-    "neo r&b": [
-        "7dGOyxCI4QXNFxHEpgD4jt",
-        "3VOw8wKhsIWTwwg818oIbp"
-    ],
     "italian library music": [
         "5VWALGguSmp9l3FN2BWcNP"
     ],
@@ -383,6 +372,9 @@
     ],
     "african-american classical": [
         "4o390Ney50y0UQFTBnnBqi"
+    ],
+    "italian lounge": [
+        "3pPOcvur3LCnaTHrdvyJ1I"
     ],
     "nu jazz": [
         "3pPOcvur3LCnaTHrdvyJ1I",
@@ -464,6 +456,7 @@
         "5frLkVBweO9UCLylStxJka",
         "3xt8egQistHqjJpAayoZz3",
         "35CHoLB0GEwYlOomriifC6",
+        "5wnCTZtzIZxasRSHzI1JeW",
         "2u6HB59fEXPPk3YVBGfQIZ",
         "5NzK7S7oQQnO8eLRf7kDJx"
     ],
@@ -499,8 +492,7 @@
         "5g9YhHW8tE7Tcslgxsk5u9"
     ],
     "pop rap": [
-        "5g9YhHW8tE7Tcslgxsk5u9",
-        "600ClrWRsAr7jZ0qjaBLHz"
+        "5g9YhHW8tE7Tcslgxsk5u9"
     ],
     "r&b": [
         "5g9YhHW8tE7Tcslgxsk5u9"
@@ -571,6 +563,7 @@
         "5bOYK3R5KjuG6CEInqWF0w",
         "5V9HrJ2u1noLUk0V4HF8uM",
         "2go9ZhAvccCfjThGINq3yr",
+        "75vFTgDgdfVhbniLoyCNKh",
         "3fDOKKGXHv4CsGCOTv4W3z"
     ],
     "techno": [
@@ -602,6 +595,12 @@
     ],
     "ambient techno": [
         "5V9HrJ2u1noLUk0V4HF8uM"
+    ],
+    "deconstructed club": [
+        "5V9HrJ2u1noLUk0V4HF8uM",
+        "2KICtQ7dqaaot7B1yN9wPq",
+        "1hOgPjM2AP2zUJnaXmmEGb",
+        "7hfURFEt6v97pRmxTsoSHS"
     ],
     "deep idm": [
         "5V9HrJ2u1noLUk0V4HF8uM"
@@ -822,11 +821,6 @@
     "ai": [
         "2KICtQ7dqaaot7B1yN9wPq"
     ],
-    "deconstructed club": [
-        "2KICtQ7dqaaot7B1yN9wPq",
-        "1hOgPjM2AP2zUJnaXmmEGb",
-        "7hfURFEt6v97pRmxTsoSHS"
-    ],
     "fluxwork": [
         "2KICtQ7dqaaot7B1yN9wPq",
         "1hOgPjM2AP2zUJnaXmmEGb",
@@ -846,6 +840,12 @@
     ],
     "uk pop": [
         "3a9qH2VEsSiOZvMrjaS0Nu"
+    ],
+    "soul": [
+        "0GPmuVuCdC5hCsiuy1wXle",
+        "7AiWJCZ2HArLkWG8HdPgIQ",
+        "57EkTny9UjqpLhFzMO4Hdb",
+        "294v9hOiHtrDld4cNeO3vQ"
     ],
     "experimental ambient": [
         "1GmdNCH9lvYzn0ZgtG8Mpa",
@@ -920,6 +920,9 @@
         "7AiWJCZ2HArLkWG8HdPgIQ",
         "294v9hOiHtrDld4cNeO3vQ"
     ],
+    "traditional soul": [
+        "62ARw44PcqIkxP5PvGEwW6"
+    ],
     "psychedelic folk rock": [
         "6L8aSt5Qna8BorAnX9NPGK"
     ],
@@ -976,15 +979,14 @@
     "slam poetry": [
         "7AiWJCZ2HArLkWG8HdPgIQ"
     ],
-    "soul": [
-        "7AiWJCZ2HArLkWG8HdPgIQ",
-        "294v9hOiHtrDld4cNeO3vQ"
-    ],
     "experimental synth": [
         "2BclRSRLS6vjcIfxIZdDlY",
         "1hOgPjM2AP2zUJnaXmmEGb"
     ],
     "avant-garde jazz": [
+        "7imORAK8Qa40pbKJILg8BT"
+    ],
+    "free improvisation": [
         "7imORAK8Qa40pbKJILg8BT"
     ],
     "free jazz": [
