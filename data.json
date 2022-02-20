@@ -9,7 +9,6 @@
         "5DkIhSmABMcjjDh2TJ2Pu9",
         "120nAPsuLm0jxpTnlmbHEr",
         "0QURjDbfsPsDa5R4sgkjV9",
-        "2PfgptDcfJTFtoZIS3AukX",
         "3KeR5BDM2giFr8zoSXBrgE",
         "4Uzll2pB5SnmC0rulgDHyB",
         "64tlHrwYQoCnCyG46SVQk7"
@@ -107,8 +106,7 @@
         "5a4VSyY7zsfVVqHweYHG7R",
         "5X0bIKvPtSDo4NpXqgrB6p",
         "1hOgPjM2AP2zUJnaXmmEGb",
-        "0S0KGZnfBGSIssfF54WSJh",
-        "58HB0yjdQE2MH5MrfWt4EO"
+        "0S0KGZnfBGSIssfF54WSJh"
     ],
     "electropop": [
         "654KFpNOZ26Hj9luu7aKeM",
@@ -181,7 +179,8 @@
         "5WfDyog8yO7ZF8JdJxeZfl"
     ],
     "boom bap": [
-        "5kCNU9ouaRoRtQNJrtfavl"
+        "5kCNU9ouaRoRtQNJrtfavl",
+        "0HmKhR7Umt3ACs52ZLnKyK"
     ],
     "underground rap": [
         "5kCNU9ouaRoRtQNJrtfavl"
@@ -218,7 +217,6 @@
         "7fQtF6nueGmgPXajwcATgJ",
         "6clr8IqVLP2qcYxJpgSfrt",
         "0QURjDbfsPsDa5R4sgkjV9",
-        "2PfgptDcfJTFtoZIS3AukX",
         "3KeR5BDM2giFr8zoSXBrgE",
         "2asqm6ydqbRKZKbXfGIhrX",
         "4I9skhRTov4hKAxAgoclt3",
@@ -232,11 +230,13 @@
         "120nAPsuLm0jxpTnlmbHEr",
         "2asqm6ydqbRKZKbXfGIhrX",
         "4I9skhRTov4hKAxAgoclt3",
+        "0Diq2A7FjraCWgDW1B5u9S",
         "2lkSyyfAi4ctpSfpZdKkQx"
     ],
     "indie garage rock": [
         "7fQtF6nueGmgPXajwcATgJ",
         "2asqm6ydqbRKZKbXfGIhrX",
+        "6kOJder0EbgQU4OsmkD5US",
         "7BJBgg2OqbLnNkuCBaabR3"
     ],
     "indie punk": [
@@ -254,14 +254,17 @@
         "7fQtF6nueGmgPXajwcATgJ",
         "6clr8IqVLP2qcYxJpgSfrt",
         "2PfgptDcfJTFtoZIS3AukX",
+        "3KeR5BDM2giFr8zoSXBrgE",
         "755yBlrk0Sz8tIgMMTgyr1",
         "2asqm6ydqbRKZKbXfGIhrX",
         "4I9skhRTov4hKAxAgoclt3",
+        "1yHEYtYNq2HzkidBICThpW",
         "3q5CZdmVxP6hE0mlBcYEU1",
         "2CISL0rSGzbO0MbQMlqBez",
         "0Diq2A7FjraCWgDW1B5u9S",
         "0UMuX8pRsyfSkv0gPJMipQ",
         "5a4VSyY7zsfVVqHweYHG7R",
+        "1X0Na8DRV5U6G9grTPDWKF",
         "07qr8dMQJeFc3HluFiTrhV",
         "5X0bIKvPtSDo4NpXqgrB6p",
         "1OCE83C2l4g7kRxTrkSfND"
@@ -279,11 +282,31 @@
     "nu gaze": [
         "7fQtF6nueGmgPXajwcATgJ"
     ],
+    "escape room": [
+        "6clr8IqVLP2qcYxJpgSfrt",
+        "23SV7P5U8oF3EJfkdW08wO",
+        "3UvD4QNv5b0vW9G2ZHfjsu",
+        "2KICtQ7dqaaot7B1yN9wPq",
+        "6cx4GVNs03Pu4ZczRnWiLd",
+        "35CHoLB0GEwYlOomriifC6",
+        "6QrGmXbUtjyekuW83gXBBb",
+        "5wnCTZtzIZxasRSHzI1JeW",
+        "150xIoPgnDoEfRvd0paiIc",
+        "5FQ4sOGqRWUA5wO20AwPcO",
+        "50sj9IKfG3XsGirn9fu6jl",
+        "0HmKhR7Umt3ACs52ZLnKyK",
+        "2u6HB59fEXPPk3YVBGfQIZ",
+        "5WfDyog8yO7ZF8JdJxeZfl",
+        "5NzK7S7oQQnO8eLRf7kDJx",
+        "6dFFcYQ8VhifgdKgYY5LYL",
+        "0YF8PfcGbsKg5IaFyPnlyY"
+    ],
     "one-person band": [
         "6clr8IqVLP2qcYxJpgSfrt"
     ],
     "french indie pop": [
-        "1u2Q5MFWptOdPpldjC0xO9"
+        "1u2Q5MFWptOdPpldjC0xO9",
+        "4dKXLRyASjmVovsT22FJHP"
     ],
     "french indietronica": [
         "1u2Q5MFWptOdPpldjC0xO9"
@@ -337,11 +360,8 @@
     "chamber pop": [
         "120nAPsuLm0jxpTnlmbHEr",
         "0QURjDbfsPsDa5R4sgkjV9",
-        "2PfgptDcfJTFtoZIS3AukX",
         "3KeR5BDM2giFr8zoSXBrgE",
-        "4I9skhRTov4hKAxAgoclt3",
         "0fO1KemWL2uCCQmM22iKlj",
-        "5X0bIKvPtSDo4NpXqgrB6p",
         "78pal3TbudCtgq10jJowYs"
     ],
     "electra": [
@@ -440,6 +460,7 @@
         "5frLkVBweO9UCLylStxJka",
         "3xt8egQistHqjJpAayoZz3",
         "35CHoLB0GEwYlOomriifC6",
+        "5wnCTZtzIZxasRSHzI1JeW",
         "2u6HB59fEXPPk3YVBGfQIZ",
         "5NzK7S7oQQnO8eLRf7kDJx"
     ],
@@ -472,9 +493,6 @@
         "0S0KGZnfBGSIssfF54WSJh"
     ],
     "pop r&b": [
-        "5g9YhHW8tE7Tcslgxsk5u9"
-    ],
-    "pop rap": [
         "5g9YhHW8tE7Tcslgxsk5u9"
     ],
     "r&b": [
@@ -598,7 +616,8 @@
         "5V9HrJ2u1noLUk0V4HF8uM"
     ],
     "experimental": [
-        "5V9HrJ2u1noLUk0V4HF8uM"
+        "5V9HrJ2u1noLUk0V4HF8uM",
+        "4I9skhRTov4hKAxAgoclt3"
     ],
     "fourth world": [
         "5V9HrJ2u1noLUk0V4HF8uM",
@@ -635,25 +654,8 @@
         "5R5CPGWYyfFJNaGPZ32v8i"
     ],
     "abstract hip hop": [
-        "23SV7P5U8oF3EJfkdW08wO"
-    ],
-    "escape room": [
         "23SV7P5U8oF3EJfkdW08wO",
-        "3UvD4QNv5b0vW9G2ZHfjsu",
-        "2KICtQ7dqaaot7B1yN9wPq",
-        "6cx4GVNs03Pu4ZczRnWiLd",
-        "35CHoLB0GEwYlOomriifC6",
-        "6QrGmXbUtjyekuW83gXBBb",
-        "5wnCTZtzIZxasRSHzI1JeW",
-        "150xIoPgnDoEfRvd0paiIc",
-        "5FQ4sOGqRWUA5wO20AwPcO",
-        "50sj9IKfG3XsGirn9fu6jl",
-        "0HmKhR7Umt3ACs52ZLnKyK",
-        "2u6HB59fEXPPk3YVBGfQIZ",
-        "5WfDyog8yO7ZF8JdJxeZfl",
-        "5NzK7S7oQQnO8eLRf7kDJx",
-        "6dFFcYQ8VhifgdKgYY5LYL",
-        "0YF8PfcGbsKg5IaFyPnlyY"
+        "0HmKhR7Umt3ACs52ZLnKyK"
     ],
     "english indie rock": [
         "4Uzll2pB5SnmC0rulgDHyB",
@@ -684,7 +686,8 @@
         "7AiWJCZ2HArLkWG8HdPgIQ"
     ],
     "japanese jazz": [
-        "5UMV4zntq8R2cELcNd1epn"
+        "5UMV4zntq8R2cELcNd1epn",
+        "2rwQ71x5mXHX162ce5ypy7"
     ],
     "latin afrobeat": [
         "6s91YTFJHq3LWDRMC4QOvp"
@@ -725,6 +728,10 @@
     "tropical house": [
         "1CTm3ARqDETSm7GfvNYNJp"
     ],
+    "uk pop": [
+        "1CTm3ARqDETSm7GfvNYNJp",
+        "3a9qH2VEsSiOZvMrjaS0Nu"
+    ],
     "alternative rock": [
         "2asqm6ydqbRKZKbXfGIhrX",
         "7acEciVtnuTzmwKptkjth5",
@@ -734,6 +741,7 @@
     ],
     "australian garage punk": [
         "2asqm6ydqbRKZKbXfGIhrX",
+        "6L8aSt5Qna8BorAnX9NPGK",
         "7BJBgg2OqbLnNkuCBaabR3"
     ],
     "bay area indie": [
@@ -828,9 +836,6 @@
         "3a9qH2VEsSiOZvMrjaS0Nu"
     ],
     "post-teen pop": [
-        "3a9qH2VEsSiOZvMrjaS0Nu"
-    ],
-    "uk pop": [
         "3a9qH2VEsSiOZvMrjaS0Nu"
     ],
     "soul": [
@@ -976,9 +981,6 @@
         "1hOgPjM2AP2zUJnaXmmEGb"
     ],
     "avant-garde jazz": [
-        "7imORAK8Qa40pbKJILg8BT"
-    ],
-    "free improvisation": [
         "7imORAK8Qa40pbKJILg8BT"
     ],
     "free jazz": [
@@ -1249,6 +1251,9 @@
     ],
     "punk rock italiano": [
         "7oQ7v1qvJ2SnCESvPIv1U7"
+    ],
+    "high vibe": [
+        "5NzK7S7oQQnO8eLRf7kDJx"
     ],
     "5th wave emo": [
         "6JazmJ4xNcect6DTUEe3YR"
