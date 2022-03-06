@@ -22,6 +22,7 @@
         "5iooBeTrG8wPKMgo7OAOX6",
         "3UvD4QNv5b0vW9G2ZHfjsu",
         "04kN5iKwGoYMSkr9cPZrWp",
+        "6GJ3n96Nj0u2E6YhAngJko",
         "7imORAK8Qa40pbKJILg8BT",
         "4oxXzA5rNIBilAsmoK88Yg",
         "5stujLSbVGnsp2fdBtvPqz",
@@ -82,9 +83,7 @@
         "654KFpNOZ26Hj9luu7aKeM",
         "7fQtF6nueGmgPXajwcATgJ",
         "6clr8IqVLP2qcYxJpgSfrt",
-        "120nAPsuLm0jxpTnlmbHEr",
         "0QURjDbfsPsDa5R4sgkjV9",
-        "2PfgptDcfJTFtoZIS3AukX",
         "3KeR5BDM2giFr8zoSXBrgE",
         "6NtEjhPWfZcvJQuvjGX4bk",
         "1CTm3ARqDETSm7GfvNYNJp",
@@ -98,7 +97,6 @@
         "150xIoPgnDoEfRvd0paiIc",
         "1ZKbjlrUC5REoa13uSH5KL",
         "2CISL0rSGzbO0MbQMlqBez",
-        "7imORAK8Qa40pbKJILg8BT",
         "50sj9IKfG3XsGirn9fu6jl",
         "6wZqyr0yloM7DZ76mht4S1",
         "40lqihqmkBdwM0QczKnoME",
@@ -126,7 +124,6 @@
     "indie pop": [
         "654KFpNOZ26Hj9luu7aKeM",
         "6clr8IqVLP2qcYxJpgSfrt",
-        "3KeR5BDM2giFr8zoSXBrgE",
         "6NtEjhPWfZcvJQuvjGX4bk",
         "2xECuqnvvmVktV7UO8Dd3s",
         "1LfkcrlTnQqx2AhHtuhJhB",
@@ -206,18 +203,6 @@
         "2w3ncZJGWsVbaUq2NvVVt3",
         "0YNcv2znQ6teI7ExnFPb3Z"
     ],
-    "freak folk": [
-        "7fQtF6nueGmgPXajwcATgJ",
-        "6clr8IqVLP2qcYxJpgSfrt",
-        "0QURjDbfsPsDa5R4sgkjV9",
-        "3KeR5BDM2giFr8zoSXBrgE",
-        "2asqm6ydqbRKZKbXfGIhrX",
-        "4I9skhRTov4hKAxAgoclt3",
-        "7imORAK8Qa40pbKJILg8BT",
-        "6kOJder0EbgQU4OsmkD5US",
-        "5g5l9entA4bTztfpLJd1kS",
-        "1OCE83C2l4g7kRxTrkSfND"
-    ],
     "garage psych": [
         "7fQtF6nueGmgPXajwcATgJ",
         "120nAPsuLm0jxpTnlmbHEr",
@@ -273,25 +258,6 @@
     ],
     "nu gaze": [
         "7fQtF6nueGmgPXajwcATgJ"
-    ],
-    "escape room": [
-        "6clr8IqVLP2qcYxJpgSfrt",
-        "23SV7P5U8oF3EJfkdW08wO",
-        "3UvD4QNv5b0vW9G2ZHfjsu",
-        "2KICtQ7dqaaot7B1yN9wPq",
-        "6cx4GVNs03Pu4ZczRnWiLd",
-        "35CHoLB0GEwYlOomriifC6",
-        "6QrGmXbUtjyekuW83gXBBb",
-        "5wnCTZtzIZxasRSHzI1JeW",
-        "150xIoPgnDoEfRvd0paiIc",
-        "5FQ4sOGqRWUA5wO20AwPcO",
-        "50sj9IKfG3XsGirn9fu6jl",
-        "0HmKhR7Umt3ACs52ZLnKyK",
-        "2u6HB59fEXPPk3YVBGfQIZ",
-        "5WfDyog8yO7ZF8JdJxeZfl",
-        "5NzK7S7oQQnO8eLRf7kDJx",
-        "6dFFcYQ8VhifgdKgYY5LYL",
-        "0YF8PfcGbsKg5IaFyPnlyY"
     ],
     "one-person band": [
         "6clr8IqVLP2qcYxJpgSfrt"
@@ -349,7 +315,9 @@
         "120nAPsuLm0jxpTnlmbHEr",
         "0QURjDbfsPsDa5R4sgkjV9",
         "3KeR5BDM2giFr8zoSXBrgE",
+        "4I9skhRTov4hKAxAgoclt3",
         "0fO1KemWL2uCCQmM22iKlj",
+        "5X0bIKvPtSDo4NpXqgrB6p",
         "78pal3TbudCtgq10jJowYs"
     ],
     "electra": [
@@ -544,7 +512,6 @@
     ],
     "float house": [
         "5bOYK3R5KjuG6CEInqWF0w",
-        "75vFTgDgdfVhbniLoyCNKh",
         "3fDOKKGXHv4CsGCOTv4W3z",
         "2Ri4IeOTvkz9wNrhLIkOP3"
     ],
@@ -553,6 +520,9 @@
         "5V9HrJ2u1noLUk0V4HF8uM",
         "2go9ZhAvccCfjThGINq3yr",
         "3fDOKKGXHv4CsGCOTv4W3z"
+    ],
+    "tech house": [
+        "5bOYK3R5KjuG6CEInqWF0w"
     ],
     "techno": [
         "5bOYK3R5KjuG6CEInqWF0w",
@@ -645,6 +615,24 @@
         "23SV7P5U8oF3EJfkdW08wO",
         "0HmKhR7Umt3ACs52ZLnKyK"
     ],
+    "escape room": [
+        "23SV7P5U8oF3EJfkdW08wO",
+        "3UvD4QNv5b0vW9G2ZHfjsu",
+        "2KICtQ7dqaaot7B1yN9wPq",
+        "6cx4GVNs03Pu4ZczRnWiLd",
+        "35CHoLB0GEwYlOomriifC6",
+        "6QrGmXbUtjyekuW83gXBBb",
+        "5wnCTZtzIZxasRSHzI1JeW",
+        "150xIoPgnDoEfRvd0paiIc",
+        "5FQ4sOGqRWUA5wO20AwPcO",
+        "50sj9IKfG3XsGirn9fu6jl",
+        "0HmKhR7Umt3ACs52ZLnKyK",
+        "2u6HB59fEXPPk3YVBGfQIZ",
+        "5WfDyog8yO7ZF8JdJxeZfl",
+        "5NzK7S7oQQnO8eLRf7kDJx",
+        "6dFFcYQ8VhifgdKgYY5LYL",
+        "0YF8PfcGbsKg5IaFyPnlyY"
+    ],
     "english indie rock": [
         "4Uzll2pB5SnmC0rulgDHyB",
         "5xRIjNGS3sXzJ4E6TCQmYd"
@@ -699,6 +687,9 @@
         "4NDXeXypRq8YdFCKqg4sAn"
     ],
     "experimental indie": [
+        "7MXwYs2b8dEl1wSNtUeEpZ"
+    ],
+    "hyperpop": [
         "7MXwYs2b8dEl1wSNtUeEpZ"
     ],
     "british soul": [
