@@ -81,7 +81,6 @@
         "654KFpNOZ26Hj9luu7aKeM",
         "7fQtF6nueGmgPXajwcATgJ",
         "6clr8IqVLP2qcYxJpgSfrt",
-        "120nAPsuLm0jxpTnlmbHEr",
         "0QURjDbfsPsDa5R4sgkjV9",
         "3KeR5BDM2giFr8zoSXBrgE",
         "6NtEjhPWfZcvJQuvjGX4bk",
@@ -101,7 +100,6 @@
         "40lqihqmkBdwM0QczKnoME",
         "5a4VSyY7zsfVVqHweYHG7R",
         "5X0bIKvPtSDo4NpXqgrB6p",
-        "1hOgPjM2AP2zUJnaXmmEGb",
         "0S0KGZnfBGSIssfF54WSJh"
     ],
     "electropop": [
@@ -217,6 +215,7 @@
     "indie garage rock": [
         "7fQtF6nueGmgPXajwcATgJ",
         "2asqm6ydqbRKZKbXfGIhrX",
+        "6kOJder0EbgQU4OsmkD5US",
         "7BJBgg2OqbLnNkuCBaabR3"
     ],
     "indie punk": [
@@ -262,14 +261,6 @@
     "nu gaze": [
         "7fQtF6nueGmgPXajwcATgJ"
     ],
-    "new rave": [
-        "6clr8IqVLP2qcYxJpgSfrt",
-        "755yBlrk0Sz8tIgMMTgyr1",
-        "2go9ZhAvccCfjThGINq3yr",
-        "5frLkVBweO9UCLylStxJka",
-        "3q5CZdmVxP6hE0mlBcYEU1",
-        "0lQg5cOxb9i4ArScHaSbFL"
-    ],
     "one-person band": [
         "6clr8IqVLP2qcYxJpgSfrt"
     ],
@@ -299,6 +290,9 @@
         "3pjk4sukkPuJXmRhvvYEhO",
         "3S2GACXwN1hHxSKHxkGvKb"
     ],
+    "deep new americana": [
+        "3pjk4sukkPuJXmRhvvYEhO"
+    ],
     "folk": [
         "3pjk4sukkPuJXmRhvvYEhO"
     ],
@@ -321,13 +315,6 @@
     ],
     "stomp and holler": [
         "3pjk4sukkPuJXmRhvvYEhO"
-    ],
-    "chamber pop": [
-        "120nAPsuLm0jxpTnlmbHEr",
-        "0QURjDbfsPsDa5R4sgkjV9",
-        "3KeR5BDM2giFr8zoSXBrgE",
-        "0fO1KemWL2uCCQmM22iKlj",
-        "78pal3TbudCtgq10jJowYs"
     ],
     "electra": [
         "120nAPsuLm0jxpTnlmbHEr",
@@ -365,16 +352,17 @@
     "london indie": [
         "2PfgptDcfJTFtoZIS3AukX"
     ],
-    "modern alternative rock": [
-        "2PfgptDcfJTFtoZIS3AukX",
-        "2lkSyyfAi4ctpSfpZdKkQx"
-    ],
     "uk post-punk revival": [
         "2PfgptDcfJTFtoZIS3AukX",
         "4Uzll2pB5SnmC0rulgDHyB"
     ],
     "austrian jazz": [
         "3TTuloLfi1JQIoWZoaysgq"
+    ],
+    "chamber pop": [
+        "3KeR5BDM2giFr8zoSXBrgE",
+        "0fO1KemWL2uCCQmM22iKlj",
+        "78pal3TbudCtgq10jJowYs"
     ],
     "modern folk rock": [
         "3KeR5BDM2giFr8zoSXBrgE",
@@ -427,7 +415,6 @@
         "5frLkVBweO9UCLylStxJka",
         "3xt8egQistHqjJpAayoZz3",
         "35CHoLB0GEwYlOomriifC6",
-        "5wnCTZtzIZxasRSHzI1JeW",
         "2u6HB59fEXPPk3YVBGfQIZ",
         "5NzK7S7oQQnO8eLRf7kDJx"
     ],
@@ -439,6 +426,10 @@
         "1ZKbjlrUC5REoa13uSH5KL",
         "50sj9IKfG3XsGirn9fu6jl",
         "6dFFcYQ8VhifgdKgYY5LYL"
+    ],
+    "high vibe": [
+        "5g9YhHW8tE7Tcslgxsk5u9",
+        "5NzK7S7oQQnO8eLRf7kDJx"
     ],
     "hip pop": [
         "5g9YhHW8tE7Tcslgxsk5u9"
@@ -493,6 +484,13 @@
     "collage pop": [
         "755yBlrk0Sz8tIgMMTgyr1"
     ],
+    "new rave": [
+        "755yBlrk0Sz8tIgMMTgyr1",
+        "2go9ZhAvccCfjThGINq3yr",
+        "5frLkVBweO9UCLylStxJka",
+        "3q5CZdmVxP6hE0mlBcYEU1",
+        "0lQg5cOxb9i4ArScHaSbFL"
+    ],
     "psychedelic hip hop": [
         "755yBlrk0Sz8tIgMMTgyr1",
         "5WfDyog8yO7ZF8JdJxeZfl"
@@ -524,7 +522,6 @@
         "5bOYK3R5KjuG6CEInqWF0w",
         "5V9HrJ2u1noLUk0V4HF8uM",
         "2go9ZhAvccCfjThGINq3yr",
-        "75vFTgDgdfVhbniLoyCNKh",
         "3fDOKKGXHv4CsGCOTv4W3z"
     ],
     "techno": [
@@ -581,7 +578,6 @@
     ],
     "fourth world": [
         "5V9HrJ2u1noLUk0V4HF8uM",
-        "1GmdNCH9lvYzn0ZgtG8Mpa",
         "7imORAK8Qa40pbKJILg8BT",
         "1hOgPjM2AP2zUJnaXmmEGb"
     ],
@@ -703,6 +699,10 @@
     "tropical house": [
         "1CTm3ARqDETSm7GfvNYNJp"
     ],
+    "uk pop": [
+        "1CTm3ARqDETSm7GfvNYNJp",
+        "3a9qH2VEsSiOZvMrjaS0Nu"
+    ],
     "alternative rock": [
         "2asqm6ydqbRKZKbXfGIhrX",
         "7acEciVtnuTzmwKptkjth5",
@@ -712,7 +712,6 @@
     ],
     "australian garage punk": [
         "2asqm6ydqbRKZKbXfGIhrX",
-        "6L8aSt5Qna8BorAnX9NPGK",
         "7BJBgg2OqbLnNkuCBaabR3"
     ],
     "bay area indie": [
@@ -787,7 +786,6 @@
     "chillwave": [
         "5frLkVBweO9UCLylStxJka",
         "3q5CZdmVxP6hE0mlBcYEU1",
-        "1ZKbjlrUC5REoa13uSH5KL",
         "4zrVrsO113smesPZMbBA8I"
     ],
     "ai": [
@@ -808,9 +806,6 @@
         "3a9qH2VEsSiOZvMrjaS0Nu"
     ],
     "post-teen pop": [
-        "3a9qH2VEsSiOZvMrjaS0Nu"
-    ],
-    "uk pop": [
         "3a9qH2VEsSiOZvMrjaS0Nu"
     ],
     "soul": [
@@ -1229,9 +1224,6 @@
     "punk rock italiano": [
         "7oQ7v1qvJ2SnCESvPIv1U7"
     ],
-    "high vibe": [
-        "5NzK7S7oQQnO8eLRf7kDJx"
-    ],
     "5th wave emo": [
         "6JazmJ4xNcect6DTUEe3YR"
     ],
@@ -1317,6 +1309,9 @@
         "78pal3TbudCtgq10jJowYs"
     ],
     "nz folk": [
+        "78pal3TbudCtgq10jJowYs"
+    ],
+    "nz indie": [
         "78pal3TbudCtgq10jJowYs"
     ],
     "jazz cubano": [
