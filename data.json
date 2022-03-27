@@ -11,7 +11,8 @@
         "0QURjDbfsPsDa5R4sgkjV9",
         "3KeR5BDM2giFr8zoSXBrgE",
         "4Uzll2pB5SnmC0rulgDHyB",
-        "64tlHrwYQoCnCyG46SVQk7"
+        "64tlHrwYQoCnCyG46SVQk7",
+        "7MNCPNHZZajPWeZPrbLbUc"
     ],
     "indie jazz": [
         "5DkIhSmABMcjjDh2TJ2Pu9",
@@ -95,6 +96,7 @@
         "150xIoPgnDoEfRvd0paiIc",
         "1ZKbjlrUC5REoa13uSH5KL",
         "2CISL0rSGzbO0MbQMlqBez",
+        "7imORAK8Qa40pbKJILg8BT",
         "50sj9IKfG3XsGirn9fu6jl",
         "6wZqyr0yloM7DZ76mht4S1",
         "40lqihqmkBdwM0QczKnoME",
@@ -128,7 +130,6 @@
         "0fO1KemWL2uCCQmM22iKlj",
         "2CISL0rSGzbO0MbQMlqBez",
         "6wZqyr0yloM7DZ76mht4S1",
-        "07qr8dMQJeFc3HluFiTrhV",
         "5X0bIKvPtSDo4NpXqgrB6p",
         "58HB0yjdQE2MH5MrfWt4EO"
     ],
@@ -172,7 +173,8 @@
         "5WfDyog8yO7ZF8JdJxeZfl"
     ],
     "boom bap": [
-        "5kCNU9ouaRoRtQNJrtfavl"
+        "5kCNU9ouaRoRtQNJrtfavl",
+        "0HmKhR7Umt3ACs52ZLnKyK"
     ],
     "underground rap": [
         "5kCNU9ouaRoRtQNJrtfavl"
@@ -261,6 +263,14 @@
     "nu gaze": [
         "7fQtF6nueGmgPXajwcATgJ"
     ],
+    "new rave": [
+        "6clr8IqVLP2qcYxJpgSfrt",
+        "755yBlrk0Sz8tIgMMTgyr1",
+        "2go9ZhAvccCfjThGINq3yr",
+        "5frLkVBweO9UCLylStxJka",
+        "3q5CZdmVxP6hE0mlBcYEU1",
+        "0lQg5cOxb9i4ArScHaSbFL"
+    ],
     "one-person band": [
         "6clr8IqVLP2qcYxJpgSfrt"
     ],
@@ -301,10 +311,7 @@
         "120nAPsuLm0jxpTnlmbHEr",
         "0QURjDbfsPsDa5R4sgkjV9",
         "3KeR5BDM2giFr8zoSXBrgE",
-        "4NDXeXypRq8YdFCKqg4sAn",
         "7imORAK8Qa40pbKJILg8BT",
-        "5X0bIKvPtSDo4NpXqgrB6p",
-        "7MNCPNHZZajPWeZPrbLbUc",
         "78pal3TbudCtgq10jJowYs"
     ],
     "memphis americana": [
@@ -337,7 +344,8 @@
         "3pPOcvur3LCnaTHrdvyJ1I"
     ],
     "nu jazz": [
-        "3pPOcvur3LCnaTHrdvyJ1I"
+        "3pPOcvur3LCnaTHrdvyJ1I",
+        "3S9s1fP1gVy5cuE4k7ZlQM"
     ],
     "experimental hip hop": [
         "5tbAMrcxFD4iW40GxFv8nb",
@@ -427,10 +435,6 @@
         "50sj9IKfG3XsGirn9fu6jl",
         "6dFFcYQ8VhifgdKgYY5LYL"
     ],
-    "high vibe": [
-        "5g9YhHW8tE7Tcslgxsk5u9",
-        "5NzK7S7oQQnO8eLRf7kDJx"
-    ],
     "hip pop": [
         "5g9YhHW8tE7Tcslgxsk5u9"
     ],
@@ -484,13 +488,6 @@
     "collage pop": [
         "755yBlrk0Sz8tIgMMTgyr1"
     ],
-    "new rave": [
-        "755yBlrk0Sz8tIgMMTgyr1",
-        "2go9ZhAvccCfjThGINq3yr",
-        "5frLkVBweO9UCLylStxJka",
-        "3q5CZdmVxP6hE0mlBcYEU1",
-        "0lQg5cOxb9i4ArScHaSbFL"
-    ],
     "psychedelic hip hop": [
         "755yBlrk0Sz8tIgMMTgyr1",
         "5WfDyog8yO7ZF8JdJxeZfl"
@@ -522,6 +519,7 @@
         "5bOYK3R5KjuG6CEInqWF0w",
         "5V9HrJ2u1noLUk0V4HF8uM",
         "2go9ZhAvccCfjThGINq3yr",
+        "75vFTgDgdfVhbniLoyCNKh",
         "3fDOKKGXHv4CsGCOTv4W3z"
     ],
     "techno": [
@@ -767,6 +765,9 @@
     "chinese experimental": [
         "2bTFTduE9Pteu7HsXqN1eN"
     ],
+    "future bass": [
+        "6lLhOnxSvlUgzvm3a6kByS"
+    ],
     "kawaii future bass": [
         "6lLhOnxSvlUgzvm3a6kByS"
     ],
@@ -803,9 +804,6 @@
         "3S2GACXwN1hHxSKHxkGvKb"
     ],
     "candy pop": [
-        "3a9qH2VEsSiOZvMrjaS0Nu"
-    ],
-    "post-teen pop": [
         "3a9qH2VEsSiOZvMrjaS0Nu"
     ],
     "soul": [
@@ -1015,6 +1013,9 @@
     "rap napoletano": [
         "19iZTn6IM82raMquk5Z7Ul"
     ],
+    "afrobeat": [
+        "4ygyND85sM13LJdH75qR2v"
+    ],
     "afropop": [
         "4ygyND85sM13LJdH75qR2v"
     ],
@@ -1136,6 +1137,9 @@
     "canadian punk": [
         "2lkSyyfAi4ctpSfpZdKkQx"
     ],
+    "modern alternative rock": [
+        "2lkSyyfAi4ctpSfpZdKkQx"
+    ],
     "post-hardcore": [
         "2lkSyyfAi4ctpSfpZdKkQx"
     ],
@@ -1224,6 +1228,9 @@
     "punk rock italiano": [
         "7oQ7v1qvJ2SnCESvPIv1U7"
     ],
+    "high vibe": [
+        "5NzK7S7oQQnO8eLRf7kDJx"
+    ],
     "5th wave emo": [
         "6JazmJ4xNcect6DTUEe3YR"
     ],
@@ -1309,9 +1316,6 @@
         "78pal3TbudCtgq10jJowYs"
     ],
     "nz folk": [
-        "78pal3TbudCtgq10jJowYs"
-    ],
-    "nz indie": [
         "78pal3TbudCtgq10jJowYs"
     ],
     "jazz cubano": [
