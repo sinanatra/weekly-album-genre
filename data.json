@@ -32,6 +32,7 @@
         "5frLkVBweO9UCLylStxJka",
         "0GPmuVuCdC5hCsiuy1wXle",
         "35CHoLB0GEwYlOomriifC6",
+        "5FQ4sOGqRWUA5wO20AwPcO",
         "2u6HB59fEXPPk3YVBGfQIZ",
         "57EkTny9UjqpLhFzMO4Hdb",
         "3AYbVMgPfYy8JcnTkHzktt",
@@ -69,7 +70,6 @@
     ],
     "art pop": [
         "654KFpNOZ26Hj9luu7aKeM",
-        "7fQtF6nueGmgPXajwcATgJ",
         "6clr8IqVLP2qcYxJpgSfrt",
         "0QURjDbfsPsDa5R4sgkjV9",
         "2PfgptDcfJTFtoZIS3AukX",
@@ -128,13 +128,6 @@
         "1ZKbjlrUC5REoa13uSH5KL",
         "6wZqyr0yloM7DZ76mht4S1"
     ],
-    "singer-songwriter": [
-        "654KFpNOZ26Hj9luu7aKeM",
-        "3KeR5BDM2giFr8zoSXBrgE",
-        "0fO1KemWL2uCCQmM22iKlj",
-        "6wZqyr0yloM7DZ76mht4S1",
-        "1OCE83C2l4g7kRxTrkSfND"
-    ],
     "afrofuturism": [
         "6AfA0FZhzRTpjDDYHkCd5B",
         "59GRmAvlGs7KjLizFnV7Y9",
@@ -176,16 +169,13 @@
     "american shoegaze": [
         "7fQtF6nueGmgPXajwcATgJ"
     ],
-    "dream pop": [
-        "7fQtF6nueGmgPXajwcATgJ",
-        "1OCE83C2l4g7kRxTrkSfND"
-    ],
     "dreamo": [
         "7fQtF6nueGmgPXajwcATgJ",
         "2w3ncZJGWsVbaUq2NvVVt3"
     ],
     "garage psych": [
         "7fQtF6nueGmgPXajwcATgJ",
+        "120nAPsuLm0jxpTnlmbHEr",
         "2asqm6ydqbRKZKbXfGIhrX",
         "4I9skhRTov4hKAxAgoclt3",
         "2lkSyyfAi4ctpSfpZdKkQx"
@@ -212,16 +202,11 @@
         "6clr8IqVLP2qcYxJpgSfrt",
         "2PfgptDcfJTFtoZIS3AukX",
         "3KeR5BDM2giFr8zoSXBrgE",
-        "755yBlrk0Sz8tIgMMTgyr1",
-        "2asqm6ydqbRKZKbXfGIhrX",
-        "4I9skhRTov4hKAxAgoclt3",
         "1yHEYtYNq2HzkidBICThpW",
         "3q5CZdmVxP6hE0mlBcYEU1",
-        "2CISL0rSGzbO0MbQMlqBez",
         "0Diq2A7FjraCWgDW1B5u9S",
         "0UMuX8pRsyfSkv0gPJMipQ",
         "5a4VSyY7zsfVVqHweYHG7R",
-        "1X0Na8DRV5U6G9grTPDWKF",
         "07qr8dMQJeFc3HluFiTrhV",
         "5X0bIKvPtSDo4NpXqgrB6p",
         "1OCE83C2l4g7kRxTrkSfND"
@@ -387,6 +372,16 @@
     "jamtronica": [
         "4u4kwuJogLZegGw8OPCplp"
     ],
+    "alternative r&b": [
+        "5g9YhHW8tE7Tcslgxsk5u9",
+        "3UvD4QNv5b0vW9G2ZHfjsu",
+        "5frLkVBweO9UCLylStxJka",
+        "3xt8egQistHqjJpAayoZz3",
+        "35CHoLB0GEwYlOomriifC6",
+        "5wnCTZtzIZxasRSHzI1JeW",
+        "2u6HB59fEXPPk3YVBGfQIZ",
+        "5NzK7S7oQQnO8eLRf7kDJx"
+    ],
     "dance pop": [
         "5g9YhHW8tE7Tcslgxsk5u9",
         "1CTm3ARqDETSm7GfvNYNJp",
@@ -498,8 +493,7 @@
     "italian indie pop": [
         "1YidudHJbI4mtVVLlhnNAv",
         "5uaOfLTa1aXHxPYmXytiq2",
-        "5N6EUQuPNdfqqhiMs4aNjw",
-        "14elUEgmk0YJEcXn5SYk7h"
+        "5N6EUQuPNdfqqhiMs4aNjw"
     ],
     "newcastle indie": [
         "15CVkItclaGrn0xLr16Qw0"
@@ -685,14 +679,6 @@
     "punk blues": [
         "2asqm6ydqbRKZKbXfGIhrX"
     ],
-    "alternative r&b": [
-        "3UvD4QNv5b0vW9G2ZHfjsu",
-        "5frLkVBweO9UCLylStxJka",
-        "3xt8egQistHqjJpAayoZz3",
-        "35CHoLB0GEwYlOomriifC6",
-        "2u6HB59fEXPPk3YVBGfQIZ",
-        "5NzK7S7oQQnO8eLRf7kDJx"
-    ],
     "indie r&b": [
         "3UvD4QNv5b0vW9G2ZHfjsu"
     ],
@@ -701,10 +687,6 @@
     ],
     "experimental rock": [
         "4I9skhRTov4hKAxAgoclt3"
-    ],
-    "noise rock": [
-        "4I9skhRTov4hKAxAgoclt3",
-        "2lkSyyfAi4ctpSfpZdKkQx"
     ],
     "italian emo": [
         "6dcyDyTcLq2HfBspWxPctq",
@@ -738,7 +720,6 @@
     "chillwave": [
         "5frLkVBweO9UCLylStxJka",
         "3q5CZdmVxP6hE0mlBcYEU1",
-        "1ZKbjlrUC5REoa13uSH5KL",
         "4zrVrsO113smesPZMbBA8I"
     ],
     "ai": [
@@ -835,6 +816,9 @@
         "0fO1KemWL2uCCQmM22iKlj"
     ],
     "piano rock": [
+        "0fO1KemWL2uCCQmM22iKlj"
+    ],
+    "singer-songwriter": [
         "0fO1KemWL2uCCQmM22iKlj"
     ],
     "jazz funk": [
@@ -972,10 +956,6 @@
     "punk 'n' roll": [
         "5y0kLa3OexlQ1o5gfPr4AR"
     ],
-    "afropop": [
-        "4dKXLRyASjmVovsT22FJHP",
-        "4ygyND85sM13LJdH75qR2v"
-    ],
     "french indie folk": [
         "4dKXLRyASjmVovsT22FJHP"
     ],
@@ -984,6 +964,9 @@
     ],
     "rap napoletano": [
         "19iZTn6IM82raMquk5Z7Ul"
+    ],
+    "afropop": [
+        "4ygyND85sM13LJdH75qR2v"
     ],
     "desert blues": [
         "4ygyND85sM13LJdH75qR2v",
@@ -1106,6 +1089,9 @@
         "2lkSyyfAi4ctpSfpZdKkQx"
     ],
     "modern alternative rock": [
+        "2lkSyyfAi4ctpSfpZdKkQx"
+    ],
+    "noise rock": [
         "2lkSyyfAi4ctpSfpZdKkQx"
     ],
     "post-hardcore": [
@@ -1285,11 +1271,17 @@
     "nz folk": [
         "78pal3TbudCtgq10jJowYs"
     ],
+    "nz indie": [
+        "78pal3TbudCtgq10jJowYs"
+    ],
     "australian garage punk": [
         "7BJBgg2OqbLnNkuCBaabR3"
     ],
     "jazz cubano": [
         "2Nvx8NLNOdlUhcWddhfQA4"
+    ],
+    "dream pop": [
+        "1OCE83C2l4g7kRxTrkSfND"
     ],
     "slowcore": [
         "1OCE83C2l4g7kRxTrkSfND"
