@@ -13,6 +13,7 @@
         "4vXrmwhLpCPaH0ueg0nNXG",
         "5iooBeTrG8wPKMgo7OAOX6",
         "04kN5iKwGoYMSkr9cPZrWp",
+        "19uGXP6YaIElZQ08aNLJwS",
         "4oxXzA5rNIBilAsmoK88Yg",
         "5stujLSbVGnsp2fdBtvPqz",
         "7JmSCHwa1C3EpuODQlVl8Z",
@@ -30,8 +31,10 @@
         "04kN5iKwGoYMSkr9cPZrWp",
         "5frLkVBweO9UCLylStxJka",
         "0GPmuVuCdC5hCsiuy1wXle",
+        "3xt8egQistHqjJpAayoZz3",
         "35CHoLB0GEwYlOomriifC6",
         "6QrGmXbUtjyekuW83gXBBb",
+        "5FQ4sOGqRWUA5wO20AwPcO",
         "2u6HB59fEXPPk3YVBGfQIZ",
         "57EkTny9UjqpLhFzMO4Hdb",
         "3AYbVMgPfYy8JcnTkHzktt",
@@ -56,6 +59,7 @@
         "5guHpNnWHHU1CyvpZCayee",
         "6cx4GVNs03Pu4ZczRnWiLd",
         "600ClrWRsAr7jZ0qjaBLHz",
+        "5Ki4YFQrUx7hCcQx1LJUQb",
         "5WfDyog8yO7ZF8JdJxeZfl"
     ],
     "rap": [
@@ -152,14 +156,13 @@
     ],
     "alternative hip hop": [
         "5kCNU9ouaRoRtQNJrtfavl",
+        "5lVgjLzgPHy8wuFYJOxKWA",
         "23SV7P5U8oF3EJfkdW08wO",
+        "5fO3IS08lcTw9rfUtkgILv",
         "0HmKhR7Umt3ACs52ZLnKyK",
         "5WfDyog8yO7ZF8JdJxeZfl"
     ],
     "boom bap": [
-        "5kCNU9ouaRoRtQNJrtfavl"
-    ],
-    "underground rap": [
         "5kCNU9ouaRoRtQNJrtfavl"
     ],
     "american shoegaze": [
@@ -267,9 +270,6 @@
         "3pjk4sukkPuJXmRhvvYEhO"
     ],
     "new americana": [
-        "3pjk4sukkPuJXmRhvvYEhO"
-    ],
-    "stomp and holler": [
         "3pjk4sukkPuJXmRhvvYEhO"
     ],
     "chamber psych": [
@@ -437,6 +437,7 @@
     ],
     "alternative dance": [
         "755yBlrk0Sz8tIgMMTgyr1",
+        "4Uzll2pB5SnmC0rulgDHyB",
         "2go9ZhAvccCfjThGINq3yr",
         "5frLkVBweO9UCLylStxJka",
         "3q5CZdmVxP6hE0mlBcYEU1",
@@ -530,10 +531,6 @@
     "experimental": [
         "5V9HrJ2u1noLUk0V4HF8uM"
     ],
-    "fourth world": [
-        "5V9HrJ2u1noLUk0V4HF8uM",
-        "1hOgPjM2AP2zUJnaXmmEGb"
-    ],
     "glitch": [
         "5V9HrJ2u1noLUk0V4HF8uM",
         "5WfDyog8yO7ZF8JdJxeZfl"
@@ -549,7 +546,8 @@
         "0lQg5cOxb9i4ArScHaSbFL"
     ],
     "outsider house": [
-        "5V9HrJ2u1noLUk0V4HF8uM"
+        "5V9HrJ2u1noLUk0V4HF8uM",
+        "1hOgPjM2AP2zUJnaXmmEGb"
     ],
     "uk experimental electronic": [
         "5V9HrJ2u1noLUk0V4HF8uM"
@@ -773,6 +771,10 @@
         "1yHEYtYNq2HzkidBICThpW",
         "6JazmJ4xNcect6DTUEe3YR"
     ],
+    "anti-folk": [
+        "1yHEYtYNq2HzkidBICThpW",
+        "0UMuX8pRsyfSkv0gPJMipQ"
+    ],
     "emo": [
         "1yHEYtYNq2HzkidBICThpW",
         "6JazmJ4xNcect6DTUEe3YR"
@@ -816,7 +818,8 @@
         "0fO1KemWL2uCCQmM22iKlj"
     ],
     "lilith": [
-        "0fO1KemWL2uCCQmM22iKlj"
+        "0fO1KemWL2uCCQmM22iKlj",
+        "0UMuX8pRsyfSkv0gPJMipQ"
     ],
     "permanent wave": [
         "0fO1KemWL2uCCQmM22iKlj"
@@ -916,6 +919,9 @@
         "4nkkC31LuEOhiyahP5fIB4"
     ],
     "alt z": [
+        "50sj9IKfG3XsGirn9fu6jl"
+    ],
+    "viral rap": [
         "50sj9IKfG3XsGirn9fu6jl"
     ],
     "underground hip hop": [
@@ -1056,7 +1062,8 @@
         "7acEciVtnuTzmwKptkjth5"
     ],
     "rock": [
-        "7acEciVtnuTzmwKptkjth5"
+        "7acEciVtnuTzmwKptkjth5",
+        "07qr8dMQJeFc3HluFiTrhV"
     ],
     "uk alternative hip hop": [
         "5Ki4YFQrUx7hCcQx1LJUQb"
@@ -1079,9 +1086,6 @@
     "alternative pop": [
         "0UMuX8pRsyfSkv0gPJMipQ"
     ],
-    "anti-folk": [
-        "0UMuX8pRsyfSkv0gPJMipQ"
-    ],
     "olympia wa indie": [
         "0UMuX8pRsyfSkv0gPJMipQ"
     ],
@@ -1092,13 +1096,10 @@
     "canadian punk": [
         "2lkSyyfAi4ctpSfpZdKkQx"
     ],
-    "modern alternative rock": [
-        "2lkSyyfAi4ctpSfpZdKkQx"
-    ],
     "modern rock": [
         "2lkSyyfAi4ctpSfpZdKkQx"
     ],
-    "noise rock": [
+    "post-hardcore": [
         "2lkSyyfAi4ctpSfpZdKkQx"
     ],
     "disco": [
@@ -1130,6 +1131,13 @@
         "0YNcv2znQ6teI7ExnFPb3Z"
     ],
     "metallic hardcore": [
+        "0YNcv2znQ6teI7ExnFPb3Z"
+    ],
+    "modern hardcore": [
+        "0YNcv2znQ6teI7ExnFPb3Z",
+        "1X0Na8DRV5U6G9grTPDWKF"
+    ],
+    "modern melodic hardcore": [
         "0YNcv2znQ6teI7ExnFPb3Z"
     ],
     "straight edge": [
@@ -1194,6 +1202,9 @@
     ],
     "brooklyn indie": [
         "5X0bIKvPtSDo4NpXqgrB6p"
+    ],
+    "fourth world": [
+        "1hOgPjM2AP2zUJnaXmmEGb"
     ],
     "italian experimental": [
         "1hOgPjM2AP2zUJnaXmmEGb"
