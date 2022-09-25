@@ -15,7 +15,6 @@
         "04kN5iKwGoYMSkr9cPZrWp",
         "4oxXzA5rNIBilAsmoK88Yg",
         "5stujLSbVGnsp2fdBtvPqz",
-        "7JmSCHwa1C3EpuODQlVl8Z",
         "3AYbVMgPfYy8JcnTkHzktt",
         "1eY0OQek6FHZWiPgJaXAzl",
         "3VOw8wKhsIWTwwg818oIbp"
@@ -169,10 +168,12 @@
         "7fQtF6nueGmgPXajwcATgJ"
     ],
     "dreamo": [
-        "7fQtF6nueGmgPXajwcATgJ"
+        "7fQtF6nueGmgPXajwcATgJ",
+        "6JazmJ4xNcect6DTUEe3YR"
     ],
     "garage psych": [
         "7fQtF6nueGmgPXajwcATgJ",
+        "120nAPsuLm0jxpTnlmbHEr",
         "4I9skhRTov4hKAxAgoclt3",
         "2lkSyyfAi4ctpSfpZdKkQx"
     ],
@@ -256,7 +257,6 @@
     ],
     "indie folk": [
         "3pjk4sukkPuJXmRhvvYEhO",
-        "120nAPsuLm0jxpTnlmbHEr",
         "0QURjDbfsPsDa5R4sgkjV9",
         "3KeR5BDM2giFr8zoSXBrgE",
         "78pal3TbudCtgq10jJowYs"
@@ -360,7 +360,6 @@
         "5bOYK3R5KjuG6CEInqWF0w",
         "5V9HrJ2u1noLUk0V4HF8uM",
         "2go9ZhAvccCfjThGINq3yr",
-        "64tlHrwYQoCnCyG46SVQk7",
         "3q5CZdmVxP6hE0mlBcYEU1",
         "75vFTgDgdfVhbniLoyCNKh",
         "3fDOKKGXHv4CsGCOTv4W3z",
@@ -389,9 +388,7 @@
     ],
     "dance pop": [
         "5g9YhHW8tE7Tcslgxsk5u9",
-        "6NtEjhPWfZcvJQuvjGX4bk",
         "1CTm3ARqDETSm7GfvNYNJp",
-        "2KICtQ7dqaaot7B1yN9wPq",
         "3a9qH2VEsSiOZvMrjaS0Nu",
         "1ZKbjlrUC5REoa13uSH5KL",
         "6dFFcYQ8VhifgdKgYY5LYL"
@@ -554,11 +551,11 @@
         "5R5CPGWYyfFJNaGPZ32v8i"
     ],
     "abstract hip hop": [
-        "23SV7P5U8oF3EJfkdW08wO",
-        "0HmKhR7Umt3ACs52ZLnKyK"
+        "23SV7P5U8oF3EJfkdW08wO"
     ],
     "escape room": [
         "23SV7P5U8oF3EJfkdW08wO",
+        "3UvD4QNv5b0vW9G2ZHfjsu",
         "2KICtQ7dqaaot7B1yN9wPq",
         "6cx4GVNs03Pu4ZczRnWiLd",
         "35CHoLB0GEwYlOomriifC6",
@@ -600,6 +597,9 @@
         "5guHpNnWHHU1CyvpZCayee",
         "6cx4GVNs03Pu4ZczRnWiLd",
         "7AiWJCZ2HArLkWG8HdPgIQ"
+    ],
+    "rap rock": [
+        "5guHpNnWHHU1CyvpZCayee"
     ],
     "japanese jazz": [
         "5UMV4zntq8R2cELcNd1epn",
@@ -702,6 +702,10 @@
     ],
     "experimental rock": [
         "4I9skhRTov4hKAxAgoclt3"
+    ],
+    "noise rock": [
+        "4I9skhRTov4hKAxAgoclt3",
+        "2lkSyyfAi4ctpSfpZdKkQx"
     ],
     "italian emo": [
         "6dcyDyTcLq2HfBspWxPctq",
@@ -833,9 +837,6 @@
         "7AiWJCZ2HArLkWG8HdPgIQ",
         "294v9hOiHtrDld4cNeO3vQ"
     ],
-    "traditional soul": [
-        "62ARw44PcqIkxP5PvGEwW6"
-    ],
     "psychedelic folk rock": [
         "6L8aSt5Qna8BorAnX9NPGK"
     ],
@@ -947,9 +948,6 @@
         "4oxXzA5rNIBilAsmoK88Yg"
     ],
     "jazz trumpet": [
-        "4oxXzA5rNIBilAsmoK88Yg"
-    ],
-    "neo r&b": [
         "4oxXzA5rNIBilAsmoK88Yg"
     ],
     "glam punk": [
@@ -1082,8 +1080,7 @@
         "0UMuX8pRsyfSkv0gPJMipQ"
     ],
     "anti-folk": [
-        "0UMuX8pRsyfSkv0gPJMipQ",
-        "58HB0yjdQE2MH5MrfWt4EO"
+        "0UMuX8pRsyfSkv0gPJMipQ"
     ],
     "olympia wa indie": [
         "0UMuX8pRsyfSkv0gPJMipQ"
@@ -1093,9 +1090,6 @@
         "1X0Na8DRV5U6G9grTPDWKF"
     ],
     "canadian punk": [
-        "2lkSyyfAi4ctpSfpZdKkQx"
-    ],
-    "noise rock": [
         "2lkSyyfAi4ctpSfpZdKkQx"
     ],
     "disco": [
