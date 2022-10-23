@@ -12,7 +12,6 @@
         "4vXrmwhLpCPaH0ueg0nNXG",
         "5iooBeTrG8wPKMgo7OAOX6",
         "04kN5iKwGoYMSkr9cPZrWp",
-        "6GJ3n96Nj0u2E6YhAngJko",
         "4oxXzA5rNIBilAsmoK88Yg",
         "5stujLSbVGnsp2fdBtvPqz",
         "7JmSCHwa1C3EpuODQlVl8Z",
@@ -154,6 +153,7 @@
         "5kCNU9ouaRoRtQNJrtfavl",
         "5lVgjLzgPHy8wuFYJOxKWA",
         "23SV7P5U8oF3EJfkdW08wO",
+        "6cx4GVNs03Pu4ZczRnWiLd",
         "5fO3IS08lcTw9rfUtkgILv",
         "0HmKhR7Umt3ACs52ZLnKyK",
         "5WfDyog8yO7ZF8JdJxeZfl"
@@ -173,8 +173,7 @@
     ],
     "garage psych": [
         "7fQtF6nueGmgPXajwcATgJ",
-        "4I9skhRTov4hKAxAgoclt3",
-        "2lkSyyfAi4ctpSfpZdKkQx"
+        "4I9skhRTov4hKAxAgoclt3"
     ],
     "indie garage rock": [
         "7fQtF6nueGmgPXajwcATgJ",
@@ -383,9 +382,7 @@
         "5g9YhHW8tE7Tcslgxsk5u9",
         "1CTm3ARqDETSm7GfvNYNJp",
         "3a9qH2VEsSiOZvMrjaS0Nu",
-        "1ZKbjlrUC5REoa13uSH5KL",
-        "50sj9IKfG3XsGirn9fu6jl",
-        "6dFFcYQ8VhifgdKgYY5LYL"
+        "1ZKbjlrUC5REoa13uSH5KL"
     ],
     "hip pop": [
         "5g9YhHW8tE7Tcslgxsk5u9"
@@ -475,10 +472,8 @@
         "5bOYK3R5KjuG6CEInqWF0w",
         "5V9HrJ2u1noLUk0V4HF8uM",
         "2go9ZhAvccCfjThGINq3yr",
-        "3fDOKKGXHv4CsGCOTv4W3z"
-    ],
-    "tech house": [
-        "5bOYK3R5KjuG6CEInqWF0w"
+        "3fDOKKGXHv4CsGCOTv4W3z",
+        "1hOgPjM2AP2zUJnaXmmEGb"
     ],
     "techno": [
         "5bOYK3R5KjuG6CEInqWF0w",
@@ -499,8 +494,7 @@
         "5V9HrJ2u1noLUk0V4HF8uM"
     ],
     "ambient": [
-        "5V9HrJ2u1noLUk0V4HF8uM",
-        "1hOgPjM2AP2zUJnaXmmEGb"
+        "5V9HrJ2u1noLUk0V4HF8uM"
     ],
     "ambient techno": [
         "5V9HrJ2u1noLUk0V4HF8uM"
@@ -520,9 +514,6 @@
     "experimental": [
         "5V9HrJ2u1noLUk0V4HF8uM"
     ],
-    "fourth world": [
-        "5V9HrJ2u1noLUk0V4HF8uM"
-    ],
     "glitch": [
         "5V9HrJ2u1noLUk0V4HF8uM",
         "5WfDyog8yO7ZF8JdJxeZfl"
@@ -536,9 +527,6 @@
     "ninja": [
         "5V9HrJ2u1noLUk0V4HF8uM",
         "0lQg5cOxb9i4ArScHaSbFL"
-    ],
-    "outsider house": [
-        "5V9HrJ2u1noLUk0V4HF8uM"
     ],
     "uk experimental electronic": [
         "5V9HrJ2u1noLUk0V4HF8uM"
@@ -573,7 +561,8 @@
         "0YF8PfcGbsKg5IaFyPnlyY"
     ],
     "english indie rock": [
-        "4Uzll2pB5SnmC0rulgDHyB"
+        "4Uzll2pB5SnmC0rulgDHyB",
+        "5xRIjNGS3sXzJ4E6TCQmYd"
     ],
     "conscious hip hop": [
         "5guHpNnWHHU1CyvpZCayee",
@@ -600,8 +589,7 @@
         "7AiWJCZ2HArLkWG8HdPgIQ"
     ],
     "japanese jazz": [
-        "5UMV4zntq8R2cELcNd1epn",
-        "2rwQ71x5mXHX162ce5ypy7"
+        "5UMV4zntq8R2cELcNd1epn"
     ],
     "latin afrobeat": [
         "6s91YTFJHq3LWDRMC4QOvp"
@@ -1127,17 +1115,11 @@
     "chicano punk": [
         "0YNcv2znQ6teI7ExnFPb3Z"
     ],
-    "metallic hardcore": [
-        "0YNcv2znQ6teI7ExnFPb3Z"
-    ],
     "modern hardcore": [
         "0YNcv2znQ6teI7ExnFPb3Z",
         "1X0Na8DRV5U6G9grTPDWKF"
     ],
     "modern melodic hardcore": [
-        "0YNcv2znQ6teI7ExnFPb3Z"
-    ],
-    "straight edge": [
         "0YNcv2znQ6teI7ExnFPb3Z"
     ],
     "world fusion": [
