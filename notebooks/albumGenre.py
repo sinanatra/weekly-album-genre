@@ -22,8 +22,6 @@ for link in soup.findAll('a'):
     except:
         continue
 
-albumIDs = []
-
 cid = os.environ['SPOTIFY_API_KEY']
 secret = os.environ['SPOTIFY_API_SECRET']
 client_credentials_manager = SpotifyClientCredentials(client_id=cid, client_secret=secret)
@@ -50,7 +48,7 @@ for id in links:
         continue
 
 
-out = open('data.json', 'w') 
+out = open('./scr/assets/data.json', 'w') 
 r = json.dumps(dictionary, indent=4)
 out.write(r)
 out.close()

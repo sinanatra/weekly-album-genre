@@ -13,14 +13,17 @@ body {
 .words, p{
     font-size: 24px;
     margin: 0;
-    padding: 10px;
+    padding: .5%;
     width: fit-content;
     display: block;
 }
 
 .words{
     cursor: pointer;
-    transition: min-width 2s;
+    transition: width 2s;
+    min-width: 295px;
+    width: fit-content;
+    word-break: normal;
 }
 
 .links a {
@@ -29,4 +32,13 @@ body {
 
 .sort {
     vertical-align: middle;
+}
+
+@media screen and (max-width: 900px) {
+    .words {
+        font-size: 14px;
+    }
+    .words{
+        min-width: 100px;
+    }
 }
