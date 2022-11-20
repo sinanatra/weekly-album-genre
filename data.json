@@ -1,8 +1,4 @@
 {
-    "italian indie pop": [
-        "13jvLDXME7yplEwCweRivE",
-        "1WQY0Xovzegy0pJiOuuyRP"
-    ],
     "escape room": [
         "5RADpgYLOuS2ZxDq7ggYYH",
         "1EpyA68dKpjf7jXmQL88Hy"
@@ -53,38 +49,15 @@
         "6XYvaoDGE0VmRt83Jss9Sn",
         "23NIwARd4vPbxt3wwNnJ6k"
     ],
-    "conscious hip hop": [
-        "0kEfub5RzlZOB2zGomqVSU"
+    "italian alternative": [
+        "1WQY0Xovzegy0pJiOuuyRP"
     ],
-    "funk": [
-        "0kEfub5RzlZOB2zGomqVSU"
+    "italian indie pop": [
+        "1WQY0Xovzegy0pJiOuuyRP",
+        "13jvLDXME7yplEwCweRivE"
     ],
-    "jazz funk": [
-        "0kEfub5RzlZOB2zGomqVSU"
-    ],
-    "political hip hop": [
-        "0kEfub5RzlZOB2zGomqVSU"
-    ],
-    "slam poetry": [
-        "0kEfub5RzlZOB2zGomqVSU"
-    ],
-    "soul": [
-        "0kEfub5RzlZOB2zGomqVSU"
-    ],
-    "british jazz": [
-        "3u9rbdcmA6CxjxOAkjaeFr"
-    ],
-    "indie jazz": [
-        "3u9rbdcmA6CxjxOAkjaeFr"
-    ],
-    "uk contemporary jazz": [
-        "3u9rbdcmA6CxjxOAkjaeFr"
-    ],
-    "egg punk": [
-        "2nAKP6etu8wXNnezKXgqgg"
-    ],
-    "stockholm indie": [
-        "2nAKP6etu8wXNnezKXgqgg"
+    "rome indie": [
+        "1WQY0Xovzegy0pJiOuuyRP"
     ],
     "alternative rock": [
         "23NIwARd4vPbxt3wwNnJ6k"
@@ -107,10 +80,37 @@
     "noise pop": [
         "23NIwARd4vPbxt3wwNnJ6k"
     ],
-    "italian alternative": [
-        "1WQY0Xovzegy0pJiOuuyRP"
+    "conscious hip hop": [
+        "0kEfub5RzlZOB2zGomqVSU"
     ],
-    "rome indie": [
-        "1WQY0Xovzegy0pJiOuuyRP"
+    "funk": [
+        "0kEfub5RzlZOB2zGomqVSU"
+    ],
+    "jazz funk": [
+        "0kEfub5RzlZOB2zGomqVSU"
+    ],
+    "political hip hop": [
+        "0kEfub5RzlZOB2zGomqVSU"
+    ],
+    "slam poetry": [
+        "0kEfub5RzlZOB2zGomqVSU"
+    ],
+    "soul": [
+        "0kEfub5RzlZOB2zGomqVSU"
+    ],
+    "egg punk": [
+        "2nAKP6etu8wXNnezKXgqgg"
+    ],
+    "stockholm indie": [
+        "2nAKP6etu8wXNnezKXgqgg"
+    ],
+    "british jazz": [
+        "3u9rbdcmA6CxjxOAkjaeFr"
+    ],
+    "indie jazz": [
+        "3u9rbdcmA6CxjxOAkjaeFr"
+    ],
+    "uk contemporary jazz": [
+        "3u9rbdcmA6CxjxOAkjaeFr"
     ]
 }
