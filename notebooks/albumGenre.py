@@ -14,11 +14,11 @@ html_page = urlopen(req)
 
 soup = BeautifulSoup(html_page, "html.parser")
 
-links = {}
+links = []
 for link in soup.findAll('a'):
     try:
         if "https://open.spotify.com/artist" in link.attrs["href"]:
-            links.add(link.attrs["href"].split("/")[-1])
+            links.append(link.attrs["href"].split("/")[-1])
     except:
         continue
 
@@ -29,7 +29,7 @@ sp = spotipy.Spotify(client_credentials_manager = client_credentials_manager)
 
 dictionary = {}
 
-for id in list(links):
+for id in list(set(links)):
     try:
         artist = sp.artist(id)
 
