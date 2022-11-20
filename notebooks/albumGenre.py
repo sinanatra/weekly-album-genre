@@ -14,29 +14,22 @@ html_page = urlopen(req)
 
 soup = BeautifulSoup(html_page, "html.parser")
 
-links = []
+links = {}
 for link in soup.findAll('a'):
     try:
         if "https://open.spotify.com/artist" in link.attrs["href"]:
-            links.append(link.attrs["href"].split("/")[-1])
+            links.add(link.attrs["href"].split("/")[-1])
     except:
         continue
 
-<<<<<<< HEAD
-=======
-albumIDs = []
-
->>>>>>> 2997f4c7b731a7f29935a4399e8fa52c6e09ca93
 cid = os.environ['SPOTIFY_API_KEY']
 secret = os.environ['SPOTIFY_API_SECRET']
 client_credentials_manager = SpotifyClientCredentials(client_id=cid, client_secret=secret)
 sp = spotipy.Spotify(client_credentials_manager = client_credentials_manager)
 
-print(sp)
-
 dictionary = {}
 
-for id in links:
+for id in list(links):
     try:
         artist = sp.artist(id)
 
@@ -53,14 +46,7 @@ for id in links:
         continue
 
 
-<<<<<<< HEAD
-out = open('./scr/assets/data.json', 'w') 
-r = json.dumps(dictionary, indent=4)
-out.write(r)
-out.close()
-=======
 out = open('data.json', 'w') 
 r = json.dumps(dictionary, indent=4)
 out.write(r)
 out.close()
->>>>>>> 2997f4c7b731a7f29935a4399e8fa52c6e09ca93
