@@ -2,9 +2,6 @@
     "r&b en espanol": [
         "7ltDVBr6mKbRvohxheJ9h1"
     ],
-    "polish synthpop": [
-        "0e3JhHef9mrLSetLvdbJxf"
-    ],
     "alternative dance": [
         "6O4EGCCb6DoIiR6B1QCQgp"
     ],
@@ -23,31 +20,6 @@
     "new rave": [
         "6O4EGCCb6DoIiR6B1QCQgp"
     ],
-    "australian indie": [
-        "6XYvaoDGE0VmRt83Jss9Sn"
-    ],
-    "australian psych": [
-        "6XYvaoDGE0VmRt83Jss9Sn"
-    ],
-    "double drumming": [
-        "6XYvaoDGE0VmRt83Jss9Sn"
-    ],
-    "microtonal": [
-        "6XYvaoDGE0VmRt83Jss9Sn"
-    ],
-    "neo-psychedelic": [
-        "6XYvaoDGE0VmRt83Jss9Sn"
-    ],
-    "canzone d'autore": [
-        "25MkkfEousyfp2eyh38FUl",
-        "5OJ0DNeHpHq7b6fHWRaPp9"
-    ],
-    "classic italian pop": [
-        "25MkkfEousyfp2eyh38FUl"
-    ],
-    "italian adult pop": [
-        "25MkkfEousyfp2eyh38FUl"
-    ],
     "ann arbor indie": [
         "7pXu47GoqSYRajmBCjxdD6"
     ],
@@ -57,14 +29,58 @@
     "instrumental funk": [
         "7pXu47GoqSYRajmBCjxdD6"
     ],
+    "canzone d'autore": [
+        "5OJ0DNeHpHq7b6fHWRaPp9",
+        "25MkkfEousyfp2eyh38FUl"
+    ],
+    "canadian soundtrack": [
+        "3uUcdriXzvaQapjo3a4DZR"
+    ],
+    "alternative rock": [
+        "3QgSmABpItIdj908ek80n5",
+        "62sC6lUEWRjbFqXpMmOk4G"
+    ],
+    "blues rock": [
+        "3QgSmABpItIdj908ek80n5"
+    ],
+    "boston rock": [
+        "3QgSmABpItIdj908ek80n5"
+    ],
     "italian indie pop": [
         "5bfb49rPCcTFUqn6SVX8nt",
         "1WQY0Xovzegy0pJiOuuyRP"
+    ],
+    "classic italian pop": [
+        "25MkkfEousyfp2eyh38FUl"
+    ],
+    "italian adult pop": [
+        "25MkkfEousyfp2eyh38FUl"
     ],
     "italian alternative": [
         "1WQY0Xovzegy0pJiOuuyRP"
     ],
     "rome indie": [
         "1WQY0Xovzegy0pJiOuuyRP"
+    ],
+    "dc hardcore": [
+        "62sC6lUEWRjbFqXpMmOk4G"
+    ],
+    "indie rock": [
+        "62sC6lUEWRjbFqXpMmOk4G"
+    ],
+    "noise rock": [
+        "62sC6lUEWRjbFqXpMmOk4G"
+    ],
+    "post-hardcore": [
+        "62sC6lUEWRjbFqXpMmOk4G"
+    ],
+    "post-punk": [
+        "62sC6lUEWRjbFqXpMmOk4G"
+    ],
+    "punk": [
+        "62sC6lUEWRjbFqXpMmOk4G"
+    ],
+    "rock": [
+        "62sC6lUEWRjbFqXpMmOk4G"
     ]
 }
