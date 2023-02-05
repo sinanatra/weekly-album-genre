@@ -1,6 +1,15 @@
 {
-    "r&b en espanol": [
-        "7ltDVBr6mKbRvohxheJ9h1"
+    "ann arbor indie": [
+        "7pXu47GoqSYRajmBCjxdD6"
+    ],
+    "funk rock": [
+        "7pXu47GoqSYRajmBCjxdD6"
+    ],
+    "instrumental funk": [
+        "7pXu47GoqSYRajmBCjxdD6"
+    ],
+    "canadian soundtrack": [
+        "3uUcdriXzvaQapjo3a4DZR"
     ],
     "alternative dance": [
         "6O4EGCCb6DoIiR6B1QCQgp"
@@ -9,7 +18,8 @@
         "6O4EGCCb6DoIiR6B1QCQgp"
     ],
     "electronica": [
-        "6O4EGCCb6DoIiR6B1QCQgp"
+        "6O4EGCCb6DoIiR6B1QCQgp",
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
     "indie soul": [
         "6O4EGCCb6DoIiR6B1QCQgp"
@@ -20,47 +30,80 @@
     "new rave": [
         "6O4EGCCb6DoIiR6B1QCQgp"
     ],
-    "ann arbor indie": [
-        "7pXu47GoqSYRajmBCjxdD6"
+    "ambient": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
-    "funk rock": [
-        "7pXu47GoqSYRajmBCjxdD6"
+    "art pop": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
-    "instrumental funk": [
-        "7pXu47GoqSYRajmBCjxdD6"
+    "art rock": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
-    "canzone d'autore": [
-        "5OJ0DNeHpHq7b6fHWRaPp9",
-        "25MkkfEousyfp2eyh38FUl"
+    "compositional ambient": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
-    "canadian soundtrack": [
-        "3uUcdriXzvaQapjo3a4DZR"
+    "experimental": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
-    "alternative rock": [
-        "3QgSmABpItIdj908ek80n5",
-        "62sC6lUEWRjbFqXpMmOk4G"
+    "experimental ambient": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
-    "blues rock": [
-        "3QgSmABpItIdj908ek80n5"
+    "fourth world": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
-    "boston rock": [
-        "3QgSmABpItIdj908ek80n5"
+    "glam rock": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
+    ],
+    "minimalism": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
+    ],
+    "alternative hip hop": [
+        "09hVIj6vWgoCDtT03h8ZCa"
+    ],
+    "conscious hip hop": [
+        "09hVIj6vWgoCDtT03h8ZCa"
+    ],
+    "east coast hip hop": [
+        "09hVIj6vWgoCDtT03h8ZCa"
+    ],
+    "gangster rap": [
+        "09hVIj6vWgoCDtT03h8ZCa"
+    ],
+    "golden age hip hop": [
+        "09hVIj6vWgoCDtT03h8ZCa"
+    ],
+    "hardcore hip hop": [
+        "09hVIj6vWgoCDtT03h8ZCa"
+    ],
+    "hip hop": [
+        "09hVIj6vWgoCDtT03h8ZCa"
+    ],
+    "jazz rap": [
+        "09hVIj6vWgoCDtT03h8ZCa"
+    ],
+    "queens hip hop": [
+        "09hVIj6vWgoCDtT03h8ZCa"
+    ],
+    "rap": [
+        "09hVIj6vWgoCDtT03h8ZCa"
+    ],
+    "classic j-pop": [
+        "3UsQ4XdEqcQ1PoUI1wV0Lb"
+    ],
+    "shibuya-kei": [
+        "3UsQ4XdEqcQ1PoUI1wV0Lb"
+    ],
+    "edmonton indie": [
+        "3Sz7ZnJQBIHsXLUSo0OQtM"
+    ],
+    "lo-fi indie": [
+        "3Sz7ZnJQBIHsXLUSo0OQtM"
     ],
     "italian indie pop": [
-        "5bfb49rPCcTFUqn6SVX8nt",
-        "1WQY0Xovzegy0pJiOuuyRP"
+        "5bfb49rPCcTFUqn6SVX8nt"
     ],
-    "classic italian pop": [
-        "25MkkfEousyfp2eyh38FUl"
-    ],
-    "italian adult pop": [
-        "25MkkfEousyfp2eyh38FUl"
-    ],
-    "italian alternative": [
-        "1WQY0Xovzegy0pJiOuuyRP"
-    ],
-    "rome indie": [
-        "1WQY0Xovzegy0pJiOuuyRP"
+    "alternative rock": [
+        "62sC6lUEWRjbFqXpMmOk4G"
     ],
     "dc hardcore": [
         "62sC6lUEWRjbFqXpMmOk4G"
@@ -82,5 +125,14 @@
     ],
     "rock": [
         "62sC6lUEWRjbFqXpMmOk4G"
+    ],
+    "canzone d'autore": [
+        "25MkkfEousyfp2eyh38FUl"
+    ],
+    "classic italian pop": [
+        "25MkkfEousyfp2eyh38FUl"
+    ],
+    "italian adult pop": [
+        "25MkkfEousyfp2eyh38FUl"
     ]
 }
