@@ -1,16 +1,4 @@
 {
-    "ann arbor indie": [
-        "7pXu47GoqSYRajmBCjxdD6"
-    ],
-    "funk rock": [
-        "7pXu47GoqSYRajmBCjxdD6"
-    ],
-    "instrumental funk": [
-        "7pXu47GoqSYRajmBCjxdD6"
-    ],
-    "canadian soundtrack": [
-        "3uUcdriXzvaQapjo3a4DZR"
-    ],
     "alternative dance": [
         "6O4EGCCb6DoIiR6B1QCQgp"
     ],
@@ -29,6 +17,15 @@
     ],
     "new rave": [
         "6O4EGCCb6DoIiR6B1QCQgp"
+    ],
+    "canzone d'autore": [
+        "25MkkfEousyfp2eyh38FUl"
+    ],
+    "classic italian pop": [
+        "25MkkfEousyfp2eyh38FUl"
+    ],
+    "italian adult pop": [
+        "25MkkfEousyfp2eyh38FUl"
     ],
     "ambient": [
         "7MSUfLeTdDEoZiJPDSBXgi"
@@ -56,6 +53,15 @@
     ],
     "minimalism": [
         "7MSUfLeTdDEoZiJPDSBXgi"
+    ],
+    "ann arbor indie": [
+        "7pXu47GoqSYRajmBCjxdD6"
+    ],
+    "funk rock": [
+        "7pXu47GoqSYRajmBCjxdD6"
+    ],
+    "instrumental funk": [
+        "7pXu47GoqSYRajmBCjxdD6"
     ],
     "alternative hip hop": [
         "09hVIj6vWgoCDtT03h8ZCa"
@@ -87,20 +93,23 @@
     "rap": [
         "09hVIj6vWgoCDtT03h8ZCa"
     ],
-    "classic j-pop": [
-        "3UsQ4XdEqcQ1PoUI1wV0Lb"
-    ],
-    "shibuya-kei": [
-        "3UsQ4XdEqcQ1PoUI1wV0Lb"
-    ],
     "edmonton indie": [
         "3Sz7ZnJQBIHsXLUSo0OQtM"
     ],
     "lo-fi indie": [
         "3Sz7ZnJQBIHsXLUSo0OQtM"
     ],
+    "classic j-pop": [
+        "3UsQ4XdEqcQ1PoUI1wV0Lb"
+    ],
+    "shibuya-kei": [
+        "3UsQ4XdEqcQ1PoUI1wV0Lb"
+    ],
     "italian indie pop": [
         "5bfb49rPCcTFUqn6SVX8nt"
+    ],
+    "canadian soundtrack": [
+        "3uUcdriXzvaQapjo3a4DZR"
     ],
     "alternative rock": [
         "62sC6lUEWRjbFqXpMmOk4G"
@@ -125,14 +134,5 @@
     ],
     "rock": [
         "62sC6lUEWRjbFqXpMmOk4G"
-    ],
-    "canzone d'autore": [
-        "25MkkfEousyfp2eyh38FUl"
-    ],
-    "classic italian pop": [
-        "25MkkfEousyfp2eyh38FUl"
-    ],
-    "italian adult pop": [
-        "25MkkfEousyfp2eyh38FUl"
     ]
 }
