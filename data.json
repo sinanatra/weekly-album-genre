@@ -1,18 +1,44 @@
 {
-    "classic j-pop": [
-        "3UsQ4XdEqcQ1PoUI1wV0Lb"
+    "ann arbor indie": [
+        "7pXu47GoqSYRajmBCjxdD6"
     ],
-    "shibuya-kei": [
-        "3UsQ4XdEqcQ1PoUI1wV0Lb"
+    "funk rock": [
+        "7pXu47GoqSYRajmBCjxdD6"
     ],
-    "egg punk": [
-        "2nAKP6etu8wXNnezKXgqgg"
+    "instrumental funk": [
+        "7pXu47GoqSYRajmBCjxdD6"
     ],
-    "stockholm indie": [
-        "2nAKP6etu8wXNnezKXgqgg"
+    "italian hip hop": [
+        "19i93sA0D7yS9dYoVNBqAA"
+    ],
+    "italian pop": [
+        "19i93sA0D7yS9dYoVNBqAA"
+    ],
+    "trap italiana": [
+        "19i93sA0D7yS9dYoVNBqAA"
+    ],
+    "italian indie pop": [
+        "13jvLDXME7yplEwCweRivE"
+    ],
+    "hip hop": [
+        "1rHOtdmGNr5vcYNw5v7QGC",
+        "03r4iKL2g2442PT9n2UKsx"
+    ],
+    "trap": [
+        "1rHOtdmGNr5vcYNw5v7QGC"
+    ],
+    "underground hip hop": [
+        "1rHOtdmGNr5vcYNw5v7QGC"
     ],
     "afrobeat": [
+        "4KDUfOJRuihzpcwO7jx9DF",
         "7HGFXtBhRq3g1Ma3nH4Rgv"
+    ],
+    "arab groove": [
+        "4KDUfOJRuihzpcwO7jx9DF"
+    ],
+    "somali pop": [
+        "4KDUfOJRuihzpcwO7jx9DF"
     ],
     "afropop": [
         "7HGFXtBhRq3g1Ma3nH4Rgv"
@@ -23,65 +49,34 @@
     "world": [
         "7HGFXtBhRq3g1Ma3nH4Rgv"
     ],
-    "edmonton indie": [
-        "3Sz7ZnJQBIHsXLUSo0OQtM"
-    ],
-    "lo-fi indie": [
-        "3Sz7ZnJQBIHsXLUSo0OQtM"
-    ],
     "uk alternative hip hop": [
         "7BMR0fwtEvzGtK4rNGdoiQ"
     ],
-    "ann arbor indie": [
-        "7pXu47GoqSYRajmBCjxdD6"
+    "egg punk": [
+        "2nAKP6etu8wXNnezKXgqgg"
     ],
-    "funk rock": [
-        "7pXu47GoqSYRajmBCjxdD6"
+    "stockholm indie": [
+        "2nAKP6etu8wXNnezKXgqgg"
     ],
-    "instrumental funk": [
-        "7pXu47GoqSYRajmBCjxdD6"
+    "alternative rock": [
+        "03r4iKL2g2442PT9n2UKsx"
     ],
-    "art pop": [
-        "0asVlqTLu3TimnYVyY5Jxi",
-        "7MSUfLeTdDEoZiJPDSBXgi"
+    "east coast hip hop": [
+        "03r4iKL2g2442PT9n2UKsx"
     ],
-    "indie pop": [
-        "0asVlqTLu3TimnYVyY5Jxi"
+    "golden age hip hop": [
+        "03r4iKL2g2442PT9n2UKsx"
     ],
-    "indie rock": [
-        "0asVlqTLu3TimnYVyY5Jxi"
+    "old school hip hop": [
+        "03r4iKL2g2442PT9n2UKsx"
     ],
-    "one-person band": [
-        "0asVlqTLu3TimnYVyY5Jxi"
+    "rap": [
+        "03r4iKL2g2442PT9n2UKsx"
     ],
-    "ambient": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
+    "rap rock": [
+        "03r4iKL2g2442PT9n2UKsx"
     ],
-    "art rock": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "compositional ambient": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "electronica": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "experimental": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "experimental ambient": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "fourth world": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "glam rock": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "minimalism": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "canadian soundtrack": [
-        "3uUcdriXzvaQapjo3a4DZR"
+    "rock": [
+        "03r4iKL2g2442PT9n2UKsx"
     ]
 }
