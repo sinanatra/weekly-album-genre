@@ -1,44 +1,6 @@
 {
-    "ann arbor indie": [
-        "7pXu47GoqSYRajmBCjxdD6"
-    ],
-    "funk rock": [
-        "7pXu47GoqSYRajmBCjxdD6"
-    ],
-    "instrumental funk": [
-        "7pXu47GoqSYRajmBCjxdD6"
-    ],
-    "italian hip hop": [
-        "19i93sA0D7yS9dYoVNBqAA"
-    ],
-    "italian pop": [
-        "19i93sA0D7yS9dYoVNBqAA"
-    ],
-    "trap italiana": [
-        "19i93sA0D7yS9dYoVNBqAA"
-    ],
-    "italian indie pop": [
-        "13jvLDXME7yplEwCweRivE"
-    ],
-    "hip hop": [
-        "1rHOtdmGNr5vcYNw5v7QGC",
-        "03r4iKL2g2442PT9n2UKsx"
-    ],
-    "trap": [
-        "1rHOtdmGNr5vcYNw5v7QGC"
-    ],
-    "underground hip hop": [
-        "1rHOtdmGNr5vcYNw5v7QGC"
-    ],
     "afrobeat": [
-        "4KDUfOJRuihzpcwO7jx9DF",
         "7HGFXtBhRq3g1Ma3nH4Rgv"
-    ],
-    "arab groove": [
-        "4KDUfOJRuihzpcwO7jx9DF"
-    ],
-    "somali pop": [
-        "4KDUfOJRuihzpcwO7jx9DF"
     ],
     "afropop": [
         "7HGFXtBhRq3g1Ma3nH4Rgv"
@@ -49,14 +11,15 @@
     "world": [
         "7HGFXtBhRq3g1Ma3nH4Rgv"
     ],
-    "uk alternative hip hop": [
-        "7BMR0fwtEvzGtK4rNGdoiQ"
+    "hip hop": [
+        "1rHOtdmGNr5vcYNw5v7QGC",
+        "03r4iKL2g2442PT9n2UKsx"
     ],
-    "egg punk": [
-        "2nAKP6etu8wXNnezKXgqgg"
+    "trap": [
+        "1rHOtdmGNr5vcYNw5v7QGC"
     ],
-    "stockholm indie": [
-        "2nAKP6etu8wXNnezKXgqgg"
+    "underground hip hop": [
+        "1rHOtdmGNr5vcYNw5v7QGC"
     ],
     "alternative rock": [
         "03r4iKL2g2442PT9n2UKsx"
@@ -78,5 +41,38 @@
     ],
     "rock": [
         "03r4iKL2g2442PT9n2UKsx"
+    ],
+    "ann arbor indie": [
+        "7pXu47GoqSYRajmBCjxdD6"
+    ],
+    "funk rock": [
+        "7pXu47GoqSYRajmBCjxdD6"
+    ],
+    "instrumental funk": [
+        "7pXu47GoqSYRajmBCjxdD6"
+    ],
+    "uk alternative hip hop": [
+        "7BMR0fwtEvzGtK4rNGdoiQ"
+    ],
+    "italian hip hop": [
+        "19i93sA0D7yS9dYoVNBqAA"
+    ],
+    "italian pop": [
+        "19i93sA0D7yS9dYoVNBqAA"
+    ],
+    "trap italiana": [
+        "19i93sA0D7yS9dYoVNBqAA"
+    ],
+    "italian indie pop": [
+        "13jvLDXME7yplEwCweRivE"
+    ],
+    "crank wave": [
+        "2nAKP6etu8wXNnezKXgqgg"
+    ],
+    "egg punk": [
+        "2nAKP6etu8wXNnezKXgqgg"
+    ],
+    "stockholm indie": [
+        "2nAKP6etu8wXNnezKXgqgg"
     ]
 }
