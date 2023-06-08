@@ -7,7 +7,8 @@ from spotipy.oauth2 import SpotifyClientCredentials
 import time
 import json
 
-url = "https://spotify-top.com/user/sinanatra"
+#url = "https://spotify-top.com/user/sinanatra"
+url = "https://musicalyst.com/user/sinanatra"
 
 req = Request(url)
 html_page = urlopen(req)
