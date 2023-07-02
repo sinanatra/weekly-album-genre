@@ -1,35 +1,32 @@
 from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
+import re
 import os
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import time
 import json
 
-# cid = os.environ['SPOTIFY_API_KEY']
-# secret = os.environ['SPOTIFY_API_SECRET']
+#url = "https://spotify-top.com/user/sinanatra"
+url = "https://musicalyst.com/user/sinanatra"
 
-cid = "d4303311201249bb8372a3ecfeb4643e"
-secret = "492a6986a5924c7c9b75ff272aa02626"
-redirect = "http://www.giacomonanni.info/"
+req = Request(url)
+html_page = urlopen(req)
 
-client_credentials_manager = SpotifyClientCredentials(client_id=cid, client_secret=secret)
-sp = spotipy.Spotify(client_credentials_manager = client_credentials_manager)
-
-from spotipy.oauth2 import SpotifyOAuth
-scope = "user-library-read"
-
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=cid, client_secret=secret, redirect_uri=redirect,scope=scope))
+soup = BeautifulSoup(html_page, "html.parser")
 
 links = []
+for link in soup.findAll('a'):
+    try:
+        if "https://open.spotify.com/artist" in link.attrs["href"]:
+            links.append(link.attrs["href"].split("/")[-1])
+    except:
+        continue
 
-
-results = sp.current_user_saved_tracks()
-for idx, item in enumerate(results['items']):
-    track = item['track']
-    print(idx, track['artists'][0]['name'], " – ", track['name'])
-
-
+cid = os.environ['SPOTIFY_API_KEY']
+secret = os.environ['SPOTIFY_API_SECRET']
+client_credentials_manager = SpotifyClientCredentials(client_id=cid, client_secret=secret)
+sp = spotipy.Spotify(client_credentials_manager = client_credentials_manager)
 
 dictionary = {}
 
