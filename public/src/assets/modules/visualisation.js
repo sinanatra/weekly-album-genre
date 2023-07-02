@@ -34,12 +34,12 @@ const Visualisation = {
                     .style('width', (d) => d3.randomUniform(99)() + '%')
                     .style('text-align', 'right')
                     .style('background', (d) => randomColor())
-                    .on("click", function (d) {
-                        var active = d.path[0].active ? true : false,
-                            newOpacity = active ? 0 : 1;
-                        d3.select(".links").style("opacity", newOpacity);
-                        d.path[0].active = active;
-                        addElement(d.path[0])
+                    .on("click", function (e,d) {
+                        // var active = d.path[0].active ? true : false,
+                        //     newOpacity = active ? 0 : 1;
+                        // d3.select(".links").style("opacity", newOpacity);
+                        // d.path[0].active = active;
+                        addElement(this)
                     })
 
 
