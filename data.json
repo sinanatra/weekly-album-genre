@@ -1,49 +1,37 @@
 {
-    "violao": [
-        "2qLU3VUpp3uV2Oyf786FC3"
+    "abstract": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
-    "south african alternative": [
-        "03uMw43UVu9MsQCcHVSGjX"
+    "ambient": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
-    "beatlesque": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
+    "art pop": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
-    "british invasion": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
+    "art rock": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
-    "classic rock": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
+    "compositional ambient": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
-    "merseybeat": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
+    "experimental": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
-    "psychedelic rock": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
+    "experimental ambient": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
-    "rock": [
-        "3WrFJ7ztbogyGnTHbHJFl2",
-        "6olE6TJLqED3rqDCT0FyPh"
+    "fourth world": [
+        "7MSUfLeTdDEoZiJPDSBXgi",
+        "7FQiZr787umw7P5dO3zqld"
     ],
-    "grunge": [
-        "6olE6TJLqED3rqDCT0FyPh"
+    "glam rock": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
-    "permanent wave": [
-        "6olE6TJLqED3rqDCT0FyPh"
+    "minimalism": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
-    "g funk": [
-        "1ZwdS5xdxEREPySFridCfh"
-    ],
-    "gangster rap": [
-        "1ZwdS5xdxEREPySFridCfh"
-    ],
-    "hip hop": [
-        "1ZwdS5xdxEREPySFridCfh"
-    ],
-    "rap": [
-        "1ZwdS5xdxEREPySFridCfh"
-    ],
-    "west coast rap": [
-        "1ZwdS5xdxEREPySFridCfh"
+    "singer-songwriter": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
     "canzone d'autore": [
         "19HiWVd2g0XyJstBsbW2Qm"
@@ -63,6 +51,39 @@
     "musica sarda": [
         "19HiWVd2g0XyJstBsbW2Qm"
     ],
+    "afrobeat": [
+        "0kEfub5RzlZOB2zGomqVSU"
+    ],
+    "afropop": [
+        "0kEfub5RzlZOB2zGomqVSU"
+    ],
+    "conscious hip hop": [
+        "0kEfub5RzlZOB2zGomqVSU"
+    ],
+    "funk": [
+        "0kEfub5RzlZOB2zGomqVSU"
+    ],
+    "jazz funk": [
+        "0kEfub5RzlZOB2zGomqVSU"
+    ],
+    "political hip hop": [
+        "0kEfub5RzlZOB2zGomqVSU"
+    ],
+    "slam poetry": [
+        "0kEfub5RzlZOB2zGomqVSU"
+    ],
+    "soul": [
+        "0kEfub5RzlZOB2zGomqVSU"
+    ],
+    "grunge": [
+        "6olE6TJLqED3rqDCT0FyPh"
+    ],
+    "permanent wave": [
+        "6olE6TJLqED3rqDCT0FyPh"
+    ],
+    "rock": [
+        "6olE6TJLqED3rqDCT0FyPh"
+    ],
     "bedroom pop": [
         "3l0CmX0FuQjFxr8SK7Vqag"
     ],
@@ -74,9 +95,6 @@
     ],
     "pov: indie": [
         "3l0CmX0FuQjFxr8SK7Vqag"
-    ],
-    "belgian hip hop": [
-        "2Sm4rGKWBnOQhdqDy4JJh0"
     ],
     "canadian psychedelic": [
         "0WmzT6tMLhdST5BfYagbha"
@@ -90,7 +108,10 @@
     "synthesizer": [
         "0WmzT6tMLhdST5BfYagbha"
     ],
-    "fourth world": [
-        "7FQiZr787umw7P5dO3zqld"
+    "south african alternative": [
+        "03uMw43UVu9MsQCcHVSGjX"
+    ],
+    "violao": [
+        "2qLU3VUpp3uV2Oyf786FC3"
     ]
 }
