@@ -1,80 +1,4 @@
 {
-    "fourth world": [
-        "7FQiZr787umw7P5dO3zqld",
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "violao": [
-        "2qLU3VUpp3uV2Oyf786FC3"
-    ],
-    "abstract": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "ambient": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "art pop": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "art rock": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "compositional ambient": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "experimental": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "experimental ambient": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "glam rock": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "minimalism": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "singer-songwriter": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "canadian psychedelic": [
-        "0WmzT6tMLhdST5BfYagbha"
-    ],
-    "moog": [
-        "0WmzT6tMLhdST5BfYagbha"
-    ],
-    "space age pop": [
-        "0WmzT6tMLhdST5BfYagbha"
-    ],
-    "synthesizer": [
-        "0WmzT6tMLhdST5BfYagbha"
-    ],
-    "canzone d'autore": [
-        "19HiWVd2g0XyJstBsbW2Qm"
-    ],
-    "canzone genovese": [
-        "19HiWVd2g0XyJstBsbW2Qm"
-    ],
-    "classic italian pop": [
-        "19HiWVd2g0XyJstBsbW2Qm"
-    ],
-    "folk rock italiano": [
-        "19HiWVd2g0XyJstBsbW2Qm"
-    ],
-    "italian adult pop": [
-        "19HiWVd2g0XyJstBsbW2Qm"
-    ],
-    "musica sarda": [
-        "19HiWVd2g0XyJstBsbW2Qm"
-    ],
-    "grunge": [
-        "6olE6TJLqED3rqDCT0FyPh"
-    ],
-    "permanent wave": [
-        "6olE6TJLqED3rqDCT0FyPh"
-    ],
-    "rock": [
-        "6olE6TJLqED3rqDCT0FyPh"
-    ],
     "afrobeat": [
         "0kEfub5RzlZOB2zGomqVSU"
     ],
@@ -99,19 +23,78 @@
     "soul": [
         "0kEfub5RzlZOB2zGomqVSU"
     ],
-    "bedroom pop": [
-        "3l0CmX0FuQjFxr8SK7Vqag"
+    "violao": [
+        "2qLU3VUpp3uV2Oyf786FC3"
     ],
-    "indie pop": [
-        "3l0CmX0FuQjFxr8SK7Vqag"
+    "fourth world": [
+        "7FQiZr787umw7P5dO3zqld",
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
-    "pop": [
-        "3l0CmX0FuQjFxr8SK7Vqag"
+    "abstract": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
-    "pov: indie": [
-        "3l0CmX0FuQjFxr8SK7Vqag"
+    "ambient": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
-    "south african alternative": [
-        "03uMw43UVu9MsQCcHVSGjX"
+    "art pop": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
+    ],
+    "art rock": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
+    ],
+    "compositional ambient": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
+    ],
+    "experimental": [
+        "7MSUfLeTdDEoZiJPDSBXgi",
+        "0X7nkgtJrvXcn1W8lN9Mtm"
+    ],
+    "experimental ambient": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
+    ],
+    "glam rock": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
+    ],
+    "minimalism": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
+    ],
+    "singer-songwriter": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
+    ],
+    "experimental rock": [
+        "0X7nkgtJrvXcn1W8lN9Mtm"
+    ],
+    "outsider": [
+        "0X7nkgtJrvXcn1W8lN9Mtm"
+    ],
+    "zolo": [
+        "0X7nkgtJrvXcn1W8lN9Mtm"
+    ],
+    "hyperpop italiano": [
+        "15OZuHjUnj9YAmwn5EXzrM"
+    ],
+    "indie napoletano": [
+        "77J3V0V7sEOf5ifCDBSNaJ"
+    ],
+    "neapolitan funk": [
+        "77J3V0V7sEOf5ifCDBSNaJ"
+    ],
+    "canadian psychedelic": [
+        "0WmzT6tMLhdST5BfYagbha"
+    ],
+    "moog": [
+        "0WmzT6tMLhdST5BfYagbha"
+    ],
+    "space age pop": [
+        "0WmzT6tMLhdST5BfYagbha"
+    ],
+    "synthesizer": [
+        "0WmzT6tMLhdST5BfYagbha"
+    ],
+    "neue neue deutsche welle": [
+        "49uauFOxmzTD83IUpZPdLz"
+    ],
+    "vienna indie": [
+        "49uauFOxmzTD83IUpZPdLz"
     ]
 }
