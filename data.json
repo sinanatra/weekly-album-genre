@@ -1,8 +1,4 @@
 {
-    "fourth world": [
-        "7FQiZr787umw7P5dO3zqld",
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
     "abstract": [
         "7MSUfLeTdDEoZiJPDSBXgi"
     ],
@@ -25,6 +21,10 @@
     "experimental ambient": [
         "7MSUfLeTdDEoZiJPDSBXgi"
     ],
+    "fourth world": [
+        "7MSUfLeTdDEoZiJPDSBXgi",
+        "7FQiZr787umw7P5dO3zqld"
+    ],
     "glam rock": [
         "7MSUfLeTdDEoZiJPDSBXgi"
     ],
@@ -33,40 +33,6 @@
     ],
     "singer-songwriter": [
         "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "alternative rock": [
-        "3RGLhK1IP9jnYFH4BRFJBS"
-    ],
-    "permanent wave": [
-        "3RGLhK1IP9jnYFH4BRFJBS"
-    ],
-    "punk": [
-        "3RGLhK1IP9jnYFH4BRFJBS"
-    ],
-    "rock": [
-        "3RGLhK1IP9jnYFH4BRFJBS",
-        "3WrFJ7ztbogyGnTHbHJFl2"
-    ],
-    "neue neue deutsche welle": [
-        "49uauFOxmzTD83IUpZPdLz"
-    ],
-    "vienna indie": [
-        "49uauFOxmzTD83IUpZPdLz"
-    ],
-    "experimental rock": [
-        "0X7nkgtJrvXcn1W8lN9Mtm"
-    ],
-    "outsider": [
-        "0X7nkgtJrvXcn1W8lN9Mtm"
-    ],
-    "zolo": [
-        "0X7nkgtJrvXcn1W8lN9Mtm"
-    ],
-    "electro": [
-        "6GGVr7WgIWhsnJNdGyPklP"
-    ],
-    "old school hip hop": [
-        "6GGVr7WgIWhsnJNdGyPklP"
     ],
     "beatlesque": [
         "3WrFJ7ztbogyGnTHbHJFl2"
@@ -82,6 +48,46 @@
     ],
     "psychedelic rock": [
         "3WrFJ7ztbogyGnTHbHJFl2"
+    ],
+    "rock": [
+        "3WrFJ7ztbogyGnTHbHJFl2",
+        "3RGLhK1IP9jnYFH4BRFJBS"
+    ],
+    "experimental rock": [
+        "0X7nkgtJrvXcn1W8lN9Mtm"
+    ],
+    "outsider": [
+        "0X7nkgtJrvXcn1W8lN9Mtm"
+    ],
+    "zolo": [
+        "0X7nkgtJrvXcn1W8lN9Mtm"
+    ],
+    "alternative rock": [
+        "3RGLhK1IP9jnYFH4BRFJBS"
+    ],
+    "permanent wave": [
+        "3RGLhK1IP9jnYFH4BRFJBS"
+    ],
+    "punk": [
+        "3RGLhK1IP9jnYFH4BRFJBS"
+    ],
+    "electro": [
+        "6GGVr7WgIWhsnJNdGyPklP"
+    ],
+    "old school hip hop": [
+        "6GGVr7WgIWhsnJNdGyPklP"
+    ],
+    "indie napoletano": [
+        "77J3V0V7sEOf5ifCDBSNaJ"
+    ],
+    "neapolitan funk": [
+        "77J3V0V7sEOf5ifCDBSNaJ"
+    ],
+    "neue neue deutsche welle": [
+        "49uauFOxmzTD83IUpZPdLz"
+    ],
+    "vienna indie": [
+        "49uauFOxmzTD83IUpZPdLz"
     ],
     "afrobeat": [
         "0kEfub5RzlZOB2zGomqVSU"
@@ -106,11 +112,5 @@
     ],
     "soul": [
         "0kEfub5RzlZOB2zGomqVSU"
-    ],
-    "indie napoletano": [
-        "77J3V0V7sEOf5ifCDBSNaJ"
-    ],
-    "neapolitan funk": [
-        "77J3V0V7sEOf5ifCDBSNaJ"
     ]
 }
