@@ -1,38 +1,12 @@
 {
-    "abstract": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "ambient": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "art pop": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "art rock": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "compositional ambient": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "experimental": [
-        "7MSUfLeTdDEoZiJPDSBXgi",
-        "0X7nkgtJrvXcn1W8lN9Mtm"
-    ],
-    "experimental ambient": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
     "fourth world": [
-        "7MSUfLeTdDEoZiJPDSBXgi",
         "7FQiZr787umw7P5dO3zqld"
     ],
-    "glam rock": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
+    "electro": [
+        "6GGVr7WgIWhsnJNdGyPklP"
     ],
-    "minimalism": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "singer-songwriter": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
+    "old school hip hop": [
+        "6GGVr7WgIWhsnJNdGyPklP"
     ],
     "beatlesque": [
         "3WrFJ7ztbogyGnTHbHJFl2"
@@ -53,64 +27,60 @@
         "3WrFJ7ztbogyGnTHbHJFl2",
         "3RGLhK1IP9jnYFH4BRFJBS"
     ],
-    "experimental rock": [
-        "0X7nkgtJrvXcn1W8lN9Mtm"
+    "alternative r&b": [
+        "1EpyA68dKpjf7jXmQL88Hy"
     ],
-    "outsider": [
-        "0X7nkgtJrvXcn1W8lN9Mtm"
+    "chicago rap": [
+        "1EpyA68dKpjf7jXmQL88Hy"
     ],
-    "zolo": [
-        "0X7nkgtJrvXcn1W8lN9Mtm"
+    "italian alternative": [
+        "7ueDbhgpZaiUxEbiHnwezi",
+        "1WQY0Xovzegy0pJiOuuyRP"
+    ],
+    "italian indie pop": [
+        "1WQY0Xovzegy0pJiOuuyRP"
+    ],
+    "rome indie": [
+        "1WQY0Xovzegy0pJiOuuyRP"
+    ],
+    "dark pop": [
+        "1KsASRNugxU85T0u6zSg32"
+    ],
+    "ectofolk": [
+        "1KsASRNugxU85T0u6zSg32"
+    ],
+    "lilith": [
+        "1KsASRNugxU85T0u6zSg32"
+    ],
+    "melancholia": [
+        "1KsASRNugxU85T0u6zSg32"
+    ],
+    "new wave pop": [
+        "1KsASRNugxU85T0u6zSg32"
+    ],
+    "permanent wave": [
+        "1KsASRNugxU85T0u6zSg32",
+        "3RGLhK1IP9jnYFH4BRFJBS"
+    ],
+    "piano rock": [
+        "1KsASRNugxU85T0u6zSg32"
+    ],
+    "singer-songwriter": [
+        "1KsASRNugxU85T0u6zSg32"
+    ],
+    "canzone d'autore": [
+        "25MkkfEousyfp2eyh38FUl"
+    ],
+    "classic italian pop": [
+        "25MkkfEousyfp2eyh38FUl"
+    ],
+    "italian adult pop": [
+        "25MkkfEousyfp2eyh38FUl"
     ],
     "alternative rock": [
         "3RGLhK1IP9jnYFH4BRFJBS"
     ],
-    "permanent wave": [
-        "3RGLhK1IP9jnYFH4BRFJBS"
-    ],
     "punk": [
         "3RGLhK1IP9jnYFH4BRFJBS"
-    ],
-    "electro": [
-        "6GGVr7WgIWhsnJNdGyPklP"
-    ],
-    "old school hip hop": [
-        "6GGVr7WgIWhsnJNdGyPklP"
-    ],
-    "indie napoletano": [
-        "77J3V0V7sEOf5ifCDBSNaJ"
-    ],
-    "neapolitan funk": [
-        "77J3V0V7sEOf5ifCDBSNaJ"
-    ],
-    "neue neue deutsche welle": [
-        "49uauFOxmzTD83IUpZPdLz"
-    ],
-    "vienna indie": [
-        "49uauFOxmzTD83IUpZPdLz"
-    ],
-    "afrobeat": [
-        "0kEfub5RzlZOB2zGomqVSU"
-    ],
-    "afropop": [
-        "0kEfub5RzlZOB2zGomqVSU"
-    ],
-    "conscious hip hop": [
-        "0kEfub5RzlZOB2zGomqVSU"
-    ],
-    "funk": [
-        "0kEfub5RzlZOB2zGomqVSU"
-    ],
-    "jazz funk": [
-        "0kEfub5RzlZOB2zGomqVSU"
-    ],
-    "political hip hop": [
-        "0kEfub5RzlZOB2zGomqVSU"
-    ],
-    "slam poetry": [
-        "0kEfub5RzlZOB2zGomqVSU"
-    ],
-    "soul": [
-        "0kEfub5RzlZOB2zGomqVSU"
     ]
 }
