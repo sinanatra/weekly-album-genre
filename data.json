@@ -1,12 +1,16 @@
 {
+    "italian alternative": [
+        "1WQY0Xovzegy0pJiOuuyRP",
+        "7ueDbhgpZaiUxEbiHnwezi"
+    ],
+    "italian indie pop": [
+        "1WQY0Xovzegy0pJiOuuyRP"
+    ],
+    "rome indie": [
+        "1WQY0Xovzegy0pJiOuuyRP"
+    ],
     "fourth world": [
         "7FQiZr787umw7P5dO3zqld"
-    ],
-    "electro": [
-        "6GGVr7WgIWhsnJNdGyPklP"
-    ],
-    "old school hip hop": [
-        "6GGVr7WgIWhsnJNdGyPklP"
     ],
     "beatlesque": [
         "3WrFJ7ztbogyGnTHbHJFl2"
@@ -32,16 +36,6 @@
     ],
     "chicago rap": [
         "1EpyA68dKpjf7jXmQL88Hy"
-    ],
-    "italian alternative": [
-        "7ueDbhgpZaiUxEbiHnwezi",
-        "1WQY0Xovzegy0pJiOuuyRP"
-    ],
-    "italian indie pop": [
-        "1WQY0Xovzegy0pJiOuuyRP"
-    ],
-    "rome indie": [
-        "1WQY0Xovzegy0pJiOuuyRP"
     ],
     "dark pop": [
         "1KsASRNugxU85T0u6zSg32"
@@ -82,5 +76,11 @@
     ],
     "punk": [
         "3RGLhK1IP9jnYFH4BRFJBS"
+    ],
+    "electro": [
+        "6GGVr7WgIWhsnJNdGyPklP"
+    ],
+    "old school hip hop": [
+        "6GGVr7WgIWhsnJNdGyPklP"
     ]
 }
