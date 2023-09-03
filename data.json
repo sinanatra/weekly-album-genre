@@ -1,34 +1,48 @@
 {
+    "german indie rock": [
+        "1566uWDpL81kQ1otrgXO03"
+    ],
+    "brazilian lo-fi rock": [
+        "7HjyRQeICEtgeTxCqtkUfG"
+    ],
+    "rio grande do sul indie": [
+        "7HjyRQeICEtgeTxCqtkUfG"
+    ],
     "italian alternative": [
-        "1WQY0Xovzegy0pJiOuuyRP",
-        "7ueDbhgpZaiUxEbiHnwezi"
-    ],
-    "italian indie pop": [
+        "7ueDbhgpZaiUxEbiHnwezi",
         "1WQY0Xovzegy0pJiOuuyRP"
     ],
-    "rome indie": [
-        "1WQY0Xovzegy0pJiOuuyRP"
+    "britpop": [
+        "1N2FgBLehaq77UEdJhCt7f"
     ],
-    "fourth world": [
-        "7FQiZr787umw7P5dO3zqld"
+    "bubblegrunge": [
+        "6YHfq8Pg3lZPo1u0PaQ8ob"
     ],
-    "beatlesque": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
+    "indie punk": [
+        "6YHfq8Pg3lZPo1u0PaQ8ob"
     ],
-    "british invasion": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
+    "new england emo": [
+        "6YHfq8Pg3lZPo1u0PaQ8ob"
     ],
-    "classic rock": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
+    "western mass indie": [
+        "6YHfq8Pg3lZPo1u0PaQ8ob"
     ],
-    "merseybeat": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
+    "alternative rock": [
+        "1nJvji2KIlWSseXRSlNYsC",
+        "3RGLhK1IP9jnYFH4BRFJBS"
     ],
-    "psychedelic rock": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
+    "melancholia": [
+        "1nJvji2KIlWSseXRSlNYsC"
+    ],
+    "permanent wave": [
+        "1nJvji2KIlWSseXRSlNYsC",
+        "3RGLhK1IP9jnYFH4BRFJBS"
+    ],
+    "protopunk": [
+        "1nJvji2KIlWSseXRSlNYsC"
     ],
     "rock": [
-        "3WrFJ7ztbogyGnTHbHJFl2",
+        "1nJvji2KIlWSseXRSlNYsC",
         "3RGLhK1IP9jnYFH4BRFJBS"
     ],
     "alternative r&b": [
@@ -37,50 +51,16 @@
     "chicago rap": [
         "1EpyA68dKpjf7jXmQL88Hy"
     ],
-    "dark pop": [
-        "1KsASRNugxU85T0u6zSg32"
+    "fourth world": [
+        "7FQiZr787umw7P5dO3zqld"
     ],
-    "ectofolk": [
-        "1KsASRNugxU85T0u6zSg32"
+    "italian indie pop": [
+        "1WQY0Xovzegy0pJiOuuyRP"
     ],
-    "lilith": [
-        "1KsASRNugxU85T0u6zSg32"
-    ],
-    "melancholia": [
-        "1KsASRNugxU85T0u6zSg32"
-    ],
-    "new wave pop": [
-        "1KsASRNugxU85T0u6zSg32"
-    ],
-    "permanent wave": [
-        "1KsASRNugxU85T0u6zSg32",
-        "3RGLhK1IP9jnYFH4BRFJBS"
-    ],
-    "piano rock": [
-        "1KsASRNugxU85T0u6zSg32"
-    ],
-    "singer-songwriter": [
-        "1KsASRNugxU85T0u6zSg32"
-    ],
-    "canzone d'autore": [
-        "25MkkfEousyfp2eyh38FUl"
-    ],
-    "classic italian pop": [
-        "25MkkfEousyfp2eyh38FUl"
-    ],
-    "italian adult pop": [
-        "25MkkfEousyfp2eyh38FUl"
-    ],
-    "alternative rock": [
-        "3RGLhK1IP9jnYFH4BRFJBS"
+    "rome indie": [
+        "1WQY0Xovzegy0pJiOuuyRP"
     ],
     "punk": [
         "3RGLhK1IP9jnYFH4BRFJBS"
-    ],
-    "electro": [
-        "6GGVr7WgIWhsnJNdGyPklP"
-    ],
-    "old school hip hop": [
-        "6GGVr7WgIWhsnJNdGyPklP"
     ]
 }
