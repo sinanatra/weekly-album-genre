@@ -1,6 +1,9 @@
 {
-    "britpop": [
-        "1N2FgBLehaq77UEdJhCt7f"
+    "bossa nova": [
+        "5644bJMU3NkJN0edhyHV3v"
+    ],
+    "brazilian jazz": [
+        "5644bJMU3NkJN0edhyHV3v"
     ],
     "bubblegrunge": [
         "6YHfq8Pg3lZPo1u0PaQ8ob"
@@ -15,38 +18,9 @@
         "6YHfq8Pg3lZPo1u0PaQ8ob"
     ],
     "alternative rock": [
-        "3RGLhK1IP9jnYFH4BRFJBS",
         "3inCNiUr4R6XQ3W43s9Aqi",
-        "1nJvji2KIlWSseXRSlNYsC"
-    ],
-    "permanent wave": [
         "3RGLhK1IP9jnYFH4BRFJBS",
         "1nJvji2KIlWSseXRSlNYsC"
-    ],
-    "punk": [
-        "3RGLhK1IP9jnYFH4BRFJBS"
-    ],
-    "rock": [
-        "3RGLhK1IP9jnYFH4BRFJBS",
-        "1nJvji2KIlWSseXRSlNYsC"
-    ],
-    "bossa nova": [
-        "5644bJMU3NkJN0edhyHV3v"
-    ],
-    "brazilian jazz": [
-        "5644bJMU3NkJN0edhyHV3v"
-    ],
-    "canzone d'autore": [
-        "25MkkfEousyfp2eyh38FUl"
-    ],
-    "classic italian pop": [
-        "25MkkfEousyfp2eyh38FUl"
-    ],
-    "italian adult pop": [
-        "25MkkfEousyfp2eyh38FUl"
-    ],
-    "fourth world": [
-        "7FQiZr787umw7P5dO3zqld"
     ],
     "chamber pop": [
         "3inCNiUr4R6XQ3W43s9Aqi"
@@ -60,14 +34,37 @@
     "shoegaze": [
         "3inCNiUr4R6XQ3W43s9Aqi"
     ],
-    "german indie rock": [
-        "1566uWDpL81kQ1otrgXO03"
+    "canzone d'autore": [
+        "25MkkfEousyfp2eyh38FUl"
+    ],
+    "classic italian pop": [
+        "25MkkfEousyfp2eyh38FUl"
+    ],
+    "italian adult pop": [
+        "25MkkfEousyfp2eyh38FUl"
+    ],
+    "britpop": [
+        "1N2FgBLehaq77UEdJhCt7f"
+    ],
+    "permanent wave": [
+        "3RGLhK1IP9jnYFH4BRFJBS",
+        "1nJvji2KIlWSseXRSlNYsC"
+    ],
+    "punk": [
+        "3RGLhK1IP9jnYFH4BRFJBS"
+    ],
+    "rock": [
+        "3RGLhK1IP9jnYFH4BRFJBS",
+        "1nJvji2KIlWSseXRSlNYsC"
     ],
     "melancholia": [
         "1nJvji2KIlWSseXRSlNYsC"
     ],
     "protopunk": [
         "1nJvji2KIlWSseXRSlNYsC"
+    ],
+    "fourth world": [
+        "7FQiZr787umw7P5dO3zqld"
     ],
     "alternative r&b": [
         "6f5lOlSFJw9K79gaNnmWAd"
@@ -89,5 +86,8 @@
     ],
     "uk contemporary r&b": [
         "6f5lOlSFJw9K79gaNnmWAd"
+    ],
+    "german indie rock": [
+        "1566uWDpL81kQ1otrgXO03"
     ]
 }
