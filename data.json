@@ -1,10 +1,4 @@
 {
-    "bossa nova": [
-        "5644bJMU3NkJN0edhyHV3v"
-    ],
-    "brazilian jazz": [
-        "5644bJMU3NkJN0edhyHV3v"
-    ],
     "bubblegrunge": [
         "6YHfq8Pg3lZPo1u0PaQ8ob"
     ],
@@ -17,54 +11,14 @@
     "western mass indie": [
         "6YHfq8Pg3lZPo1u0PaQ8ob"
     ],
-    "alternative rock": [
-        "3inCNiUr4R6XQ3W43s9Aqi",
-        "3RGLhK1IP9jnYFH4BRFJBS",
-        "1nJvji2KIlWSseXRSlNYsC"
-    ],
-    "chamber pop": [
-        "3inCNiUr4R6XQ3W43s9Aqi"
-    ],
-    "indie rock": [
-        "3inCNiUr4R6XQ3W43s9Aqi"
-    ],
-    "lo-fi": [
-        "3inCNiUr4R6XQ3W43s9Aqi"
-    ],
-    "shoegaze": [
-        "3inCNiUr4R6XQ3W43s9Aqi"
-    ],
-    "canzone d'autore": [
-        "25MkkfEousyfp2eyh38FUl"
-    ],
-    "classic italian pop": [
-        "25MkkfEousyfp2eyh38FUl"
-    ],
-    "italian adult pop": [
-        "25MkkfEousyfp2eyh38FUl"
-    ],
-    "britpop": [
-        "1N2FgBLehaq77UEdJhCt7f"
-    ],
-    "permanent wave": [
-        "3RGLhK1IP9jnYFH4BRFJBS",
-        "1nJvji2KIlWSseXRSlNYsC"
-    ],
-    "punk": [
-        "3RGLhK1IP9jnYFH4BRFJBS"
-    ],
-    "rock": [
-        "3RGLhK1IP9jnYFH4BRFJBS",
-        "1nJvji2KIlWSseXRSlNYsC"
-    ],
-    "melancholia": [
-        "1nJvji2KIlWSseXRSlNYsC"
-    ],
-    "protopunk": [
-        "1nJvji2KIlWSseXRSlNYsC"
-    ],
     "fourth world": [
         "7FQiZr787umw7P5dO3zqld"
+    ],
+    "bossa nova": [
+        "5644bJMU3NkJN0edhyHV3v"
+    ],
+    "brazilian jazz": [
+        "5644bJMU3NkJN0edhyHV3v"
     ],
     "alternative r&b": [
         "6f5lOlSFJw9K79gaNnmWAd"
@@ -87,7 +41,66 @@
     "uk contemporary r&b": [
         "6f5lOlSFJw9K79gaNnmWAd"
     ],
-    "german indie rock": [
-        "1566uWDpL81kQ1otrgXO03"
+    "dream pop": [
+        "3zmmBJseZelpVEHj8S6Dek"
+    ],
+    "metropopolis": [
+        "3zmmBJseZelpVEHj8S6Dek"
+    ],
+    "modern dream pop": [
+        "3zmmBJseZelpVEHj8S6Dek"
+    ],
+    "noise pop": [
+        "3zmmBJseZelpVEHj8S6Dek"
+    ],
+    "nu gaze": [
+        "3zmmBJseZelpVEHj8S6Dek"
+    ],
+    "shoegaze": [
+        "3zmmBJseZelpVEHj8S6Dek",
+        "3inCNiUr4R6XQ3W43s9Aqi"
+    ],
+    "canzone d'autore": [
+        "25MkkfEousyfp2eyh38FUl"
+    ],
+    "classic italian pop": [
+        "25MkkfEousyfp2eyh38FUl"
+    ],
+    "italian adult pop": [
+        "25MkkfEousyfp2eyh38FUl"
+    ],
+    "alternative rock": [
+        "3inCNiUr4R6XQ3W43s9Aqi",
+        "3RGLhK1IP9jnYFH4BRFJBS"
+    ],
+    "chamber pop": [
+        "3inCNiUr4R6XQ3W43s9Aqi"
+    ],
+    "indie rock": [
+        "3inCNiUr4R6XQ3W43s9Aqi"
+    ],
+    "lo-fi": [
+        "3inCNiUr4R6XQ3W43s9Aqi"
+    ],
+    "permanent wave": [
+        "3RGLhK1IP9jnYFH4BRFJBS"
+    ],
+    "punk": [
+        "3RGLhK1IP9jnYFH4BRFJBS"
+    ],
+    "rock": [
+        "3RGLhK1IP9jnYFH4BRFJBS"
+    ],
+    "blues": [
+        "3y1DgnVXqckGJrbwOKchdU"
+    ],
+    "blues rock": [
+        "3y1DgnVXqckGJrbwOKchdU"
+    ],
+    "british blues": [
+        "3y1DgnVXqckGJrbwOKchdU"
+    ],
+    "electric blues": [
+        "3y1DgnVXqckGJrbwOKchdU"
     ]
 }
