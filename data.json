@@ -1,24 +1,35 @@
 {
-    "bubblegrunge": [
-        "6YHfq8Pg3lZPo1u0PaQ8ob"
-    ],
-    "indie punk": [
-        "6YHfq8Pg3lZPo1u0PaQ8ob"
-    ],
-    "new england emo": [
-        "6YHfq8Pg3lZPo1u0PaQ8ob"
-    ],
-    "western mass indie": [
-        "6YHfq8Pg3lZPo1u0PaQ8ob"
-    ],
-    "fourth world": [
-        "7FQiZr787umw7P5dO3zqld"
-    ],
     "bossa nova": [
         "5644bJMU3NkJN0edhyHV3v"
     ],
     "brazilian jazz": [
         "5644bJMU3NkJN0edhyHV3v"
+    ],
+    "canzone d'autore": [
+        "25MkkfEousyfp2eyh38FUl"
+    ],
+    "classic italian pop": [
+        "25MkkfEousyfp2eyh38FUl"
+    ],
+    "italian adult pop": [
+        "25MkkfEousyfp2eyh38FUl"
+    ],
+    "alternative rock": [
+        "3inCNiUr4R6XQ3W43s9Aqi",
+        "3RGLhK1IP9jnYFH4BRFJBS"
+    ],
+    "chamber pop": [
+        "3inCNiUr4R6XQ3W43s9Aqi"
+    ],
+    "indie rock": [
+        "3inCNiUr4R6XQ3W43s9Aqi"
+    ],
+    "lo-fi": [
+        "3inCNiUr4R6XQ3W43s9Aqi"
+    ],
+    "shoegaze": [
+        "3inCNiUr4R6XQ3W43s9Aqi",
+        "3zmmBJseZelpVEHj8S6Dek"
     ],
     "alternative r&b": [
         "6f5lOlSFJw9K79gaNnmWAd"
@@ -56,32 +67,6 @@
     "nu gaze": [
         "3zmmBJseZelpVEHj8S6Dek"
     ],
-    "shoegaze": [
-        "3zmmBJseZelpVEHj8S6Dek",
-        "3inCNiUr4R6XQ3W43s9Aqi"
-    ],
-    "canzone d'autore": [
-        "25MkkfEousyfp2eyh38FUl"
-    ],
-    "classic italian pop": [
-        "25MkkfEousyfp2eyh38FUl"
-    ],
-    "italian adult pop": [
-        "25MkkfEousyfp2eyh38FUl"
-    ],
-    "alternative rock": [
-        "3inCNiUr4R6XQ3W43s9Aqi",
-        "3RGLhK1IP9jnYFH4BRFJBS"
-    ],
-    "chamber pop": [
-        "3inCNiUr4R6XQ3W43s9Aqi"
-    ],
-    "indie rock": [
-        "3inCNiUr4R6XQ3W43s9Aqi"
-    ],
-    "lo-fi": [
-        "3inCNiUr4R6XQ3W43s9Aqi"
-    ],
     "permanent wave": [
         "3RGLhK1IP9jnYFH4BRFJBS"
     ],
@@ -102,5 +87,20 @@
     ],
     "electric blues": [
         "3y1DgnVXqckGJrbwOKchdU"
+    ],
+    "bubblegrunge": [
+        "6YHfq8Pg3lZPo1u0PaQ8ob"
+    ],
+    "indie punk": [
+        "6YHfq8Pg3lZPo1u0PaQ8ob"
+    ],
+    "new england emo": [
+        "6YHfq8Pg3lZPo1u0PaQ8ob"
+    ],
+    "western mass indie": [
+        "6YHfq8Pg3lZPo1u0PaQ8ob"
+    ],
+    "fourth world": [
+        "7FQiZr787umw7P5dO3zqld"
     ]
 }
