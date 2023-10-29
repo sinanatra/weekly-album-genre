@@ -1,46 +1,4 @@
 {
-    "fourth world": [
-        "7FQiZr787umw7P5dO3zqld"
-    ],
-    "alternative r&b": [
-        "6f5lOlSFJw9K79gaNnmWAd"
-    ],
-    "art pop": [
-        "6f5lOlSFJw9K79gaNnmWAd"
-    ],
-    "electra": [
-        "6f5lOlSFJw9K79gaNnmWAd"
-    ],
-    "escape room": [
-        "6f5lOlSFJw9K79gaNnmWAd"
-    ],
-    "experimental pop": [
-        "6f5lOlSFJw9K79gaNnmWAd"
-    ],
-    "spectra": [
-        "6f5lOlSFJw9K79gaNnmWAd"
-    ],
-    "uk contemporary r&b": [
-        "6f5lOlSFJw9K79gaNnmWAd"
-    ],
-    "alternative rock": [
-        "1nJvji2KIlWSseXRSlNYsC",
-        "3RGLhK1IP9jnYFH4BRFJBS"
-    ],
-    "melancholia": [
-        "1nJvji2KIlWSseXRSlNYsC"
-    ],
-    "permanent wave": [
-        "1nJvji2KIlWSseXRSlNYsC",
-        "3RGLhK1IP9jnYFH4BRFJBS"
-    ],
-    "protopunk": [
-        "1nJvji2KIlWSseXRSlNYsC"
-    ],
-    "rock": [
-        "1nJvji2KIlWSseXRSlNYsC",
-        "3RGLhK1IP9jnYFH4BRFJBS"
-    ],
     "canzone d'autore": [
         "2caOYPej26UoQOyFnzXW3G"
     ],
@@ -48,19 +6,45 @@
         "2caOYPej26UoQOyFnzXW3G"
     ],
     "italian adult pop": [
-        "2caOYPej26UoQOyFnzXW3G"
+        "2caOYPej26UoQOyFnzXW3G",
+        "582KhTHEVOONNQLmQ5612r"
     ],
-    "blues": [
-        "3y1DgnVXqckGJrbwOKchdU"
+    "italian indie pop": [
+        "582KhTHEVOONNQLmQ5612r"
     ],
-    "blues rock": [
-        "3y1DgnVXqckGJrbwOKchdU"
+    "italian pop": [
+        "582KhTHEVOONNQLmQ5612r"
     ],
-    "british blues": [
-        "3y1DgnVXqckGJrbwOKchdU"
+    "rome indie": [
+        "582KhTHEVOONNQLmQ5612r"
     ],
-    "electric blues": [
-        "3y1DgnVXqckGJrbwOKchdU"
+    "psicodelia brasileira": [
+        "30RyGMjuSYBfHRQF3oANq7"
+    ],
+    "art pop": [
+        "5gspAQIAH8nJUrMYgXjCJ2"
+    ],
+    "chamber pop": [
+        "5gspAQIAH8nJUrMYgXjCJ2"
+    ],
+    "indie rock": [
+        "5gspAQIAH8nJUrMYgXjCJ2"
+    ],
+    "modern folk rock": [
+        "5gspAQIAH8nJUrMYgXjCJ2",
+        "1MK90Dn9tMbk16g2Vb2NQp"
+    ],
+    "neo-psychedelic": [
+        "5gspAQIAH8nJUrMYgXjCJ2"
+    ],
+    "noise pop": [
+        "5gspAQIAH8nJUrMYgXjCJ2"
+    ],
+    "philly indie": [
+        "5gspAQIAH8nJUrMYgXjCJ2"
+    ],
+    "singer-songwriter": [
+        "5gspAQIAH8nJUrMYgXjCJ2"
     ],
     "alternative hip hop": [
         "3A5tHz1SfngyOZM2gItYKu"
@@ -80,16 +64,16 @@
     "underground hip hop": [
         "3A5tHz1SfngyOZM2gItYKu"
     ],
-    "punk": [
-        "3RGLhK1IP9jnYFH4BRFJBS"
-    ],
-    "psicodelia brasileira": [
-        "30RyGMjuSYBfHRQF3oANq7"
-    ],
     "garage psych": [
         "1MK90Dn9tMbk16g2Vb2NQp"
     ],
-    "modern folk rock": [
-        "1MK90Dn9tMbk16g2Vb2NQp"
+    "montreal indie": [
+        "10tvYvaoSO32hlvu3NrrPC"
+    ],
+    "french psychedelic": [
+        "2Gq1u66tc99HT0wnA3mj1W"
+    ],
+    "psychedelic pop": [
+        "2Gq1u66tc99HT0wnA3mj1W"
     ]
 }
