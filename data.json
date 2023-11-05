@@ -1,26 +1,4 @@
 {
-    "canzone d'autore": [
-        "2caOYPej26UoQOyFnzXW3G"
-    ],
-    "classic italian pop": [
-        "2caOYPej26UoQOyFnzXW3G"
-    ],
-    "italian adult pop": [
-        "2caOYPej26UoQOyFnzXW3G",
-        "582KhTHEVOONNQLmQ5612r"
-    ],
-    "italian indie pop": [
-        "582KhTHEVOONNQLmQ5612r"
-    ],
-    "italian pop": [
-        "582KhTHEVOONNQLmQ5612r"
-    ],
-    "rome indie": [
-        "582KhTHEVOONNQLmQ5612r"
-    ],
-    "psicodelia brasileira": [
-        "30RyGMjuSYBfHRQF3oANq7"
-    ],
     "art pop": [
         "5gspAQIAH8nJUrMYgXjCJ2"
     ],
@@ -46,6 +24,9 @@
     "singer-songwriter": [
         "5gspAQIAH8nJUrMYgXjCJ2"
     ],
+    "psicodelia brasileira": [
+        "30RyGMjuSYBfHRQF3oANq7"
+    ],
     "alternative hip hop": [
         "3A5tHz1SfngyOZM2gItYKu"
     ],
@@ -64,16 +45,32 @@
     "underground hip hop": [
         "3A5tHz1SfngyOZM2gItYKu"
     ],
-    "garage psych": [
-        "1MK90Dn9tMbk16g2Vb2NQp"
+    "italian adult pop": [
+        "582KhTHEVOONNQLmQ5612r",
+        "2caOYPej26UoQOyFnzXW3G"
     ],
-    "montreal indie": [
-        "10tvYvaoSO32hlvu3NrrPC"
+    "italian pop": [
+        "582KhTHEVOONNQLmQ5612r"
+    ],
+    "rome indie": [
+        "582KhTHEVOONNQLmQ5612r"
     ],
     "french psychedelic": [
         "2Gq1u66tc99HT0wnA3mj1W"
     ],
     "psychedelic pop": [
         "2Gq1u66tc99HT0wnA3mj1W"
+    ],
+    "canzone d'autore": [
+        "2caOYPej26UoQOyFnzXW3G"
+    ],
+    "classic italian pop": [
+        "2caOYPej26UoQOyFnzXW3G"
+    ],
+    "garage psych": [
+        "1MK90Dn9tMbk16g2Vb2NQp"
+    ],
+    "montreal indie": [
+        "10tvYvaoSO32hlvu3NrrPC"
     ]
 }
