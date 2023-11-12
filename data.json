@@ -1,4 +1,46 @@
 {
+    "montreal indie": [
+        "10tvYvaoSO32hlvu3NrrPC"
+    ],
+    "british folk": [
+        "08F3Y3SctIlsOEmKd6dnH8"
+    ],
+    "classic rock": [
+        "08F3Y3SctIlsOEmKd6dnH8",
+        "08GQAI4eElDnROBrJRGE0X"
+    ],
+    "folk": [
+        "08F3Y3SctIlsOEmKd6dnH8"
+    ],
+    "folk rock": [
+        "08F3Y3SctIlsOEmKd6dnH8"
+    ],
+    "mellow gold": [
+        "08F3Y3SctIlsOEmKd6dnH8"
+    ],
+    "singer-songwriter": [
+        "08F3Y3SctIlsOEmKd6dnH8",
+        "5gspAQIAH8nJUrMYgXjCJ2"
+    ],
+    "french psychedelic": [
+        "2Gq1u66tc99HT0wnA3mj1W"
+    ],
+    "psychedelic pop": [
+        "2Gq1u66tc99HT0wnA3mj1W"
+    ],
+    "album rock": [
+        "08GQAI4eElDnROBrJRGE0X"
+    ],
+    "rock": [
+        "08GQAI4eElDnROBrJRGE0X",
+        "1nJvji2KIlWSseXRSlNYsC"
+    ],
+    "soft rock": [
+        "08GQAI4eElDnROBrJRGE0X"
+    ],
+    "yacht rock": [
+        "08GQAI4eElDnROBrJRGE0X"
+    ],
     "art pop": [
         "5gspAQIAH8nJUrMYgXjCJ2"
     ],
@@ -21,33 +63,24 @@
     "philly indie": [
         "5gspAQIAH8nJUrMYgXjCJ2"
     ],
-    "singer-songwriter": [
-        "5gspAQIAH8nJUrMYgXjCJ2"
+    "canzone d'autore": [
+        "19HiWVd2g0XyJstBsbW2Qm"
     ],
-    "psicodelia brasileira": [
-        "30RyGMjuSYBfHRQF3oANq7"
+    "canzone genovese": [
+        "19HiWVd2g0XyJstBsbW2Qm"
     ],
-    "alternative hip hop": [
-        "3A5tHz1SfngyOZM2gItYKu"
+    "classic italian pop": [
+        "19HiWVd2g0XyJstBsbW2Qm"
     ],
-    "drumless hip hop": [
-        "3A5tHz1SfngyOZM2gItYKu"
-    ],
-    "experimental hip hop": [
-        "3A5tHz1SfngyOZM2gItYKu"
-    ],
-    "hip hop": [
-        "3A5tHz1SfngyOZM2gItYKu"
-    ],
-    "rap": [
-        "3A5tHz1SfngyOZM2gItYKu"
-    ],
-    "underground hip hop": [
-        "3A5tHz1SfngyOZM2gItYKu"
+    "folk rock italiano": [
+        "19HiWVd2g0XyJstBsbW2Qm"
     ],
     "italian adult pop": [
-        "582KhTHEVOONNQLmQ5612r",
-        "2caOYPej26UoQOyFnzXW3G"
+        "19HiWVd2g0XyJstBsbW2Qm",
+        "582KhTHEVOONNQLmQ5612r"
+    ],
+    "musica sarda": [
+        "19HiWVd2g0XyJstBsbW2Qm"
     ],
     "italian pop": [
         "582KhTHEVOONNQLmQ5612r"
@@ -55,22 +88,19 @@
     "rome indie": [
         "582KhTHEVOONNQLmQ5612r"
     ],
-    "french psychedelic": [
-        "2Gq1u66tc99HT0wnA3mj1W"
+    "alternative rock": [
+        "1nJvji2KIlWSseXRSlNYsC"
     ],
-    "psychedelic pop": [
-        "2Gq1u66tc99HT0wnA3mj1W"
+    "melancholia": [
+        "1nJvji2KIlWSseXRSlNYsC"
     ],
-    "canzone d'autore": [
-        "2caOYPej26UoQOyFnzXW3G"
+    "permanent wave": [
+        "1nJvji2KIlWSseXRSlNYsC"
     ],
-    "classic italian pop": [
-        "2caOYPej26UoQOyFnzXW3G"
+    "protopunk": [
+        "1nJvji2KIlWSseXRSlNYsC"
     ],
     "garage psych": [
         "1MK90Dn9tMbk16g2Vb2NQp"
-    ],
-    "montreal indie": [
-        "10tvYvaoSO32hlvu3NrrPC"
     ]
 }
