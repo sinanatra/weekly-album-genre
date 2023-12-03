@@ -1,4 +1,21 @@
 {
+    "album rock": [
+        "08GQAI4eElDnROBrJRGE0X"
+    ],
+    "classic rock": [
+        "08GQAI4eElDnROBrJRGE0X",
+        "3WrFJ7ztbogyGnTHbHJFl2"
+    ],
+    "rock": [
+        "08GQAI4eElDnROBrJRGE0X",
+        "3WrFJ7ztbogyGnTHbHJFl2"
+    ],
+    "soft rock": [
+        "08GQAI4eElDnROBrJRGE0X"
+    ],
+    "yacht rock": [
+        "08GQAI4eElDnROBrJRGE0X"
+    ],
     "experimental house": [
         "7wXTWO45lqpUejDkike0Gf",
         "2RqrWplViWHSGLzlhmDcbt"
@@ -12,6 +29,24 @@
     ],
     "escape room": [
         "2RqrWplViWHSGLzlhmDcbt"
+    ],
+    "british invasion": [
+        "3WrFJ7ztbogyGnTHbHJFl2"
+    ],
+    "merseybeat": [
+        "3WrFJ7ztbogyGnTHbHJFl2"
+    ],
+    "psychedelic rock": [
+        "3WrFJ7ztbogyGnTHbHJFl2"
+    ],
+    "italian adult pop": [
+        "582KhTHEVOONNQLmQ5612r"
+    ],
+    "italian pop": [
+        "582KhTHEVOONNQLmQ5612r"
+    ],
+    "rome indie": [
+        "582KhTHEVOONNQLmQ5612r"
     ],
     "chamber pop": [
         "5gspAQIAH8nJUrMYgXjCJ2"
@@ -33,40 +68,5 @@
     ],
     "singer-songwriter": [
         "5gspAQIAH8nJUrMYgXjCJ2"
-    ],
-    "album rock": [
-        "08GQAI4eElDnROBrJRGE0X"
-    ],
-    "classic rock": [
-        "08GQAI4eElDnROBrJRGE0X",
-        "3WrFJ7ztbogyGnTHbHJFl2"
-    ],
-    "rock": [
-        "08GQAI4eElDnROBrJRGE0X",
-        "3WrFJ7ztbogyGnTHbHJFl2"
-    ],
-    "soft rock": [
-        "08GQAI4eElDnROBrJRGE0X"
-    ],
-    "yacht rock": [
-        "08GQAI4eElDnROBrJRGE0X"
-    ],
-    "british invasion": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-    ],
-    "merseybeat": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-    ],
-    "psychedelic rock": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-    ],
-    "italian adult pop": [
-        "582KhTHEVOONNQLmQ5612r"
-    ],
-    "italian pop": [
-        "582KhTHEVOONNQLmQ5612r"
-    ],
-    "rome indie": [
-        "582KhTHEVOONNQLmQ5612r"
     ]
 }
