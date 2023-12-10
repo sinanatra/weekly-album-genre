@@ -1,43 +1,89 @@
 {
-    "album rock": [
-        "08GQAI4eElDnROBrJRGE0X"
+    "alternative rock": [
+        "03r4iKL2g2442PT9n2UKsx"
     ],
-    "classic rock": [
-        "08GQAI4eElDnROBrJRGE0X",
-        "3WrFJ7ztbogyGnTHbHJFl2"
+    "east coast hip hop": [
+        "03r4iKL2g2442PT9n2UKsx"
+    ],
+    "golden age hip hop": [
+        "03r4iKL2g2442PT9n2UKsx"
+    ],
+    "hip hop": [
+        "03r4iKL2g2442PT9n2UKsx"
+    ],
+    "old school hip hop": [
+        "03r4iKL2g2442PT9n2UKsx"
+    ],
+    "rap": [
+        "03r4iKL2g2442PT9n2UKsx"
+    ],
+    "rap rock": [
+        "03r4iKL2g2442PT9n2UKsx"
     ],
     "rock": [
-        "08GQAI4eElDnROBrJRGE0X",
+        "03r4iKL2g2442PT9n2UKsx",
         "3WrFJ7ztbogyGnTHbHJFl2"
     ],
-    "soft rock": [
-        "08GQAI4eElDnROBrJRGE0X"
+    "uk contemporary jazz": [
+        "3gmX5TSkgW4iu2dm71QzWr"
     ],
-    "yacht rock": [
-        "08GQAI4eElDnROBrJRGE0X"
+    "abstract": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
-    "experimental house": [
-        "7wXTWO45lqpUejDkike0Gf",
+    "ambient": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
+    ],
+    "art pop": [
+        "7MSUfLeTdDEoZiJPDSBXgi",
         "2RqrWplViWHSGLzlhmDcbt"
+    ],
+    "art rock": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
+    ],
+    "compositional ambient": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
+    ],
+    "experimental": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
+    ],
+    "experimental ambient": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
+    ],
+    "fourth world": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
+    ],
+    "glam rock": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
+    ],
+    "minimalism": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
+    ],
+    "singer-songwriter": [
+        "7MSUfLeTdDEoZiJPDSBXgi"
+    ],
+    "indie napoletano": [
+        "77J3V0V7sEOf5ifCDBSNaJ"
+    ],
+    "neapolitan funk": [
+        "77J3V0V7sEOf5ifCDBSNaJ"
+    ],
+    "lo-fi indie": [
+        "2GJa7lPCjAB1rKXptXrfy8"
     ],
     "alternative r&b": [
         "2RqrWplViWHSGLzlhmDcbt"
     ],
-    "art pop": [
-        "2RqrWplViWHSGLzlhmDcbt",
-        "5gspAQIAH8nJUrMYgXjCJ2"
-    ],
     "escape room": [
         "2RqrWplViWHSGLzlhmDcbt"
     ],
-    "british invasion": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
+    "experimental house": [
+        "2RqrWplViWHSGLzlhmDcbt"
     ],
-    "merseybeat": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
+    "belgian electronic": [
+        "0h1gX589xBKUCijeC8Bewy"
     ],
-    "psychedelic rock": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
+    "belgian indie": [
+        "0h1gX589xBKUCijeC8Bewy"
     ],
     "italian adult pop": [
         "582KhTHEVOONNQLmQ5612r"
@@ -48,25 +94,19 @@
     "rome indie": [
         "582KhTHEVOONNQLmQ5612r"
     ],
-    "chamber pop": [
-        "5gspAQIAH8nJUrMYgXjCJ2"
+    "nova musica carioca": [
+        "5Xx27g4aSstcsU3WF4waDC"
     ],
-    "indie rock": [
-        "5gspAQIAH8nJUrMYgXjCJ2"
+    "british invasion": [
+        "3WrFJ7ztbogyGnTHbHJFl2"
     ],
-    "modern folk rock": [
-        "5gspAQIAH8nJUrMYgXjCJ2"
+    "classic rock": [
+        "3WrFJ7ztbogyGnTHbHJFl2"
     ],
-    "neo-psychedelic": [
-        "5gspAQIAH8nJUrMYgXjCJ2"
+    "merseybeat": [
+        "3WrFJ7ztbogyGnTHbHJFl2"
     ],
-    "noise pop": [
-        "5gspAQIAH8nJUrMYgXjCJ2"
-    ],
-    "philly indie": [
-        "5gspAQIAH8nJUrMYgXjCJ2"
-    ],
-    "singer-songwriter": [
-        "5gspAQIAH8nJUrMYgXjCJ2"
+    "psychedelic rock": [
+        "3WrFJ7ztbogyGnTHbHJFl2"
     ]
 }
