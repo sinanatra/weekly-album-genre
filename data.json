@@ -1,45 +1,28 @@
 {
-    "uk contemporary jazz": [
-        "3gmX5TSkgW4iu2dm71QzWr"
+    "dutch dnb": [
+        "08hjAM9XAD28O0nWVKmlx5"
     ],
-    "indie napoletano": [
-        "77J3V0V7sEOf5ifCDBSNaJ"
+    "modern jungle": [
+        "08hjAM9XAD28O0nWVKmlx5"
     ],
-    "neapolitan funk": [
-        "77J3V0V7sEOf5ifCDBSNaJ"
+    "skweee": [
+        "08hjAM9XAD28O0nWVKmlx5"
     ],
-    "nova musica carioca": [
-        "5Xx27g4aSstcsU3WF4waDC"
-    ],
-    "lo-fi indie": [
-        "2GJa7lPCjAB1rKXptXrfy8"
+    "wonky": [
+        "08hjAM9XAD28O0nWVKmlx5"
     ],
     "electronica": [
+        "7A0awCXkE1FtSU8B0qwOJQ",
         "0ngUeF0DGpYmPec80MqSi1"
     ],
-    "experimental hip hop": [
-        "0ngUeF0DGpYmPec80MqSi1"
+    "future garage": [
+        "7A0awCXkE1FtSU8B0qwOJQ"
     ],
-    "atl hip hop": [
-        "74V3dE1a51skRkdII8y2C6"
+    "indie soul": [
+        "7A0awCXkE1FtSU8B0qwOJQ"
     ],
-    "dirty south rap": [
-        "74V3dE1a51skRkdII8y2C6"
-    ],
-    "hip hop": [
-        "74V3dE1a51skRkdII8y2C6"
-    ],
-    "southern hip hop": [
-        "74V3dE1a51skRkdII8y2C6"
-    ],
-    "belgian electronic": [
-        "0h1gX589xBKUCijeC8Bewy"
-    ],
-    "belgian indie": [
-        "0h1gX589xBKUCijeC8Bewy"
-    ],
-    "abstract": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
+    "indietronica": [
+        "7A0awCXkE1FtSU8B0qwOJQ"
     ],
     "ambient": [
         "7MSUfLeTdDEoZiJPDSBXgi"
@@ -69,16 +52,48 @@
         "7MSUfLeTdDEoZiJPDSBXgi"
     ],
     "singer-songwriter": [
-        "7MSUfLeTdDEoZiJPDSBXgi",
-        "7oPgCQqMMXEXrNau5vxYZP"
+        "7MSUfLeTdDEoZiJPDSBXgi"
     ],
-    "folk": [
-        "7oPgCQqMMXEXrNau5vxYZP"
+    "reggae": [
+        "2QsynagSdAqZj3U9HgDzjD"
     ],
-    "lilith": [
-        "7oPgCQqMMXEXrNau5vxYZP"
+    "roots reggae": [
+        "2QsynagSdAqZj3U9HgDzjD"
     ],
-    "women's music": [
-        "7oPgCQqMMXEXrNau5vxYZP"
+    "experimental hip hop": [
+        "0ngUeF0DGpYmPec80MqSi1"
+    ],
+    "garage psych": [
+        "1MK90Dn9tMbk16g2Vb2NQp"
+    ],
+    "modern folk rock": [
+        "1MK90Dn9tMbk16g2Vb2NQp"
+    ],
+    "ann arbor indie": [
+        "7pXu47GoqSYRajmBCjxdD6"
+    ],
+    "funk rock": [
+        "7pXu47GoqSYRajmBCjxdD6"
+    ],
+    "instrumental funk": [
+        "7pXu47GoqSYRajmBCjxdD6"
+    ],
+    "polish jazz": [
+        "5YkOoDfxepfrbbyuimbo8c"
+    ],
+    "polish modern jazz": [
+        "5YkOoDfxepfrbbyuimbo8c"
+    ],
+    "atl hip hop": [
+        "74V3dE1a51skRkdII8y2C6"
+    ],
+    "dirty south rap": [
+        "74V3dE1a51skRkdII8y2C6"
+    ],
+    "hip hop": [
+        "74V3dE1a51skRkdII8y2C6"
+    ],
+    "southern hip hop": [
+        "74V3dE1a51skRkdII8y2C6"
     ]
 }
