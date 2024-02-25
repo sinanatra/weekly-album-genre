@@ -1,15 +1,18 @@
 {
     "italian alternative": [
-        "5RECxqPUWytzhwKabZ1lWx",
-        "3E0AdQIPzFjiMFto5NiKuM"
+        "3E0AdQIPzFjiMFto5NiKuM",
+        "5RECxqPUWytzhwKabZ1lWx"
     ],
     "italian indie pop": [
-        "5RECxqPUWytzhwKabZ1lWx",
         "3E0AdQIPzFjiMFto5NiKuM"
     ],
     "milan indie": [
-        "5RECxqPUWytzhwKabZ1lWx",
-        "3E0AdQIPzFjiMFto5NiKuM"
+        "3E0AdQIPzFjiMFto5NiKuM",
+        "5RECxqPUWytzhwKabZ1lWx"
+    ],
+    "german indie": [
+        "5Q2DijkguiiBhezl9vqzmm",
+        "48dnHBivHwkMNSeKlNY6F4"
     ],
     "garage psych": [
         "1MK90Dn9tMbk16g2Vb2NQp"
@@ -50,6 +53,18 @@
     "singer-songwriter": [
         "7MSUfLeTdDEoZiJPDSBXgi"
     ],
+    "indie veneto": [
+        "6f3B5dawAzPRXeFpKS9o4T"
+    ],
+    "italian hip hop": [
+        "4dyfAiJCbl7jS1GHOCdiJv"
+    ],
+    "italian pop": [
+        "4dyfAiJCbl7jS1GHOCdiJv"
+    ],
+    "italian underground hip hop": [
+        "4dyfAiJCbl7jS1GHOCdiJv"
+    ],
     "british invasion": [
         "3WrFJ7ztbogyGnTHbHJFl2"
     ],
@@ -64,21 +79,5 @@
     ],
     "rock": [
         "3WrFJ7ztbogyGnTHbHJFl2"
-    ],
-    "german indie": [
-        "5Q2DijkguiiBhezl9vqzmm",
-        "48dnHBivHwkMNSeKlNY6F4"
-    ],
-    "indie veneto": [
-        "6f3B5dawAzPRXeFpKS9o4T"
-    ],
-    "italian hip hop": [
-        "4dyfAiJCbl7jS1GHOCdiJv"
-    ],
-    "italian pop": [
-        "4dyfAiJCbl7jS1GHOCdiJv"
-    ],
-    "italian underground hip hop": [
-        "4dyfAiJCbl7jS1GHOCdiJv"
     ]
 }
