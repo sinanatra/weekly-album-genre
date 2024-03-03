@@ -1,24 +1,78 @@
 {
     "italian alternative": [
-        "3E0AdQIPzFjiMFto5NiKuM",
         "5RECxqPUWytzhwKabZ1lWx"
     ],
     "italian indie pop": [
-        "3E0AdQIPzFjiMFto5NiKuM"
+        "5RECxqPUWytzhwKabZ1lWx"
     ],
     "milan indie": [
-        "3E0AdQIPzFjiMFto5NiKuM",
         "5RECxqPUWytzhwKabZ1lWx"
     ],
     "german indie": [
-        "5Q2DijkguiiBhezl9vqzmm",
         "48dnHBivHwkMNSeKlNY6F4"
+    ],
+    "indie veneto": [
+        "6f3B5dawAzPRXeFpKS9o4T"
+    ],
+    "british invasion": [
+        "3WrFJ7ztbogyGnTHbHJFl2"
+    ],
+    "classic rock": [
+        "3WrFJ7ztbogyGnTHbHJFl2",
+        "08GQAI4eElDnROBrJRGE0X"
+    ],
+    "merseybeat": [
+        "3WrFJ7ztbogyGnTHbHJFl2"
+    ],
+    "psychedelic rock": [
+        "3WrFJ7ztbogyGnTHbHJFl2"
+    ],
+    "rock": [
+        "3WrFJ7ztbogyGnTHbHJFl2",
+        "03r4iKL2g2442PT9n2UKsx",
+        "08GQAI4eElDnROBrJRGE0X"
+    ],
+    "alternative rock": [
+        "03r4iKL2g2442PT9n2UKsx"
+    ],
+    "east coast hip hop": [
+        "03r4iKL2g2442PT9n2UKsx"
+    ],
+    "golden age hip hop": [
+        "03r4iKL2g2442PT9n2UKsx"
+    ],
+    "hip hop": [
+        "03r4iKL2g2442PT9n2UKsx"
+    ],
+    "old school hip hop": [
+        "03r4iKL2g2442PT9n2UKsx"
+    ],
+    "rap": [
+        "03r4iKL2g2442PT9n2UKsx"
+    ],
+    "rap rock": [
+        "03r4iKL2g2442PT9n2UKsx"
     ],
     "garage psych": [
         "1MK90Dn9tMbk16g2Vb2NQp"
     ],
     "modern folk rock": [
         "1MK90Dn9tMbk16g2Vb2NQp"
+    ],
+    "reggae": [
+        "2QsynagSdAqZj3U9HgDzjD"
+    ],
+    "roots reggae": [
+        "2QsynagSdAqZj3U9HgDzjD"
+    ],
+    "album rock": [
+        "08GQAI4eElDnROBrJRGE0X"
+    ],
+    "soft rock": [
+        "08GQAI4eElDnROBrJRGE0X"
+    ],
+    "yacht rock": [
+        "08GQAI4eElDnROBrJRGE0X"
     ],
     "abstract": [
         "7MSUfLeTdDEoZiJPDSBXgi"
@@ -52,32 +106,5 @@
     ],
     "singer-songwriter": [
         "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "indie veneto": [
-        "6f3B5dawAzPRXeFpKS9o4T"
-    ],
-    "italian hip hop": [
-        "4dyfAiJCbl7jS1GHOCdiJv"
-    ],
-    "italian pop": [
-        "4dyfAiJCbl7jS1GHOCdiJv"
-    ],
-    "italian underground hip hop": [
-        "4dyfAiJCbl7jS1GHOCdiJv"
-    ],
-    "british invasion": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-    ],
-    "classic rock": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-    ],
-    "merseybeat": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-    ],
-    "psychedelic rock": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-    ],
-    "rock": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
     ]
 }
