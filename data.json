@@ -1,29 +1,14 @@
 {
-    "reggae": [
-        "2QsynagSdAqZj3U9HgDzjD"
-    ],
-    "roots reggae": [
-        "2QsynagSdAqZj3U9HgDzjD"
-    ],
-    "british invasion": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-    ],
-    "classic rock": [
-        "3WrFJ7ztbogyGnTHbHJFl2",
-        "08GQAI4eElDnROBrJRGE0X"
-    ],
-    "merseybeat": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-    ],
-    "psychedelic rock": [
-        "3WrFJ7ztbogyGnTHbHJFl2"
-    ],
-    "rock": [
-        "3WrFJ7ztbogyGnTHbHJFl2",
-        "08GQAI4eElDnROBrJRGE0X",
-        "03r4iKL2g2442PT9n2UKsx"
+    "boston rock": [
+        "3QgSmABpItIdj908ek80n5"
     ],
     "album rock": [
+        "08GQAI4eElDnROBrJRGE0X"
+    ],
+    "classic rock": [
+        "08GQAI4eElDnROBrJRGE0X"
+    ],
+    "rock": [
         "08GQAI4eElDnROBrJRGE0X"
     ],
     "soft rock": [
@@ -32,39 +17,6 @@
     "yacht rock": [
         "08GQAI4eElDnROBrJRGE0X"
     ],
-    "german indie": [
-        "48dnHBivHwkMNSeKlNY6F4"
-    ],
-    "italian alternative": [
-        "5RECxqPUWytzhwKabZ1lWx"
-    ],
-    "italian indie pop": [
-        "5RECxqPUWytzhwKabZ1lWx"
-    ],
-    "milan indie": [
-        "5RECxqPUWytzhwKabZ1lWx"
-    ],
-    "alternative rock": [
-        "03r4iKL2g2442PT9n2UKsx"
-    ],
-    "east coast hip hop": [
-        "03r4iKL2g2442PT9n2UKsx"
-    ],
-    "golden age hip hop": [
-        "03r4iKL2g2442PT9n2UKsx"
-    ],
-    "hip hop": [
-        "03r4iKL2g2442PT9n2UKsx"
-    ],
-    "old school hip hop": [
-        "03r4iKL2g2442PT9n2UKsx"
-    ],
-    "rap": [
-        "03r4iKL2g2442PT9n2UKsx"
-    ],
-    "rap rock": [
-        "03r4iKL2g2442PT9n2UKsx"
-    ],
     "abstract": [
         "7MSUfLeTdDEoZiJPDSBXgi"
     ],
@@ -72,7 +24,8 @@
         "7MSUfLeTdDEoZiJPDSBXgi"
     ],
     "art pop": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
+        "7MSUfLeTdDEoZiJPDSBXgi",
+        "0asVlqTLu3TimnYVyY5Jxi"
     ],
     "art rock": [
         "7MSUfLeTdDEoZiJPDSBXgi"
@@ -87,7 +40,8 @@
         "7MSUfLeTdDEoZiJPDSBXgi"
     ],
     "fourth world": [
-        "7MSUfLeTdDEoZiJPDSBXgi"
+        "7MSUfLeTdDEoZiJPDSBXgi",
+        "7FQiZr787umw7P5dO3zqld"
     ],
     "glam rock": [
         "7MSUfLeTdDEoZiJPDSBXgi"
@@ -98,13 +52,31 @@
     "singer-songwriter": [
         "7MSUfLeTdDEoZiJPDSBXgi"
     ],
+    "german indie": [
+        "48dnHBivHwkMNSeKlNY6F4"
+    ],
+    "violao": [
+        "2qLU3VUpp3uV2Oyf786FC3"
+    ],
     "garage psych": [
         "1MK90Dn9tMbk16g2Vb2NQp"
     ],
     "modern folk rock": [
         "1MK90Dn9tMbk16g2Vb2NQp"
     ],
-    "indie veneto": [
-        "6f3B5dawAzPRXeFpKS9o4T"
+    "british blues": [
+        "3y1DgnVXqckGJrbwOKchdU"
+    ],
+    "indie rock": [
+        "0asVlqTLu3TimnYVyY5Jxi"
+    ],
+    "one-person band": [
+        "0asVlqTLu3TimnYVyY5Jxi"
+    ],
+    "shimmer pop": [
+        "0asVlqTLu3TimnYVyY5Jxi"
+    ],
+    "french synthpop": [
+        "53zPVFS5lrh8IAwsr7JdL1"
     ]
 }
