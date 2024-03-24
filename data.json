@@ -1,6 +1,13 @@
 {
-    "boston rock": [
-        "3QgSmABpItIdj908ek80n5"
+    "french synthpop": [
+        "53zPVFS5lrh8IAwsr7JdL1"
+    ],
+    "fourth world": [
+        "7FQiZr787umw7P5dO3zqld",
+        "7MSUfLeTdDEoZiJPDSBXgi"
+    ],
+    "violao": [
+        "2qLU3VUpp3uV2Oyf786FC3"
     ],
     "album rock": [
         "08GQAI4eElDnROBrJRGE0X"
@@ -17,15 +24,27 @@
     "yacht rock": [
         "08GQAI4eElDnROBrJRGE0X"
     ],
-    "abstract": [
+    "boston rock": [
+        "3QgSmABpItIdj908ek80n5"
+    ],
+    "art pop": [
+        "0asVlqTLu3TimnYVyY5Jxi",
         "7MSUfLeTdDEoZiJPDSBXgi"
+    ],
+    "indie rock": [
+        "0asVlqTLu3TimnYVyY5Jxi"
+    ],
+    "one-person band": [
+        "0asVlqTLu3TimnYVyY5Jxi"
+    ],
+    "shimmer pop": [
+        "0asVlqTLu3TimnYVyY5Jxi"
+    ],
+    "british blues": [
+        "3y1DgnVXqckGJrbwOKchdU"
     ],
     "ambient": [
         "7MSUfLeTdDEoZiJPDSBXgi"
-    ],
-    "art pop": [
-        "7MSUfLeTdDEoZiJPDSBXgi",
-        "0asVlqTLu3TimnYVyY5Jxi"
     ],
     "art rock": [
         "7MSUfLeTdDEoZiJPDSBXgi"
@@ -39,10 +58,6 @@
     "experimental ambient": [
         "7MSUfLeTdDEoZiJPDSBXgi"
     ],
-    "fourth world": [
-        "7MSUfLeTdDEoZiJPDSBXgi",
-        "7FQiZr787umw7P5dO3zqld"
-    ],
     "glam rock": [
         "7MSUfLeTdDEoZiJPDSBXgi"
     ],
@@ -55,28 +70,10 @@
     "german indie": [
         "48dnHBivHwkMNSeKlNY6F4"
     ],
-    "violao": [
-        "2qLU3VUpp3uV2Oyf786FC3"
-    ],
     "garage psych": [
         "1MK90Dn9tMbk16g2Vb2NQp"
     ],
     "modern folk rock": [
         "1MK90Dn9tMbk16g2Vb2NQp"
-    ],
-    "british blues": [
-        "3y1DgnVXqckGJrbwOKchdU"
-    ],
-    "indie rock": [
-        "0asVlqTLu3TimnYVyY5Jxi"
-    ],
-    "one-person band": [
-        "0asVlqTLu3TimnYVyY5Jxi"
-    ],
-    "shimmer pop": [
-        "0asVlqTLu3TimnYVyY5Jxi"
-    ],
-    "french synthpop": [
-        "53zPVFS5lrh8IAwsr7JdL1"
     ]
 }
