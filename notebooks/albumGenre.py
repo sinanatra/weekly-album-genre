@@ -10,7 +10,7 @@ import json
 #url = "https://spotify-top.com/user/sinanatra"
 url = "https://musicalyst.com/user/sinanatra"
 
-req = Request(url)
+req = Request(url, headers={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'})
 html_page = urlopen(req)
 
 soup = BeautifulSoup(html_page, "html.parser")
