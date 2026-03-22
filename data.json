@@ -1,4 +1,7 @@
 {
+    "ethiopian jazz": [
+        "7HGFXtBhRq3g1Ma3nH4Rgv"
+    ],
     "reggaeton": [
         "4q3ewBCX7sLwd24euuV69X"
     ],
@@ -11,48 +14,18 @@
     "urbano latino": [
         "4q3ewBCX7sLwd24euuV69X"
     ],
-    "alt country": [
-        "2QoU3awHVdcHS8LrZEKvSM"
-    ],
-    "americana": [
-        "2QoU3awHVdcHS8LrZEKvSM"
-    ],
-    "indie rock": [
-        "2QoU3awHVdcHS8LrZEKvSM",
-        "23NIwARd4vPbxt3wwNnJ6k"
-    ],
     "italian singer-songwriter": [
         "25MkkfEousyfp2eyh38FUl",
-        "2caOYPej26UoQOyFnzXW3G",
-        "6bMul6rmRS03x38tWKYifO",
         "0j8bZPtWT5Nf60PEarotFf",
+        "2caOYPej26UoQOyFnzXW3G",
         "18cezosJ2J9c3XZ7uVmMf0",
+        "6bMul6rmRS03x38tWKYifO",
         "19HiWVd2g0XyJstBsbW2Qm"
     ],
     "singer-songwriter": [
         "25MkkfEousyfp2eyh38FUl",
         "2caOYPej26UoQOyFnzXW3G",
         "19HiWVd2g0XyJstBsbW2Qm"
-    ],
-    "concerto": [
-        "6bMul6rmRS03x38tWKYifO"
-    ],
-    "art rock": [
-        "0WCo84qtCKfbyIf1lqQWB4"
-    ],
-    "post-punk": [
-        "7DlD7rLG9MKuvXtTeACzkO",
-        "23NIwARd4vPbxt3wwNnJ6k",
-        "2x9SpqnPi8rlE9pjHBwmSC"
-    ],
-    "trip hop": [
-        "6FXMGgJwohJLUSr5nVlf9X"
-    ],
-    "downtempo": [
-        "6FXMGgJwohJLUSr5nVlf9X"
-    ],
-    "ethiopian jazz": [
-        "7HGFXtBhRq3g1Ma3nH4Rgv"
     ],
     "funk rock": [
         "0L8ExT028jH3ddEcZwqJJ5"
@@ -63,30 +36,17 @@
     "rock": [
         "0L8ExT028jH3ddEcZwqJJ5"
     ],
-    "baroque pop": [
-        "4I2BJf80C0skQpp1sQmA0h",
-        "5BvJzeQpmsdsFp4HGUYUEx"
+    "post-punk": [
+        "23NIwARd4vPbxt3wwNnJ6k",
+        "7DlD7rLG9MKuvXtTeACzkO",
+        "2x9SpqnPi8rlE9pjHBwmSC"
+    ],
+    "indie rock": [
+        "23NIwARd4vPbxt3wwNnJ6k",
+        "2QoU3awHVdcHS8LrZEKvSM"
     ],
     "garage rock": [
         "23NIwARd4vPbxt3wwNnJ6k"
-    ],
-    "new wave": [
-        "2x9SpqnPi8rlE9pjHBwmSC"
-    ],
-    "german indie": [
-        "48dnHBivHwkMNSeKlNY6F4"
-    ],
-    "neue deutsche welle": [
-        "48dnHBivHwkMNSeKlNY6F4"
-    ],
-    "german indie pop": [
-        "48dnHBivHwkMNSeKlNY6F4"
-    ],
-    "krautrock": [
-        "48dnHBivHwkMNSeKlNY6F4"
-    ],
-    "indie": [
-        "5BvJzeQpmsdsFp4HGUYUEx"
     ],
     "experimental hip hop": [
         "1rJkz5vopfGxTUGFNB3o4G"
@@ -114,5 +74,45 @@
     ],
     "pop rock": [
         "7EM9m7HOXxVgP9oEpDDv70"
+    ],
+    "art rock": [
+        "0WCo84qtCKfbyIf1lqQWB4"
+    ],
+    "concerto": [
+        "6bMul6rmRS03x38tWKYifO"
+    ],
+    "german indie": [
+        "48dnHBivHwkMNSeKlNY6F4"
+    ],
+    "neue deutsche welle": [
+        "48dnHBivHwkMNSeKlNY6F4"
+    ],
+    "german indie pop": [
+        "48dnHBivHwkMNSeKlNY6F4"
+    ],
+    "krautrock": [
+        "48dnHBivHwkMNSeKlNY6F4"
+    ],
+    "trip hop": [
+        "6FXMGgJwohJLUSr5nVlf9X"
+    ],
+    "downtempo": [
+        "6FXMGgJwohJLUSr5nVlf9X"
+    ],
+    "indie": [
+        "5BvJzeQpmsdsFp4HGUYUEx"
+    ],
+    "baroque pop": [
+        "5BvJzeQpmsdsFp4HGUYUEx",
+        "4I2BJf80C0skQpp1sQmA0h"
+    ],
+    "alt country": [
+        "2QoU3awHVdcHS8LrZEKvSM"
+    ],
+    "americana": [
+        "2QoU3awHVdcHS8LrZEKvSM"
+    ],
+    "new wave": [
+        "2x9SpqnPi8rlE9pjHBwmSC"
     ]
 }
