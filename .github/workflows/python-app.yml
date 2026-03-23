@@ -1,48 +1,73 @@
-name: Python application
+name: Update data and deploy
 
 on:
   schedule:
-    - cron:  '0 0 * * 0'  
+    - cron: '0 0 * * 0'
   workflow_dispatch:
     inputs:
       manualrun:
-        description: 'Manually run workflow'     
+        description: 'Manually run workflow'
         required: true
-  #push:
-  #  branches:
-  #    - master
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v4
+
     - name: Set up Python 3.11
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
-    - name: Install dependencies
+
+    - name: Install Python dependencies
       run: |
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: html parser
+
+    - name: Run data script
       env:
         SPOTIFY_API_KEY: ${{ secrets.SPOTIFY_API_KEY }}
         SPOTIFY_API_SECRET: ${{ secrets.SPOTIFY_API_SECRET }}
-      run: |
-          python notebooks/albumGenre.py  
-          git status
-    - name: push
+      run: python notebooks/albumGenre.py
+
+    - name: Commit updated data.json
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: Apply automatic changes
+        commit_message: Update data
         branch: master
-        commit_options: '--no-verify --signoff'
         file_pattern: '*.json'
-        repository: .
         commit_user_name: Giacomo Nanni Bot
         commit_user_email: actions@github.com
         commit_author: Author <actions@github.com>
-        tagging_message: 'v1.0.0'
         push_options: '--force'
+
+    - name: Set up Node
+      uses: actions/setup-node@v4
+      with:
+        node-version: 20
+
+    - name: Build frontend
+      run: npm install && npm run build
+
+    - name: Upload Pages artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: dist/
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
