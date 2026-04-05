@@ -1,41 +1,52 @@
 {
-    "italian singer-songwriter": [
-        "18cezosJ2J9c3XZ7uVmMf0",
-        "6bMul6rmRS03x38tWKYifO",
-        "19HiWVd2g0XyJstBsbW2Qm",
-        "0j8bZPtWT5Nf60PEarotFf",
-        "2caOYPej26UoQOyFnzXW3G",
-        "25MkkfEousyfp2eyh38FUl"
-    ],
-    "art rock": [
-        "0WCo84qtCKfbyIf1lqQWB4"
-    ],
-    "funk rock": [
-        "0L8ExT028jH3ddEcZwqJJ5"
-    ],
-    "alternative rock": [
-        "0L8ExT028jH3ddEcZwqJJ5"
-    ],
-    "rock": [
-        "0L8ExT028jH3ddEcZwqJJ5"
-    ],
-    "concerto": [
-        "6bMul6rmRS03x38tWKYifO"
-    ],
     "post-punk": [
-        "7DlD7rLG9MKuvXtTeACzkO",
+        "23NIwARd4vPbxt3wwNnJ6k",
         "2x9SpqnPi8rlE9pjHBwmSC",
-        "23NIwARd4vPbxt3wwNnJ6k"
-    ],
-    "alt country": [
-        "2QoU3awHVdcHS8LrZEKvSM"
-    ],
-    "americana": [
-        "2QoU3awHVdcHS8LrZEKvSM"
+        "7DlD7rLG9MKuvXtTeACzkO"
     ],
     "indie rock": [
-        "2QoU3awHVdcHS8LrZEKvSM",
+        "23NIwARd4vPbxt3wwNnJ6k",
+        "2QoU3awHVdcHS8LrZEKvSM"
+    ],
+    "garage rock": [
         "23NIwARd4vPbxt3wwNnJ6k"
+    ],
+    "italian singer-songwriter": [
+        "25MkkfEousyfp2eyh38FUl",
+        "18cezosJ2J9c3XZ7uVmMf0",
+        "19HiWVd2g0XyJstBsbW2Qm",
+        "6bMul6rmRS03x38tWKYifO",
+        "2caOYPej26UoQOyFnzXW3G",
+        "0j8bZPtWT5Nf60PEarotFf"
+    ],
+    "singer-songwriter": [
+        "25MkkfEousyfp2eyh38FUl",
+        "19HiWVd2g0XyJstBsbW2Qm",
+        "2caOYPej26UoQOyFnzXW3G"
+    ],
+    "reggaeton": [
+        "4q3ewBCX7sLwd24euuV69X"
+    ],
+    "trap latino": [
+        "4q3ewBCX7sLwd24euuV69X"
+    ],
+    "latin": [
+        "4q3ewBCX7sLwd24euuV69X"
+    ],
+    "urbano latino": [
+        "4q3ewBCX7sLwd24euuV69X"
+    ],
+    "experimental hip hop": [
+        "1rJkz5vopfGxTUGFNB3o4G"
+    ],
+    "alternative hip hop": [
+        "1rJkz5vopfGxTUGFNB3o4G"
+    ],
+    "jazz rap": [
+        "1rJkz5vopfGxTUGFNB3o4G"
+    ],
+    "underground hip hop": [
+        "1rJkz5vopfGxTUGFNB3o4G"
     ],
     "indie": [
         "5BvJzeQpmsdsFp4HGUYUEx"
@@ -44,10 +55,8 @@
         "5BvJzeQpmsdsFp4HGUYUEx",
         "4I2BJf80C0skQpp1sQmA0h"
     ],
-    "singer-songwriter": [
-        "19HiWVd2g0XyJstBsbW2Qm",
-        "2caOYPej26UoQOyFnzXW3G",
-        "25MkkfEousyfp2eyh38FUl"
+    "art rock": [
+        "0WCo84qtCKfbyIf1lqQWB4"
     ],
     "brazilian rock": [
         "7EM9m7HOXxVgP9oEpDDv70"
@@ -64,41 +73,29 @@
     "pop rock": [
         "7EM9m7HOXxVgP9oEpDDv70"
     ],
-    "trip hop": [
-        "6FXMGgJwohJLUSr5nVlf9X"
+    "alt country": [
+        "2QoU3awHVdcHS8LrZEKvSM"
     ],
-    "downtempo": [
-        "6FXMGgJwohJLUSr5nVlf9X"
+    "americana": [
+        "2QoU3awHVdcHS8LrZEKvSM"
     ],
-    "new wave": [
-        "2x9SpqnPi8rlE9pjHBwmSC"
-    ],
-    "experimental hip hop": [
-        "1rJkz5vopfGxTUGFNB3o4G"
-    ],
-    "alternative hip hop": [
-        "1rJkz5vopfGxTUGFNB3o4G"
-    ],
-    "jazz rap": [
-        "1rJkz5vopfGxTUGFNB3o4G"
-    ],
-    "underground hip hop": [
-        "1rJkz5vopfGxTUGFNB3o4G"
-    ],
-    "reggaeton": [
-        "4q3ewBCX7sLwd24euuV69X"
-    ],
-    "trap latino": [
-        "4q3ewBCX7sLwd24euuV69X"
-    ],
-    "latin": [
-        "4q3ewBCX7sLwd24euuV69X"
-    ],
-    "urbano latino": [
-        "4q3ewBCX7sLwd24euuV69X"
+    "concerto": [
+        "6bMul6rmRS03x38tWKYifO"
     ],
     "ethiopian jazz": [
         "7HGFXtBhRq3g1Ma3nH4Rgv"
+    ],
+    "funk rock": [
+        "0L8ExT028jH3ddEcZwqJJ5"
+    ],
+    "alternative rock": [
+        "0L8ExT028jH3ddEcZwqJJ5"
+    ],
+    "rock": [
+        "0L8ExT028jH3ddEcZwqJJ5"
+    ],
+    "new wave": [
+        "2x9SpqnPi8rlE9pjHBwmSC"
     ],
     "german indie": [
         "48dnHBivHwkMNSeKlNY6F4"
@@ -112,7 +109,10 @@
     "krautrock": [
         "48dnHBivHwkMNSeKlNY6F4"
     ],
-    "garage rock": [
-        "23NIwARd4vPbxt3wwNnJ6k"
+    "trip hop": [
+        "6FXMGgJwohJLUSr5nVlf9X"
+    ],
+    "downtempo": [
+        "6FXMGgJwohJLUSr5nVlf9X"
     ]
 }
