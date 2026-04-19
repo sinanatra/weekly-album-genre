@@ -1,64 +1,60 @@
 {
     "italian singer-songwriter": [
         "5tqh5HCdoXZ6JY1lwB8SuR",
-        "0j8bZPtWT5Nf60PEarotFf",
+        "2P0tlehD7Qa5j3zQvIGcbo",
         "0ErDKYNv448COBCNdnqYIm",
         "25MkkfEousyfp2eyh38FUl",
-        "7nrxF1ilcwJNHofGUfsC84",
-        "7eIqewR3PiwQDItf5G2SyV",
-        "19HiWVd2g0XyJstBsbW2Qm",
+        "0j8bZPtWT5Nf60PEarotFf",
+        "61r4cE4aoOD50wPNhQ5fF7",
         "4lianjyuR1tqf6oUX8kjrZ",
-        "2P0tlehD7Qa5j3zQvIGcbo",
-        "61r4cE4aoOD50wPNhQ5fF7"
-    ],
-    "afropop": [
-        "18RkLKfeoUgZflWv9os25W"
-    ],
-    "cha cha cha": [
-        "18RkLKfeoUgZflWv9os25W"
-    ],
-    "bossa nova": [
-        "1E5pLahwa4lUHQxHFlfkg5",
-        "5JYtpnUKxAzXfHEYpOeeit",
-        "6YJmIS23jxjp6Edi2zTPzn",
-        "5nriuBVz6NDh6k8gTU5WgP",
-        "1tP3R35TdPW8BMwmTPOoVZ"
-    ],
-    "mpb": [
-        "1E5pLahwa4lUHQxHFlfkg5",
-        "5JYtpnUKxAzXfHEYpOeeit",
-        "7uvxsk688pwnBNA62cTKS1",
-        "0i1s9WcIu0PrUvHzALgofo",
-        "1mZbRiSVb2ExneAlDbBiiT",
-        "1tP3R35TdPW8BMwmTPOoVZ"
-    ],
-    "brazilian jazz": [
-        "1E5pLahwa4lUHQxHFlfkg5",
-        "47UDFBXxSM6d5zbKvflXhv",
-        "5JYtpnUKxAzXfHEYpOeeit",
-        "6YJmIS23jxjp6Edi2zTPzn",
-        "7yQIkmHyeJUJSrH5qkmwgN",
-        "5nriuBVz6NDh6k8gTU5WgP",
-        "1mZbRiSVb2ExneAlDbBiiT",
-        "1tP3R35TdPW8BMwmTPOoVZ"
-    ],
-    "jazz funk": [
-        "47UDFBXxSM6d5zbKvflXhv",
-        "2Ex4vjQ6mSh5woTlDWto6d"
-    ],
-    "new mpb": [
-        "5Xx27g4aSstcsU3WF4waDC",
-        "7uvxsk688pwnBNA62cTKS1",
-        "6ijeN3MhwnbRfo86gH5McZ",
-        "4MF1QlpuvKRIfkmfOA4DrH",
-        "6wUEejDd6aQJtchKP5c7Q0"
+        "7eIqewR3PiwQDItf5G2SyV",
+        "7nrxF1ilcwJNHofGUfsC84",
+        "19HiWVd2g0XyJstBsbW2Qm"
     ],
     "samba": [
         "2qLU3VUpp3uV2Oyf786FC3",
         "5JYtpnUKxAzXfHEYpOeeit",
-        "0i1s9WcIu0PrUvHzALgofo",
         "6EH4BjCKPhFfbzFaErcbXI",
+        "0i1s9WcIu0PrUvHzALgofo",
         "5nriuBVz6NDh6k8gTU5WgP"
+    ],
+    "singer-songwriter": [
+        "2P0tlehD7Qa5j3zQvIGcbo",
+        "25MkkfEousyfp2eyh38FUl",
+        "4lianjyuR1tqf6oUX8kjrZ",
+        "2CvCyf1gEVhI0mX6aFXmVI",
+        "19HiWVd2g0XyJstBsbW2Qm"
+    ],
+    "mpb": [
+        "5JYtpnUKxAzXfHEYpOeeit",
+        "1mZbRiSVb2ExneAlDbBiiT",
+        "0i1s9WcIu0PrUvHzALgofo",
+        "1tP3R35TdPW8BMwmTPOoVZ",
+        "1E5pLahwa4lUHQxHFlfkg5",
+        "7uvxsk688pwnBNA62cTKS1"
+    ],
+    "bossa nova": [
+        "5JYtpnUKxAzXfHEYpOeeit",
+        "1tP3R35TdPW8BMwmTPOoVZ",
+        "6YJmIS23jxjp6Edi2zTPzn",
+        "1E5pLahwa4lUHQxHFlfkg5",
+        "5nriuBVz6NDh6k8gTU5WgP"
+    ],
+    "brazilian jazz": [
+        "5JYtpnUKxAzXfHEYpOeeit",
+        "1mZbRiSVb2ExneAlDbBiiT",
+        "1tP3R35TdPW8BMwmTPOoVZ",
+        "6YJmIS23jxjp6Edi2zTPzn",
+        "7yQIkmHyeJUJSrH5qkmwgN",
+        "47UDFBXxSM6d5zbKvflXhv",
+        "1E5pLahwa4lUHQxHFlfkg5",
+        "5nriuBVz6NDh6k8gTU5WgP"
+    ],
+    "italian trap": [
+        "0nKxW51VOD6px2uMM4ehfF"
+    ],
+    "pagode": [
+        "0i1s9WcIu0PrUvHzALgofo"
     ],
     "neomelodico": [
         "4eSMsVzRJHhN1aq0IvZcyn"
@@ -69,43 +65,18 @@
     "concerto": [
         "4eSMsVzRJHhN1aq0IvZcyn"
     ],
-    "jazz fusion": [
-        "2Ex4vjQ6mSh5woTlDWto6d"
-    ],
-    "city pop": [
-        "2Ex4vjQ6mSh5woTlDWto6d"
-    ],
-    "italo disco": [
-        "1RoRpJGQ2bVPfzYGoUr4fe",
-        "7eIqewR3PiwQDItf5G2SyV"
-    ],
-    "pagode": [
-        "0i1s9WcIu0PrUvHzALgofo"
-    ],
-    "singer-songwriter": [
-        "25MkkfEousyfp2eyh38FUl",
-        "2CvCyf1gEVhI0mX6aFXmVI",
-        "19HiWVd2g0XyJstBsbW2Qm",
-        "4lianjyuR1tqf6oUX8kjrZ",
-        "2P0tlehD7Qa5j3zQvIGcbo"
-    ],
     "classic rock": [
         "3WrFJ7ztbogyGnTHbHJFl2"
     ],
     "psychedelic rock": [
         "3WrFJ7ztbogyGnTHbHJFl2"
     ],
-    "blues": [
-        "06nsZ3qSOYZ2hPVIMcr1IN"
-    ],
-    "blues rock": [
-        "06nsZ3qSOYZ2hPVIMcr1IN"
-    ],
-    "roots rock": [
-        "06nsZ3qSOYZ2hPVIMcr1IN"
-    ],
-    "italian trap": [
-        "0nKxW51VOD6px2uMM4ehfF"
+    "new mpb": [
+        "6ijeN3MhwnbRfo86gH5McZ",
+        "4MF1QlpuvKRIfkmfOA4DrH",
+        "5Xx27g4aSstcsU3WF4waDC",
+        "6wUEejDd6aQJtchKP5c7Q0",
+        "7uvxsk688pwnBNA62cTKS1"
     ],
     "chamber music": [
         "1olD1wp8qt2IlnoHtZRmsC"
@@ -113,8 +84,34 @@
     "expressionism": [
         "1olD1wp8qt2IlnoHtZRmsC"
     ],
+    "afropop": [
+        "18RkLKfeoUgZflWv9os25W"
+    ],
+    "cha cha cha": [
+        "18RkLKfeoUgZflWv9os25W"
+    ],
+    "jazz fusion": [
+        "2Ex4vjQ6mSh5woTlDWto6d"
+    ],
+    "city pop": [
+        "2Ex4vjQ6mSh5woTlDWto6d"
+    ],
+    "jazz funk": [
+        "2Ex4vjQ6mSh5woTlDWto6d",
+        "47UDFBXxSM6d5zbKvflXhv"
+    ],
+    "grunge": [
+        "6olE6TJLqED3rqDCT0FyPh"
+    ],
+    "rock": [
+        "6olE6TJLqED3rqDCT0FyPh"
+    ],
     "gnawa": [
         "3mNygoyrEKLgo6sx0MzwOL"
+    ],
+    "italo disco": [
+        "7eIqewR3PiwQDItf5G2SyV",
+        "1RoRpJGQ2bVPfzYGoUr4fe"
     ],
     "new wave": [
         "2x9SpqnPi8rlE9pjHBwmSC"
@@ -125,10 +122,13 @@
     "fado": [
         "5fgtcrHICBqlrkHtSWWu0F"
     ],
-    "grunge": [
-        "6olE6TJLqED3rqDCT0FyPh"
+    "blues": [
+        "06nsZ3qSOYZ2hPVIMcr1IN"
     ],
-    "rock": [
-        "6olE6TJLqED3rqDCT0FyPh"
+    "blues rock": [
+        "06nsZ3qSOYZ2hPVIMcr1IN"
+    ],
+    "roots rock": [
+        "06nsZ3qSOYZ2hPVIMcr1IN"
     ]
 }
