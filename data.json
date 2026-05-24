@@ -1,4 +1,34 @@
 {
+    "gnawa": [
+        "2sf2owtFSCvz2MLfxmNdkb"
+    ],
+    "italian singer-songwriter": [
+        "25MkkfEousyfp2eyh38FUl",
+        "5RRPSRJpISAWEPOeSfYuhV",
+        "0ErDKYNv448COBCNdnqYIm",
+        "11TplWqOPQBTmg2eiSLt1m",
+        "19HiWVd2g0XyJstBsbW2Qm",
+        "2KftmGt9sk1yLjsAoloC3M",
+        "4MR6tQyIrWK82b56cYPBDv",
+        "54dqxLAclwu0QSaTwCyCaF",
+        "6q8f3fxaWqkXzkbxtKOzYF",
+        "0j8bZPtWT5Nf60PEarotFf",
+        "18cezosJ2J9c3XZ7uVmMf0",
+        "61r4cE4aoOD50wPNhQ5fF7",
+        "5tqh5HCdoXZ6JY1lwB8SuR",
+        "6FlxhoUGATC40TALMesaFM",
+        "3HL1CyOnDLFJo1Rr8YBlKy"
+    ],
+    "singer-songwriter": [
+        "25MkkfEousyfp2eyh38FUl",
+        "5hW4L92KnC6dX9t7tYM4Ve",
+        "5RRPSRJpISAWEPOeSfYuhV",
+        "19HiWVd2g0XyJstBsbW2Qm",
+        "74ASZWbe4lXaubB36ztrGX",
+        "6q8f3fxaWqkXzkbxtKOzYF",
+        "6FlxhoUGATC40TALMesaFM",
+        "3HL1CyOnDLFJo1Rr8YBlKy"
+    ],
     "folk": [
         "5hW4L92KnC6dX9t7tYM4Ve",
         "74ASZWbe4lXaubB36ztrGX"
@@ -6,70 +36,6 @@
     "folk rock": [
         "5hW4L92KnC6dX9t7tYM4Ve",
         "74ASZWbe4lXaubB36ztrGX"
-    ],
-    "singer-songwriter": [
-        "5hW4L92KnC6dX9t7tYM4Ve",
-        "19HiWVd2g0XyJstBsbW2Qm",
-        "6q8f3fxaWqkXzkbxtKOzYF",
-        "74ASZWbe4lXaubB36ztrGX",
-        "25MkkfEousyfp2eyh38FUl",
-        "5RRPSRJpISAWEPOeSfYuhV",
-        "3HL1CyOnDLFJo1Rr8YBlKy",
-        "6FlxhoUGATC40TALMesaFM"
-    ],
-    "post-punk": [
-        "23NIwARd4vPbxt3wwNnJ6k",
-        "2x9SpqnPi8rlE9pjHBwmSC",
-        "70MMkLXtue3Edj3RJhJkYp",
-        "3AmWjMXXtBJOmNGpUFSOAl"
-    ],
-    "indie rock": [
-        "23NIwARd4vPbxt3wwNnJ6k"
-    ],
-    "garage rock": [
-        "23NIwARd4vPbxt3wwNnJ6k"
-    ],
-    "alternative rock": [
-        "40Yq4vzPs9VNUrIBG5Jr2i"
-    ],
-    "rock": [
-        "40Yq4vzPs9VNUrIBG5Jr2i",
-        "6olE6TJLqED3rqDCT0FyPh"
-    ],
-    "italian singer-songwriter": [
-        "19HiWVd2g0XyJstBsbW2Qm",
-        "2KftmGt9sk1yLjsAoloC3M",
-        "6q8f3fxaWqkXzkbxtKOzYF",
-        "4MR6tQyIrWK82b56cYPBDv",
-        "0ErDKYNv448COBCNdnqYIm",
-        "18cezosJ2J9c3XZ7uVmMf0",
-        "54dqxLAclwu0QSaTwCyCaF",
-        "25MkkfEousyfp2eyh38FUl",
-        "5tqh5HCdoXZ6JY1lwB8SuR",
-        "5RRPSRJpISAWEPOeSfYuhV",
-        "3HL1CyOnDLFJo1Rr8YBlKy",
-        "11TplWqOPQBTmg2eiSLt1m",
-        "0j8bZPtWT5Nf60PEarotFf",
-        "61r4cE4aoOD50wPNhQ5fF7",
-        "6FlxhoUGATC40TALMesaFM"
-    ],
-    "math rock": [
-        "13NmOYYfvONNZ9mn2qn8P2"
-    ],
-    "baroque pop": [
-        "4I2BJf80C0skQpp1sQmA0h"
-    ],
-    "german indie": [
-        "48dnHBivHwkMNSeKlNY6F4"
-    ],
-    "neue deutsche welle": [
-        "48dnHBivHwkMNSeKlNY6F4"
-    ],
-    "german indie pop": [
-        "48dnHBivHwkMNSeKlNY6F4"
-    ],
-    "krautrock": [
-        "48dnHBivHwkMNSeKlNY6F4"
     ],
     "brazilian jazz": [
         "1tP3R35TdPW8BMwmTPOoVZ"
@@ -80,16 +46,28 @@
     "mpb": [
         "1tP3R35TdPW8BMwmTPOoVZ"
     ],
-    "italian trap": [
-        "7u710e44HW3K7A5eTnRqHC"
+    "yacht rock": [
+        "77tT1kLj6mCWtFNqiOmP9H"
     ],
-    "italo disco": [
-        "4MR6tQyIrWK82b56cYPBDv",
-        "77J3V0V7sEOf5ifCDBSNaJ",
-        "1RoRpJGQ2bVPfzYGoUr4fe"
+    "soft rock": [
+        "77tT1kLj6mCWtFNqiOmP9H"
     ],
-    "fado": [
-        "5fgtcrHICBqlrkHtSWWu0F"
+    "new wave": [
+        "2x9SpqnPi8rlE9pjHBwmSC",
+        "3AmWjMXXtBJOmNGpUFSOAl",
+        "70MMkLXtue3Edj3RJhJkYp"
+    ],
+    "post-punk": [
+        "2x9SpqnPi8rlE9pjHBwmSC",
+        "23NIwARd4vPbxt3wwNnJ6k",
+        "3AmWjMXXtBJOmNGpUFSOAl",
+        "70MMkLXtue3Edj3RJhJkYp"
+    ],
+    "indie rock": [
+        "23NIwARd4vPbxt3wwNnJ6k"
+    ],
+    "garage rock": [
+        "23NIwARd4vPbxt3wwNnJ6k"
     ],
     "proto-punk": [
         "1nJvji2KIlWSseXRSlNYsC",
@@ -99,9 +77,59 @@
         "1nJvji2KIlWSseXRSlNYsC",
         "7C4sUpWGlTy7IANjruj02I"
     ],
+    "baroque pop": [
+        "4I2BJf80C0skQpp1sQmA0h"
+    ],
+    "indie": [
+        "1WQY0Xovzegy0pJiOuuyRP"
+    ],
+    "french indie pop": [
+        "5VTWoYYizcOY3uIKnxeCGI"
+    ],
+    "french pop": [
+        "5VTWoYYizcOY3uIKnxeCGI"
+    ],
+    "french house": [
+        "5VTWoYYizcOY3uIKnxeCGI"
+    ],
+    "fado": [
+        "5fgtcrHICBqlrkHtSWWu0F"
+    ],
+    "italo disco": [
+        "4MR6tQyIrWK82b56cYPBDv",
+        "77J3V0V7sEOf5ifCDBSNaJ",
+        "1RoRpJGQ2bVPfzYGoUr4fe"
+    ],
     "roots rock": [
         "74ASZWbe4lXaubB36ztrGX",
         "06nsZ3qSOYZ2hPVIMcr1IN"
+    ],
+    "folk punk": [
+        "0rpMdBzQXf7aYRnu5fDBJy"
+    ],
+    "italian trap": [
+        "7u710e44HW3K7A5eTnRqHC"
+    ],
+    "neo soul": [
+        "2Mu5NfyYm8n5iTomuKAEHl"
+    ],
+    "funk rock": [
+        "3AmWjMXXtBJOmNGpUFSOAl"
+    ],
+    "punk": [
+        "3AmWjMXXtBJOmNGpUFSOAl",
+        "7oPftvlwr6VrsViSDV7fJY",
+        "3RGLhK1IP9jnYFH4BRFJBS"
+    ],
+    "alternative rock": [
+        "40Yq4vzPs9VNUrIBG5Jr2i"
+    ],
+    "rock": [
+        "40Yq4vzPs9VNUrIBG5Jr2i",
+        "6olE6TJLqED3rqDCT0FyPh"
+    ],
+    "grunge": [
+        "6olE6TJLqED3rqDCT0FyPh"
     ],
     "soul": [
         "3dkbV4qihUeMsqN4vBGg93"
@@ -115,45 +143,32 @@
     "soul blues": [
         "3dkbV4qihUeMsqN4vBGg93"
     ],
-    "indie": [
-        "1WQY0Xovzegy0pJiOuuyRP"
-    ],
     "bedroom pop": [
         "3zmfs9cQwzJl575W1ZYXeT"
     ],
     "indie pop": [
         "3zmfs9cQwzJl575W1ZYXeT"
     ],
-    "new wave": [
-        "2x9SpqnPi8rlE9pjHBwmSC",
-        "70MMkLXtue3Edj3RJhJkYp",
-        "3AmWjMXXtBJOmNGpUFSOAl"
+    "math rock": [
+        "13NmOYYfvONNZ9mn2qn8P2"
     ],
-    "folk punk": [
-        "0rpMdBzQXf7aYRnu5fDBJy"
+    "pop punk": [
+        "7oPftvlwr6VrsViSDV7fJY"
     ],
-    "trip hop": [
-        "5mMkUZv8uUrlH0SHX89BeS"
+    "german indie": [
+        "48dnHBivHwkMNSeKlNY6F4"
     ],
-    "neo soul": [
-        "2Mu5NfyYm8n5iTomuKAEHl"
+    "neue deutsche welle": [
+        "48dnHBivHwkMNSeKlNY6F4"
+    ],
+    "german indie pop": [
+        "48dnHBivHwkMNSeKlNY6F4"
+    ],
+    "krautrock": [
+        "48dnHBivHwkMNSeKlNY6F4"
     ],
     "electroclash": [
         "5l9wiTZVfqQTfMDOt0HtwC"
-    ],
-    "grunge": [
-        "6olE6TJLqED3rqDCT0FyPh"
-    ],
-    "punk": [
-        "3RGLhK1IP9jnYFH4BRFJBS",
-        "3AmWjMXXtBJOmNGpUFSOAl",
-        "7oPftvlwr6VrsViSDV7fJY"
-    ],
-    "gnawa": [
-        "2sf2owtFSCvz2MLfxmNdkb"
-    ],
-    "funk rock": [
-        "3AmWjMXXtBJOmNGpUFSOAl"
     ],
     "blues": [
         "06nsZ3qSOYZ2hPVIMcr1IN"
@@ -161,22 +176,7 @@
     "blues rock": [
         "06nsZ3qSOYZ2hPVIMcr1IN"
     ],
-    "pop punk": [
-        "7oPftvlwr6VrsViSDV7fJY"
-    ],
-    "yacht rock": [
-        "77tT1kLj6mCWtFNqiOmP9H"
-    ],
-    "soft rock": [
-        "77tT1kLj6mCWtFNqiOmP9H"
-    ],
-    "french indie pop": [
-        "5VTWoYYizcOY3uIKnxeCGI"
-    ],
-    "french pop": [
-        "5VTWoYYizcOY3uIKnxeCGI"
-    ],
-    "french house": [
-        "5VTWoYYizcOY3uIKnxeCGI"
+    "trip hop": [
+        "5mMkUZv8uUrlH0SHX89BeS"
     ]
 }
