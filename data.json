@@ -1,9 +1,27 @@
 {
-    "italian trap": [
-        "0nKxW51VOD6px2uMM4ehfF"
+    "italian singer-songwriter": [
+        "7sjeFi52xnDK82OfIhUOqU",
+        "2caOYPej26UoQOyFnzXW3G",
+        "7nrxF1ilcwJNHofGUfsC84",
+        "19HiWVd2g0XyJstBsbW2Qm",
+        "0ErDKYNv448COBCNdnqYIm",
+        "4ZbsxiS90Pj1gLeDv3A9mN",
+        "25MkkfEousyfp2eyh38FUl",
+        "2P0tlehD7Qa5j3zQvIGcbo",
+        "5tqh5HCdoXZ6JY1lwB8SuR",
+        "18cezosJ2J9c3XZ7uVmMf0",
+        "5l4nhyz8876RhgE2d18h65",
+        "6jKqcDpxUSl4gbjgc97L22"
     ],
-    "fado": [
-        "5fgtcrHICBqlrkHtSWWu0F"
+    "singer-songwriter": [
+        "7sjeFi52xnDK82OfIhUOqU",
+        "2caOYPej26UoQOyFnzXW3G",
+        "5c3GLXai8YOMid29ZEuR9y",
+        "19HiWVd2g0XyJstBsbW2Qm",
+        "25MkkfEousyfp2eyh38FUl",
+        "5hW4L92KnC6dX9t7tYM4Ve",
+        "2P0tlehD7Qa5j3zQvIGcbo",
+        "5l4nhyz8876RhgE2d18h65"
     ],
     "grunge": [
         "6olE6TJLqED3rqDCT0FyPh"
@@ -12,85 +30,23 @@
         "6olE6TJLqED3rqDCT0FyPh",
         "40Yq4vzPs9VNUrIBG5Jr2i"
     ],
-    "punk": [
-        "5LfGQac0EIXyAN8aUwmNAQ"
-    ],
-    "skate punk": [
-        "5LfGQac0EIXyAN8aUwmNAQ"
-    ],
-    "italian singer-songwriter": [
-        "7sjeFi52xnDK82OfIhUOqU",
-        "5l4nhyz8876RhgE2d18h65",
-        "19HiWVd2g0XyJstBsbW2Qm",
-        "7nrxF1ilcwJNHofGUfsC84",
-        "18cezosJ2J9c3XZ7uVmMf0",
-        "4ZbsxiS90Pj1gLeDv3A9mN",
-        "6jKqcDpxUSl4gbjgc97L22",
-        "2caOYPej26UoQOyFnzXW3G",
-        "5tqh5HCdoXZ6JY1lwB8SuR",
-        "2P0tlehD7Qa5j3zQvIGcbo",
-        "25MkkfEousyfp2eyh38FUl",
-        "0ErDKYNv448COBCNdnqYIm"
-    ],
-    "singer-songwriter": [
-        "7sjeFi52xnDK82OfIhUOqU",
-        "5l4nhyz8876RhgE2d18h65",
-        "19HiWVd2g0XyJstBsbW2Qm",
-        "5hW4L92KnC6dX9t7tYM4Ve",
-        "5c3GLXai8YOMid29ZEuR9y",
-        "2caOYPej26UoQOyFnzXW3G",
-        "2P0tlehD7Qa5j3zQvIGcbo",
-        "25MkkfEousyfp2eyh38FUl"
-    ],
-    "concerto": [
-        "5l4nhyz8876RhgE2d18h65",
-        "4ZbsxiS90Pj1gLeDv3A9mN"
-    ],
-    "indie": [
-        "1WQY0Xovzegy0pJiOuuyRP",
-        "1MBjY2JFotAGoTYDfO80cM"
+    "alternative rock": [
+        "40Yq4vzPs9VNUrIBG5Jr2i"
     ],
     "folk": [
-        "5hW4L92KnC6dX9t7tYM4Ve",
-        "5c3GLXai8YOMid29ZEuR9y"
-    ],
-    "folk rock": [
+        "5c3GLXai8YOMid29ZEuR9y",
         "5hW4L92KnC6dX9t7tYM4Ve"
     ],
-    "classic blues": [
-        "0f8MDDzIc6M4uH1xH0o0gy"
-    ],
-    "country blues": [
-        "0f8MDDzIc6M4uH1xH0o0gy"
-    ],
-    "blues": [
-        "0f8MDDzIc6M4uH1xH0o0gy"
-    ],
-    "blues rock": [
-        "0f8MDDzIc6M4uH1xH0o0gy"
+    "brazilian jazz": [
+        "1tP3R35TdPW8BMwmTPOoVZ",
+        "5rX2c1zow6hCph8PnnU3kF"
     ],
     "bossa nova": [
-        "5rX2c1zow6hCph8PnnU3kF",
-        "1tP3R35TdPW8BMwmTPOoVZ"
-    ],
-    "brazilian jazz": [
-        "5rX2c1zow6hCph8PnnU3kF",
-        "1tP3R35TdPW8BMwmTPOoVZ"
-    ],
-    "latin jazz": [
-        "5rX2c1zow6hCph8PnnU3kF"
-    ],
-    "vocal jazz": [
-        "5rX2c1zow6hCph8PnnU3kF"
-    ],
-    "adult standards": [
+        "1tP3R35TdPW8BMwmTPOoVZ",
         "5rX2c1zow6hCph8PnnU3kF"
     ],
     "mpb": [
         "1tP3R35TdPW8BMwmTPOoVZ"
-    ],
-    "samba": [
-        "2qLU3VUpp3uV2Oyf786FC3"
     ],
     "alt country": [
         "2QoU3awHVdcHS8LrZEKvSM"
@@ -101,8 +57,52 @@
     "indie rock": [
         "2QoU3awHVdcHS8LrZEKvSM"
     ],
+    "concerto": [
+        "4ZbsxiS90Pj1gLeDv3A9mN",
+        "5l4nhyz8876RhgE2d18h65"
+    ],
+    "fado": [
+        "5fgtcrHICBqlrkHtSWWu0F"
+    ],
+    "indie": [
+        "1WQY0Xovzegy0pJiOuuyRP",
+        "1MBjY2JFotAGoTYDfO80cM"
+    ],
+    "punk": [
+        "5LfGQac0EIXyAN8aUwmNAQ"
+    ],
+    "skate punk": [
+        "5LfGQac0EIXyAN8aUwmNAQ"
+    ],
+    "folk rock": [
+        "5hW4L92KnC6dX9t7tYM4Ve"
+    ],
+    "ambient jazz": [
+        "7FQiZr787umw7P5dO3zqld"
+    ],
     "baroque pop": [
         "4I2BJf80C0skQpp1sQmA0h"
+    ],
+    "latin jazz": [
+        "5rX2c1zow6hCph8PnnU3kF"
+    ],
+    "vocal jazz": [
+        "5rX2c1zow6hCph8PnnU3kF"
+    ],
+    "adult standards": [
+        "5rX2c1zow6hCph8PnnU3kF"
+    ],
+    "nu jazz": [
+        "6n6ot5JVa8YO9z82eNbvd8"
+    ],
+    "acid jazz": [
+        "6n6ot5JVa8YO9z82eNbvd8"
+    ],
+    "jazz funk": [
+        "6n6ot5JVa8YO9z82eNbvd8"
+    ],
+    "jazz fusion": [
+        "6n6ot5JVa8YO9z82eNbvd8"
     ],
     "old school hip hop": [
         "3Mcii5XWf6E0lrY3Uky4cA",
@@ -121,28 +121,28 @@
         "3Mcii5XWf6E0lrY3Uky4cA",
         "03r4iKL2g2442PT9n2UKsx"
     ],
+    "classic blues": [
+        "0f8MDDzIc6M4uH1xH0o0gy"
+    ],
+    "country blues": [
+        "0f8MDDzIc6M4uH1xH0o0gy"
+    ],
+    "blues": [
+        "0f8MDDzIc6M4uH1xH0o0gy"
+    ],
+    "blues rock": [
+        "0f8MDDzIc6M4uH1xH0o0gy"
+    ],
     "rap rock": [
         "03r4iKL2g2442PT9n2UKsx"
     ],
     "east coast hip hop": [
         "03r4iKL2g2442PT9n2UKsx"
     ],
-    "nu jazz": [
-        "6n6ot5JVa8YO9z82eNbvd8"
+    "samba": [
+        "2qLU3VUpp3uV2Oyf786FC3"
     ],
-    "acid jazz": [
-        "6n6ot5JVa8YO9z82eNbvd8"
-    ],
-    "jazz funk": [
-        "6n6ot5JVa8YO9z82eNbvd8"
-    ],
-    "jazz fusion": [
-        "6n6ot5JVa8YO9z82eNbvd8"
-    ],
-    "alternative rock": [
-        "40Yq4vzPs9VNUrIBG5Jr2i"
-    ],
-    "ambient jazz": [
-        "7FQiZr787umw7P5dO3zqld"
+    "italian trap": [
+        "0nKxW51VOD6px2uMM4ehfF"
     ]
 }
