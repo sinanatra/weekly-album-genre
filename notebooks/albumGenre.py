@@ -1,6 +1,4 @@
-from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
-import re
 import os
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
@@ -8,29 +6,24 @@ import time
 import json
 
 #url = "https://spotify-top.com/user/sinanatra"
-url = "https://musicalyst.com/user/sinanatra"
-
-req = Request(url, headers={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'})
-html_page = urlopen(req)
-
-soup = BeautifulSoup(html_page, "html.parser")
+#url = "https://musicalyst.com/user/sinanatra"
+url = "https://api.stats.fm/api/v1/users/sinanatra/top/artists?range="
 
 links = []
-for link in soup.findAll('a'):
-    try:
-        if "https://open.spotify.com/artist" in link.attrs["href"]:
-            links.append(link.attrs["href"].split("/")[-1])
-    except:
-        continue
+# weeks = last 4 weeks, months = last 6 months, lifetime = all time
+for time_range in ["weeks", "months", "lifetime"]:
+    req = Request(url + time_range, headers={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'})
+    data = json.loads(urlopen(req).read())
 
-# take data from the json
-script_tag = soup.find('script', id='__NEXT_DATA__')
-script_content = script_tag.string
-data = json.loads(script_content)
-page_props_data = data['props']['pageProps']['data']['artists']['short']
+    for item in data['items']:
+        # an artist can have several spotify ids, use the first
+        ids = item['artist']['externalIds'].get('spotify', [])
+        if ids:
+            links.append(ids[0])
 
-for link in page_props_data:
-    links.append(link['id'])
+# stop here and keep the old data.json if the profile came back empty
+if not links:
+    raise SystemExit("No artists found at %s. Is the profile still public?" % url)
 
 #print(len(links))
 
@@ -55,6 +48,10 @@ for id in list(set(links)):
         time.sleep(.5)
     except:
         continue
+
+# every spotify lookup failed (bad keys?): keep the old data.json
+if not dictionary:
+    raise SystemExit("No genres found. Are the Spotify keys still valid?")
 
 
 out = open('data.json', 'w') 
