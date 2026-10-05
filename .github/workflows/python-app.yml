@@ -46,7 +46,6 @@ jobs:
         commit_user_name: Giacomo Nanni Bot
         commit_user_email: actions@github.com
         commit_author: Author <actions@github.com>
-        push_options: '--force'
 
     - name: Set up Node
       uses: actions/setup-node@v4
@@ -59,6 +58,7 @@ jobs:
     - name: Upload Pages artifact
       uses: actions/upload-pages-artifact@v3
       with:
+        name: github-pages-${{ github.run_attempt }}
         path: dist/
 
   deploy:
@@ -71,3 +71,5 @@ jobs:
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v4
+      with:
+        artifact_name: github-pages-${{ github.run_attempt }}
