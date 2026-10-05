@@ -3,6 +3,12 @@
 
   const DATA_URL = 'https://raw.githubusercontent.com/sinanatra/weekly-album-genre/master/data.json';
 
+  const lastUpdated = new Date(__BUILD_DATE__).toLocaleDateString('en-GB', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+  });
+
   let genres = [];
   let sorted = false;
   let activeGenre = null;
@@ -73,7 +79,8 @@
 <div>
   <p>
     This website shows the artists I listen to most in the current week.<br>
-    And <button class="sort" on:click={toggleSort}>Sorts</button> them by the most frequent genres.
+    And <button class="sort" on:click={toggleSort}>Sorts</button> them by the most frequent genres.<br>
+    Last updated on {lastUpdated}.
   </p>
 </div>
 
